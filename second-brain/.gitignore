@@ -1,0 +1,31 @@
+# System
+.DS_Store
+.Trash/
+*.swp
+*.swo
+*~
+
+# Local only (if needed)
+.env
+.env.local
+
+# Obsidian (keep it private if you prefer)
+# .obsidian/
+
+# Firecrawl scrapes (outside vault — from parent dir)
+../.CFUserTextEncoding
+../.DS_Store
+../.agents/
+../.cache/
+../.claude.json
+../.claude/
+../.config/
+../.cursor/
+../.firecrawl/
+../.kimi-webbridge/
+../.local/
+../.npm/
+../.ollama/
+../.zprofile
+../.zsh_history
+../.zsh_sessions/

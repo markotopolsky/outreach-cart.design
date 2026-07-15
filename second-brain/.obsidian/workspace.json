@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "9acc2496ab01a560",
+    "type": "split",
+    "children": [
+      {
+        "id": "31ab7a674c555f5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5996435df4809f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "log"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5da0d06ca943cd30",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b3637abc8e86bf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "342bbde1fcc0a956",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b5308594f0de7b0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "501345fb5322c628",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "371f02d307536d4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f83adf7ad2969a22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "030d71f81a231454",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "c8e5a97666fc6768",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "ff54c25626a895be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2290b5c40fc0fa11",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8b41ec330f86dbd2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f5996435df4809f4",
+  "lastOpenFiles": [
+    "dh/visual-raw-notes/Raw.md",
+    "dh/commerce-raw-notes/Raw.md",
+    "dh/verbal-raw-notes/Raw.md",
+    "dh/visual-raw-notes",
+    "dh/verbal-raw-notes",
+    "dh/commerce-raw-notes",
+    "dh",
+    "CLAUDE.md",
+    "wiki/topics/cold-outreach-manual.md",
+    "wiki/topics/konkurencia-fitnessmenu.md",
+    "wiki/projects/optimistic-soap.md",
+    "wiki/projects/fitnessmenu.md",
+    "wiki/projects/saint-jewellry.md",
+    "second-brain-merge/other/free claude.md",
+    "second-brain-merge",
+    "second-brain-merge/other/h.md",
+    "raw/cart.design/flow-outreach.md",
+    "index.md",
+    "wiki/projects/darcekove-kytice.md",
+    "wiki/projects/disciple-designed.md",
+    "wiki/feedback/flow-feedback.md",
+    "wiki/feedback/outreach-day-2026-07-15.md",
+    "wiki/projects/cold-outreach-pipeline.md",
+    "wiki/feedback",
+    "wiki/outreach/outreach-batch-4.md",
+    "wiki/outreach/outreach-links.md",
+    "wiki/outreach/outreach-batch-3.md",
+    "wiki/outreach/outreach-batch-2.md",
+    "wiki/outreach/outreach-batch-1.md",
+    "wiki/outreach/disciple-designed.md",
+    "wiki/outreach/cold-outreach-pipeline.md",
+    "wiki/outreach/biorythme.md",
+    "wiki/outreach",
+    "second-brain-merge/dh/visual-raw-notes",
+    "second-brain-merge/dh/verbal-raw-notes",
+    "second-brain-merge/dh/commerce-raw-notes",
+    "raw/cart.design/Fitnessmenu/FitnessMenu-demo-feedback/Images/Pasted image 20260706155424.png",
+    "raw/cart.design/Fitnessmenu/FitnessMenu-demo-feedback/Images/Pasted image 20260706155352.png",
+    "raw/cart.design/Fitnessmenu/FitnessMenu-demo-feedback/Images/Pasted image 20260706155304.png",
+    "raw/cart.design/Fitnessmenu/FitnessMenu-demo-feedback/Images/Pasted image 20260706154905.png",
+    "raw/cart.design/Fitnessmenu/FitnessMenu-demo-feedback/Images/Pasted image 20260706154808.png",
+    "raw/cart.design/Fitnessmenu/FitnessMenu-demo-feedback/Images/Pasted image 20260706133116.png",
+    "raw/cart.design/Fitnessmenu/FitnessMenu-demo-feedback/Images/Pasted image 20260706133113.png",
+    "raw/cart.design/Fitnessmenu/FitnessMenu-demo-feedback/Images/Pasted image 20260706132950.png",
+    "raw/cart.design/Fitnessmenu/FitnessMenu-demo-feedback/Images/Pasted image 20260706132842.png",
+    "raw/cart.design/Fitnessmenu/FitnessMenu-demo-feedback/Images/Pasted image 20260706132709.png"
+  ]
+}

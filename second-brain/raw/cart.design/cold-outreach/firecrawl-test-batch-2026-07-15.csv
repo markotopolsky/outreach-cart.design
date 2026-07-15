@@ -1,0 +1,30 @@
+nazov,url,typ,stav_eshopu,poznamky
+Plain,https://www.plain.sk/,handmade / kreativne veci,aktivny e-shop,Ma kosik funkciu - nie je cielovy zakaznik pre novy e-shop
+Handmade Tvorba,https://handmadetvorba.sk/,marketplace pre viac tvorcov,aktivny e-shop,Vyzera ako agregator/marketplace - nie individualny predajca
+Karolka,https://www.karolka.sk/,handmade,aktivny e-shop,Kosik funkcia potvrdena viacnasobne
+Mliecne remeslo,https://mliecneremeslo.sk/,remeslo,pravdepodobne bez e-shopu,Ziadna zmienka o kosiku/objednavke - kandidat na overenie cez Kimi WebBridge
+Remeslo PP,https://www.remeslopp.sk/,remeslo,aktivny e-shop,Cookie text spomina "vkladanie tovaru do kosika" - ma e-shop
+Zvarex Slovakia,http://www.zvarexslovakia.sk/,remeslo/zvaracske sluzby,aktivny e-shop,Ma samostatny e-shop na zvarex.sk
+Dekupaz,https://www.dekupaz.sk/,kreativne potreby,neoverene,Scrape vratil vela nezmyselnych datumov (2050-2099) - pravdepodobne date-picker widget, obsah nedostatocne overeny
+Prehobby,https://www.prehobby.sk/,kreativne potreby,aktivny e-shop,Explicitne uvadza spracovanie objednavok, velkosklad
+Kreativne ruky,https://www.kreativneruky.sk/,kreativne potreby,aktivny e-shop,Kosik potvrdeny
+Kreativny obchod,https://www.kreativnyobchod.sk/,kreativne potreby,aktivny e-shop,Aktivne spracovava objednavky (text o oneskoreni objednavok)
+Biela Duha,https://www.bieladuha.sk/,kreativne potreby,pravdepodobne aktivny e-shop,Ma Akcie/Novinky navigaciu typicku pre e-shop, ale kosik nenajdeny v scrape - overit
+Kreativny Raj,https://www.kreativnyraj.sk/,kreativne potreby,aktivny e-shop,Kosik potvrdeny viacnasobne
+Ladybead Jewelry,https://ladybeadjewelry.sk/,sperky,SCRAPE ZLYHAL,Timeout - potrebuje re-scrape alebo Kimi WebBridge
+AP Jewellery,https://apjewellery.sk/,sperky,aktivny e-shop,Kosik potvrdeny
+Bounty Boho,https://bountyboho.sk/,sperky/boho doplnky,aktivny e-shop,Kosik potvrdeny
+Zlatokov,https://zlatokov.sk/,sperky,aktivny e-shop,Zavedeny e-shop, pravdepodobne uz etablovana znacka
+Harakka,https://harakka.eu/,sperky,aktivny e-shop,Kosik potvrdeny
+Kredum,https://www.kredum.eu/,sperky,aktivny e-shop,Kosik potvrdeny
+The Aceramics,https://www.theaceramics.sk/,keramika,aktivny e-shop,Kosik potvrdeny
+ZuzuArt,https://www.zuzuart.sk/,keramika (rucne vyrabana),aktivny e-shop,Explicitne "Vas nakupny kosik je prazdny" - plnohodnotny e-shop
+Umelecka keramika,https://www.umelecka-keramika.sk/,keramika,pravdepodobne aktivny e-shop,Ma "Ako nakupovat" a prihlasenie zakaznika - pravdepodobne funkcny e-shop, ale ziadny explicitny kosik v scrape
+AC keramika,https://www.ackeramika.sk/,keramika (hrncirska dielna),bez e-shopu,Iba portfolio/kontakt navigacia - Hrnciarska dielna, Suveniry, Hlinenky FOLK, ziadny obchod/kosik - dobry kandidat
+Keramika Zitka,https://www.keramikazitka.sk/,keramika,aktivny e-shop,Kosik potvrdeny viacnasobne
+Majolika,https://www.majolika.sk/,keramika (tradicna),aktivny e-shop,Explicitny odkaz "E-shop" v navigacii
+Vyrobky Elha,https://www.vyrobkyelha.sk/,drevene vyrobky,aktivny e-shop,Kosik potvrdeny
+Drevozet,https://drevozet.sk/,drevene vyrobky,aktivny e-shop,Kosik potvrdeny
+Drevene vyrobky,https://www.drevenevyrobky.sk/,drevene vyrobky,aktivny e-shop,Kosik potvrdeny
+Ciste drevo,https://www.cistedrevo.sk/,drevene vyrobky,aktivny e-shop,Kosik potvrdeny (13x)
+Woodchuck,https://www.woodchuck.sk/,drevene vyrobky,aktivny e-shop,Kosik potvrdeny
