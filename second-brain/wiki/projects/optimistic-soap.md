@@ -22,7 +22,15 @@ Molly, handmade mydlová značka z Portlandu, **229K followers**. Prvá reakcia 
 
 1. **Otvárač** (brand-first, Wix-at-scale otázka) — odoslaný.
 2. **Molly reagovala 15.7.** — dlhá, priateľská, vtipná odpoveď.
-3. **Fáza 2 (pitch) odoslaná 15.7.** — vtip → empatia k Wix bugu → transparentný pitch (custom code) → P.S. Nathan. Čaká sa na odpoveď.
+3. **Fáza 2 (pitch) odoslaná 15.7.** — vtip → empatia k Wix bugu → transparentný pitch (custom code) → P.S. Nathan.
+4. **Molly pitch zdvorilo ODMIETLA 15.7.:** „Thanks for the offer! I am good with the too many choices I already have though! And will do!" — námietka = rozhodovacia únava („too many choices"), nie cena. „Will do" = pozdraví Nathana.
+5. **Push follow-up s call CTA odoslaný 15.7.** (Markovo rozhodnutie skúsiť to napriek odporúčaniu graceful exit):
+
+> Ha, fair — but this is actually the opposite of another choice 😄 The whole point is that the doing stops being your job: you hand me your products and logins, I handle the rest. No time needed on your side — and it usually comes out cheaper than Shopify + the app stack anyway.
+>
+> 20-min call, zero prep on your side? I'll ask a few questions and tell you straight what it'd take and cost. Worst case, one fewer thing on the "someday" list 🧼
+
+Logika: prerámovanie námietky („opposite of another choice"), nula práce pre ňu (jej hlavná bolesť = čas), cena až tretí argument (Shopify app stack), malý ohraničený call. **Ak nezareaguje / odmietne znova → žiadny ďalší push**; dlhodobý touch o pár mesiacov („still double hosting? 😄").
 
 ## Kľúčové fakty z jej reakcie
 
@@ -34,7 +42,8 @@ Molly, handmade mydlová značka z Portlandu, **229K followers**. Prvá reakcia 
 
 ## Ďalší krok
 
-- [ ] Čakať na reakciu na fázu 2; ak pozitívna → poslať konkrétne „ako by odchod z Wixu vyzeral".
+- [ ] Čakať na reakciu na push follow-up; ak kývne na call → pripraviť otázky (90 % pýtať sa, nepredvádzať — [[cold-outreach-manual]]).
+- [ ] Ak druhé nie / ticho → uzavrieť ako dlhodobý lead, touch ~10/2026.
 - [ ] Zvážiť Nathan / Clover Soapworks ako nový lead do [[cold-outreach-pipeline]].
 
 ## Poznámky

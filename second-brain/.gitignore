@@ -29,3 +29,6 @@
 ../.zprofile
 ../.zsh_history
 ../.zsh_sessions/
+
+# Firecrawl scrapes
+.firecrawl/

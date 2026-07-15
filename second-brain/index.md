@@ -21,7 +21,7 @@ Katalóg celého vaultu. Schéma a pravidlá: [[CLAUDE|CLAUDE.md]] · História:
 
 - [[cold-outreach-pipeline]] — centrálny tracking cold outreach prospektov (cart.design); **active** — cieľ 1. vlny: ~20 mailov + zber dát
 - [[outreach-batch-1]] — prvých 5 EN otváračov, fakty overené 15.7. (LadyBuQ, Topolski, iamrachel, Creations That Rock, Pierre Laborde); **active**
-- [[outreach-batch-2]] — 12 EN otváračov, tech-first/brand-first experiment (6+6); **active** — 1. reakcia: Optimistic Soap (Molly) 15.7., fáza 2 poslaná
+- [[outreach-batch-2]] — 12 EN otváračov, tech-first/brand-first experiment (6+6); **active** — 1. reakcia: Optimistic Soap (Molly) 15.7. → pitch odmietla, push follow-up poslaný (detail v [[optimistic-soap]])
 - [[outreach-batch-3]] — 6 SK IG otváračov (leady bez e-shopu), hooky z postov/komentárov overené 15.7.; **active** — 2 reakcie v 1. deň (saint.jewellry beží, darcekove_kytice mŕtve)
 - [[outreach-batch-4]] — 2 SK e-mail otvárače z e-shop listu (AC keramika 8/68 na sashe, Umelecká keramika svojpomocný web); **active** — odoslané 15.7.
 - [[outreach-links]] — tabuľka IG + web odkazov pre všetkých 38 leadov (na použitie s Claude in Chrome)

@@ -43,7 +43,7 @@ Centrálny prehľad všetkých prospektov. Cieľ prvej vlny: **~20 mailov**, zbe
 | Hazel Hand Engraving | IG DM | brand-first: hand-push engraving | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-2]]) |
 | Jake Newell | IG DM | brand-first: backlog "not accepting work" | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-2]]) |
 | DoubleK Custom Leathercraft | IG DM | brand-first: niche remeslo (tack) | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-2]]) |
-| Optimistic Soap | IG DM | brand-first: 229K obdiv (prerobené) | 2026-07-15 | — | **2026-07-15** — dlhá, otvorená; sama: rok „prechádza" na Shopify, platí double hosting, Wix billing bug | **reagovala** — fáza 2 poslaná 15.7. ([[outreach-batch-2]]) |
+| Optimistic Soap | IG DM | brand-first: 229K obdiv (prerobené) | 2026-07-15 | — | **2026-07-15** — dlhá, otvorená; sama: rok „prechádza" na Shopify, platí double hosting, Wix billing bug | **reagovala** — pitch zdvorilo odmietla („too many choices"), push follow-up s call CTA poslaný 15.7. ([[optimistic-soap]]) |
 | saint.jewellry | IG DM | spiaci účet + sashe 0/81 | 2026-07-15 | — | **2026-07-15** — pýta fotku šperku | **reagovala** — fáza 2 poslaná ([[outreach-batch-3]]) |
 | darcekove_kytice | IG DM | DM objednávkový chaos | 2026-07-15 | — | 2026-07-15 — pitch odmietnutý | **mŕtve** ([[outreach-batch-3]]) |
 | handmadebyluvela | IG DM | obsah bez predajného miesta | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-3]]) |

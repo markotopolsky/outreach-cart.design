@@ -105,3 +105,6 @@ Pridané foldre `wiki/outreach/` (pipeline + batch-1..4 + links + prospekti bior
 
 ## [2026-07-15] refactor | teplé leady povýšené do projects/
 Do `wiki/projects/` pridaní všetci, čo odpísali a majú s nami komunikáciu: [[disciple-designed]] (presunutý z outreach/), nové entity stránky [[optimistic-soap]] (Molly, fáza 2 odoslaná), [[saint-jewellry]] (reagovala, odpoveď pripravená), [[darcekove-kytice]] (reagovala, odmietla → done/mŕtve). Batch-2/#12 a batch-3/#2,#5 dostali odkaz na svoje lead stránky (jeden zdroj, prepojené). Index sekcia Projekty rozšírená (deals + teplé leady), disciple-designed odobraný z outreach sekcie. Pravidlo: prospekt povýši z outreach/ do projects/ keď reálne odpovie.
+
+## [2026-07-15] ingest | Optimistic Soap: pitch odmietnutý, push follow-up poslaný
+Molly pitch zdvorilo odmietla („too many choices"). Marko poslal push follow-up: prerámovanie + nula práce + lacnejšie + 20-min call CTA. Ak nič → žiadny ďalší push, dlhodobý touch ~10/2026. Aktualizované: optimistic-soap, cold-outreach-pipeline, index. (Pozn.: prispôsobené novej folder štruktúre wiki/outreach + wiki/projects per-prospekt.)
