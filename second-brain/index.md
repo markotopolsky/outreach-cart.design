@@ -7,9 +7,9 @@ Katalóg celého vaultu. Schéma a pravidlá: [[CLAUDE|CLAUDE.md]] · História:
 ### Projekty (`wiki/projects/`) — reálne deals + teplé leady (kto nám odpísal)
 
 - [[fitnessmenu]] — súťaž o eshop FitnessMenu pre Borisa (cart.design); **waiting** — čaká sa na Borisov návrat z dovolenky
-- [[disciple-designed]] — Jacob (koža, 466K IG); **active** — reagoval 19.6., follow-up pripravený
-- [[optimistic-soap]] — Molly (mydlá, 229K IG); **active** — reagovala 15.7., fáza 2 (pitch) odoslaná
-- [[saint-jewellry]] — SK šperkárka (1.4K IG); **active** — reagovala 15.7., odpoveď pripravená
+- [[disciple-designed]] — Jacob (koža, 466K IG); **active** — reagoval 19.6., follow-up odoslaný 15.7., čaká sa
+- [[optimistic-soap]] — Molly (mydlá, 229K IG); **done** — po push follow-upe 15.7. definitívne odmietla (informované nie: chce Shopify integrácie)
+- [[saint-jewellry]] — SK šperkárka (1.4K IG); **active** — fáza 2 odoslaná 15.7., seen, bez odpovede
 - [[darcekove-kytice]] — SK darčekové kytice (2.1K IG); **done** — reagovala, po pitchi odmietla (mŕtve, ponechané ako dátový bod)
 
 ### Ľudia (`wiki/people/`)

@@ -47,6 +47,7 @@ second-brain/
 
 - **Grounding:** every claim in the wiki traces to a source. Each page ends with a `## Zdroje` section listing the raw files it draws from. Mark uncertainty explicitly (`Markov subjektívny pocit`, `neoverené`). When a new source contradicts an existing claim, don't silently overwrite — note the contradiction with dates.
 - **Dates matter:** this vault tracks live deals. Timestamp facts (`k 2026-07-06`) so stale claims are detectable.
+- **Client communication:** every lead/project page with a live conversation carries a `## Komunikácia` section — a full verbatim transcript (date + who + exact text), appended as new messages happen. Transcripts can be pulled from Instagram DMs via Kimi WebBridge (browser) or pasted by Marko; note the retrieval date and method. The summary lives in `## Stav konverzácie`; the transcript is the ground truth.
 
 ## Workflows
 

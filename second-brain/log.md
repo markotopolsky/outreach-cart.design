@@ -108,3 +108,6 @@ Do `wiki/projects/` pridaní všetci, čo odpísali a majú s nami komunikáciu:
 
 ## [2026-07-15] ingest | Optimistic Soap: pitch odmietnutý, push follow-up poslaný
 Molly pitch zdvorilo odmietla („too many choices"). Marko poslal push follow-up: prerámovanie + nula práce + lacnejšie + 20-min call CTA. Ak nič → žiadny ďalší push, dlhodobý touch ~10/2026. Aktualizované: optimistic-soap, cold-outreach-pipeline, index. (Pozn.: prispôsobené novej folder štruktúre wiki/outreach + wiki/projects per-prospekt.)
+
+## [2026-07-15] ingest | IG DM prepisy leadov (Kimi WebBridge)
+Stiahnuté 4 vlákna z Instagramu (markotopolsky): optimistic-soap, saint.jewellry, darcekove_kytice, disciple-designed. Do každej lead stránky pridaná sekcia „Komunikácia" s plným prepisom. Nové fakty: Molly definitívne odmietla (status done), saint.jewellry fáza 2 odoslaná + seen, Jacobovi follow-up odoslaný 15.7. Aktualizované: 4 projekty, index.md, CLAUDE.md (konvencia Komunikácia).

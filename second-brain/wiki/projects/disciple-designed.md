@@ -31,6 +31,12 @@ Jacob, one-man leather shop. **Prvý reálny respondent v celej pipeline** — o
 
 **Potom ticho ~1 mesiac (z Markovej strany).**
 
+**2026-07-15 ~13:07 — Marko (follow-up, ODOSLANÝ — overené v IG DM 15.7. večer):**
+
+> Honestly fair answer — the family-margin logic makes total sense, and the LV point checks out. It got me thinking about the other side of it though: with a wait that long, there's a whole line of people ready to pay who just have nowhere to go. That's the kind of thing a shop setup could actually solve — deposits, waitlist, pre-orders. Is that something you've ever thought about doing with the site?
+
+*(Zatiaľ bez odpovede k 15.7. večer. Poznámka: čas 13:07 je z IG UI bez dátumovej hlavičky — s najväčšou pravdepodobnosťou odoslané 15.7.)*
+
 ## Čo z odpovede vyplýva (analýza)
 
 1. **Margin-conscious a rozmýšľa strategicky** — ceny zvýšil vedome na „reasonable maximum". Biznisman, nie len remeselník.
@@ -38,11 +44,9 @@ Jacob, one-man leather shop. **Prvý reálny respondent v celej pipeline** — o
 3. **Dátovo zdatný** — LV štatistiku (89 % revenue od strednej triedy) vytiahol z hlavy. Nepodceňovať, nepoučovať.
 4. **Neodpovedal na druhú polovicu otázky** — obhájil *cenu*, ale nie *rok čakania*. Tam je otvor pre cart.design: waitlist = nezachytený dopyt, žiadne zálohy, odchádzajúci zákazníci.
 
-## Pripravený follow-up (k 2026-07-15, neodoslaný)
+## Follow-up (odoslaný 2026-07-15, čaká sa na odpoveď)
 
-Stratégia: žiadne „sorry for the late reply" / „just following up". Vrátiť sa ako človek, ktorému odpoveď stála za premýšľanie. Uznať jeho pointu (LV — nech „vyhral"), otvoriť nezodpovedanú polovicu. Stále bez pitchu.
-
-> Honestly fair answer  the family-margin logic makes total sense, and the LV point checks out. It got me thinking about the other side of it though: with a wait that long, there's a whole line of people ready to pay who just have nowhere to go. That's the kind of thing a shop setup could actually solve  deposits, waitlist, pre-orders. Is that something you've ever thought about doing with the site?
+Stratégia: žiadne „sorry for the late reply" / „just following up". Vrátiť sa ako človek, ktorému odpoveď stála za premýšľanie. Uznať jeho pointu (LV — nech „vyhral"), otvoriť nezodpovedanú polovicu. Stále bez pitchu. Plné znenie v prepise vyššie.
 
 Logika (Markovo zadanie: nehádať sa, komunikovať): plne uznať obe jeho pointy → ľahký re-think trigger („rad ľudí pripravených platiť, ktorí nemajú kam ísť" = jeho príležitosť, nie kritika) → malá konkrétna otázka na eshop (deposits/waitlist/pre-orders), ktorá otvára dvere k pitchu bez pitchovania.
 
@@ -53,6 +57,6 @@ Logika (Markovo zadanie: nehádať sa, komunikovať): plne uznať obe jeho point
 
 ## Zdroje
 
-- IG DM konverzácia Marko ↔ Jacob (vložená Markom 2026-07-15, prepis vyššie)
+- IG DM vlákno markotopolsky ↔ @discipledesignedleather, overené a doplnené 2026-07-15 cez Kimi WebBridge (prepis vyššie)
 - `raw/cart.design/cold-outreach/Cart Leads - Sheet1.csv` (riadok Disciple Designed)
 - [[outreach-batch-2]], [[cold-outreach-pipeline]]
