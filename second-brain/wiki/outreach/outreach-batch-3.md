@@ -2,7 +2,7 @@
 type: project
 status: active
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-07-16
 aliases: [Outreach batch 3, SK IG batch]
 tags: [cart-design, cold-outreach, sales, slovensko]
 ---
@@ -25,6 +25,8 @@ Prvá **slovenská** dávka. 7 leadov z [[cold-outreach-pipeline]] (sekcia SK tr
 
 **Prečo by mal zareagovať:** pomenúva frustráciu, ktorú žije práve teraz (ručné odpovedanie na cenové dotazy pri 25K publiku), bez náznaku predaja.
 -> nedalo sa, nemozem ju
+
+**KOREKCIA 16.7.:** poznámka „nedá sa osloviť" (15.7.) je prekonaná — Marko ju 15.7. o 15:17 oslovil vlastným improvizovaným otváračom (nie variantom A/B) a **reagovala**: žiadny e-shop, objednávky v DM, a sama sa spýtala **„A ako by som mala riešiť?"** + „90percent robím na mieru". Najhorúcejší SK lead. Detail: [[by-alisha]] (promovaná do `projects/`).
 ### 2. darcekove_kytice (darčekové kytice, 2.1K followers)
 → **Vlastná lead stránka: [[darcekove-kytice]]** (promovaná do `projects/`, stav: mŕtve).
 
@@ -78,6 +80,8 @@ Prvá **slovenská** dávka. 7 leadov z [[cold-outreach-pipeline]] (sekcia SK tr
 
 **Prečo by mala zareagovať:** otázka znie ako od zákazníčky; odpoveď prirodzene otvorí tému, ako predáva.
 
+**REAGOVALA 15.7. 20:12:** presne ako zákazníkovi — robí na zákazku aj hotové kusy, je na dovolenke, **v pondelok 20.7. pošle fotky dostupných šperkov**. Opakuje sa vzorec darcekove_kytice (poznatok #2) — fáza 2 potrebuje priznanie, ideálne pred pondelkom. Detail: [[sperky-richterova]] (promovaná do `projects/`).
+
 ### 7. mc_remeselnik (elektrikár/kamerové systémy, 367 followers) — ODLIŠNÝ ICP
 
 **Hook (overený 15.7.):** Posledný post 82 týždňov starý (kamerové systémy). Služby, nie produkty — nepotrebuje e-shop, ale web s dopytovým formulárom. **Nesedí na cart.design ICP** (handmade makers) — skôr merge.build typ klienta (web pre remeselníka).
@@ -86,15 +90,17 @@ Prvá **slovenská** dávka. 7 leadov z [[cold-outreach-pipeline]] (sekcia SK tr
 
 ## Súhrn na odoslanie
 
-| Poradie | Lead | Kanál | Hook typ | Riziko |
+| Poradie | Lead | Kanál | Hook typ | Stav (k 16.7. ráno) |
 |---|---|---|---|---|
-| 1 | by_alisha.sk | IG DM | demand leak (8× "cena?") | **nedá sa osloviť — DM nedostupné (15.7.)** |
+| 1 | by_alisha.sk | IG DM | demand leak (8× "cena?") | **REAGOVALA 15.7.** — sama sa pýta „ako riešiť?" → [[by-alisha]] *(korekcia: „DM nedostupné" z 15.7. neplatí)* |
 | 2 | darcekove_kytice | IG DM | DM objednávkový chaos | **mŕtve** — fáza 2 odmietnutá 15.7. |
-| 3 | handmadebyluvela | IG DM | obsah bez predajného miesta | nízke — malé publikum, ale kvalita |
-| 4 | badynco | IG DM | zľavy bez dosahu | stredné — pasívny účet |
-| 5 | saint.jewellry | IG DM | spiaci účet | **REAGOVALA 15.7.** — odpoveď pripravená |
-| 6 | sperkyrichterovahandmade | IG DM | zákazková tvorba bez katalógu | stredné — FB publikum |
+| 3 | handmadebyluvela | IG DM | obsah bez predajného miesta | oslovená 15.7., bez reakcie |
+| 4 | badynco | IG DM | zľavy bez dosahu | oslovený 15.7., bez reakcie |
+| 5 | saint.jewellry | IG DM | spiaci účet | **REAGOVALA 15.7.** — fáza 2 seen, bez odpovede → [[saint-jewellry]] |
+| 6 | sperkyrichterovahandmade | IG DM | zákazková tvorba bez katalógu | **REAGOVALA 15.7.** — ako zákazníkovi, foto v pondelok → [[sperky-richterova]] |
 | — | mc_remeselnik | — | — | vyradený (iný ICP → merge.build) |
+
+**Skóre dávky k 16.7. ráno: 4 reakcie / 6 oslovených (67 %).**
 
 **Pravidlo z manuálu:** pred odoslaním každej správy over hook v deň odoslania (povel „over batch") — komenty mohli byť medzitým zodpovedané, posty zmazané.
 

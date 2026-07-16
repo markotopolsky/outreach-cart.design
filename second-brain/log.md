@@ -111,3 +111,23 @@ Molly pitch zdvorilo odmietla („too many choices"). Marko poslal push follow-u
 
 ## [2026-07-15] ingest | IG DM prepisy leadov (Kimi WebBridge)
 Stiahnuté 4 vlákna z Instagramu (markotopolsky): optimistic-soap, saint.jewellry, darcekove_kytice, disciple-designed. Do každej lead stránky pridaná sekcia „Komunikácia" s plným prepisom. Nové fakty: Molly definitívne odmietla (status done), saint.jewellry fáza 2 odoslaná + seen, Jacobovi follow-up odoslaný 15.7. Aktualizované: 4 projekty, index.md, CLAUDE.md (konvencia Komunikácia).
+
+## [2026-07-16] ingest | IG inbox prepis ig-status167 — 6 nových reakcií
+5 nových reakcií z 15.-16.7. (Rebecca „renovujem web", Hazel nekvalifikovaná, Richterová ako zákazníkovi, Drop Dead + Sweet Nothings „works for me") + korekcia by_alisha (oslovená bola, pýta sa „ako riešiť?"). 6 nových project stránok, update [[outreach-batch-2]], [[outreach-batch-3]], [[cold-outreach-pipeline]] (skóre EN 5/18, SK IG 4/6; poznatok #4 o site-down hookoch; Sweet Nothings apex-SSL diagnóza overená curl/openssl 16.7.).
+
+## [2026-07-16] update | Odpovede pre 6 respondentov odoslané
+
+Marko odoslal fázu 2 / follow-up všetkým 6 respondentom z ig-status167 (konverzácie otvorené v Kimi WebBridge, texty podľa návrhu): [[by-alisha]] (priznanie + riešenie na mieru — HOT), [[sperky-richterova]] (priznanie pred pondelkovými fotkami), [[rebecca-d-enamel]] (zvedavá otázka na renováciu), [[sweet-nothings-studios]] (SSL diagnóza), [[drop-dead-candles]] (čestná záchrana + Etsy pivot), [[hazel-hand-engraving]] (slušné uzavretie, status → done — nekvalifikovaná). Všetky prepisy doplnené v projektových stránkach, index.md aktualizovaný.
+
+## [2026-07-16] ingest | by_alisha — cenová námietka na fázu 2
+
+Alisha odpísala na fázu 2: funguje takto 11 rokov, e-shop mala, 3–4 tis. € doň znova nedá. Marko odpísal prijatím námietky (znenie približné). Aktualizované: [[by-alisha]] (profil, stav, prepis, ďalší krok = reframe dopytový flow ≠ starý e-shop), [[cold-outreach-pipeline]] tabuľka, index.md.
+
+## [2026-07-16] query | Aká je úspešnosť (response rate) outreachu?
+Odpoveď z [[cold-outreach-pipeline]] (dáta k 16.7. ráno): EN 5/18 (28 %), SK IG 4/6 (67 %), SK email 0/2, spolu ~35 %; brand-first 3/6 vs. tech-first 1/6. Bez zápisu do wiki (živá metrika, nie durable answer).
+
+## [2026-07-16] query | Batch 5 — 21 otváračov pre zvyšok Cart Leads CSV
+Marko chcel pôvodne poslať správy „všetkým" 39 leadom z CSV naraz, automaticky cez Kimi WebBridge. Kontrola pipeline tabuľky odhalila, že **18/39 už bolo oslovených** (batch 1+2, niektorí reagovali) — automatický blast by ich zdvojil. Namiesto toho: nová stránka [[outreach-batch-5]] — 21 otváračov (fáza 1, bez pitchu) pre nekontaktovaných leadov: 6 non-knife (Jamie Noelle, Sharp & Fiery, Pam Farren, Lois/Hampton Gem, Lobo Gun Leather, Nino Rostomashvili) + 15 knife makerov. Knife sekcia označená ⚠️ HIGH-RISK — platobný procesor treba overiť pred odoslaním čohokoľvek. Owner (Adam/Marek) uvedený pri každom leade. Nič nebolo odoslané — čaká na Markovu kontrolu a manuálne odoslanie. Aktualizované: cold-outreach-pipeline, index.md. Odložené: research 35 nových US leadov cez Firecrawl+Kimi (samostatná úloha, na povel).
+
+## [2026-07-16] setup | wiki/conversations/ — archív odpovedaných konverzácií
+Nový priečinok `wiki/conversations/` s 9 kurátorskými kópiami IG DM konverzácií, kde prospect skutočne odpovedal (saint-jewellry, rebecca-d-enamel, darcekove-kytice, hazel-hand-engraving, by-alisha, sperky-richterova, drop-dead-candles, optimistic-soap, sweet-nothings-studios) + `index.md` s prehľadovou tabuľkou. Zdrojom pravdy zostávajú `## Komunikácia` sekcie na project stránkach — tieto sú len kópia/link naspäť. Otvorená otázka od Marka: prístup pre kolegov (Obsidian Publish / shared repo) — **zatiaľ nenastavené**, obsah je citlivý a podľa hard rule v CLAUDE.md nemá opustiť vault bez explicitného pokynu na mechanizmus. Aktualizované: index.md.

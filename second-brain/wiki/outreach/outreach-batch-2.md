@@ -2,7 +2,7 @@
 type: project
 status: active
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-07-16
 aliases: [Outreach batch 2]
 tags: [cart-design, cold-outreach]
 ---
@@ -26,6 +26,8 @@ Hook ✅15.7.: thelowkeyco.com je teraz **parkovaná doména** (GoDaddy parking 
 Hook ✅15.7.: sweetnothingsstudios.com **nenačíta sa vôbec** (timeout) — v júni ešte fungoval na Big Cartel.
 
 > Hey! The "web drop 5PM CT" format is such a smart way to create urgency. Tried checking out sweetnothingsstudios.com just now though and it's not loading at all. Is the site down for you too, or is it just me?
+
+**REAGOVALA 15.7. 15:54:** „Shop is up and running, perhaps try refreshing your browser!" — hook z jej pohľadu vyvrátila. **Re-verifikácia 16.7. (curl+openssl):** problém je reálny, ale presnejší — apex doména `sweetnothingsstudios.com` nemá SSL certifikát (https bez www padá), funguje len `www.`. Detail a ďalší krok: [[sweet-nothings-studios]] (promovaná do `projects/`).
 
 ### 3. Forest Nine — IG DM (@forestnine)
 Hook ✅15.7.: forestnine.com je **zamknutý heslom** — obchod je uzavretý pre objednávky (potvrdené: "password" na stránke).
@@ -61,10 +63,14 @@ Hook: micromosaic/enamel remeslo od 2012, technika ako hlavný obdiv.
 
 > Hi Rebecca! Micromosaic and vitreous enamel work at your level takes years to get right — you can tell it's not a trend for you, it's a craft. Just curious, since I know a lot of jewelers in this space struggle with it: does your current site do a good job showing the process, or mostly just the finished pieces?
 
+**REAGOVALA 16.7. 8:17:** „I'm working on a renovation for my website right now." — najsilnejší timing signál z EN vlny. Detail: [[rebecca-d-enamel]] (promovaná do `projects/`).
+
 ### 9. Hazel Hand Engraving — IG DM (@hazel.handengraving)
 Hook: hand-push engraving od 2013, zaujímavý fakt (predáva kurzy, nie šperky) je len zvedavá otázka na konci.
 
 > Hey Marlen! Hand-push engraving is one of those skills that takes a decade to make look effortless — really cool to see it documented. Random question: I noticed your site's set up to sell courses/tutorials — is that the main focus now, or do people still commission custom pieces from you directly?
+
+**REAGOVALA 15.7. 23:43:** nič nepredáva — všetko vzdelávanie free na YouTube, zákazky cez partnera @firestonefinejewelry. Research o „predaji kurzov" vyvrátený → **pravdepodobne nekvalifikovaná** (nemá a nechce vlastný predajný kanál). Detail: [[hazel-hand-engraving]] (promovaná do `projects/`).
 
 ### 10. Jake Newell (Custom Hand Engraving) — IG DM (@customhandengraving)
 Hook: backlog "not accepting new work" — silný signál dopytu, žiadny web vôbec (technická vec je len otázka na konci).

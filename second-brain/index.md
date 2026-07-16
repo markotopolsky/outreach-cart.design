@@ -11,6 +11,12 @@ Katalóg celého vaultu. Schéma a pravidlá: [[CLAUDE|CLAUDE.md]] · História:
 - [[optimistic-soap]] — Molly (mydlá, 229K IG); **done** — po push follow-upe 15.7. definitívne odmietla (informované nie: chce Shopify integrácie)
 - [[saint-jewellry]] — SK šperkárka (1.4K IG); **active** — fáza 2 odoslaná 15.7., seen, bez odpovede
 - [[darcekove-kytice]] — SK darčekové kytice (2.1K IG); **done** — reagovala, po pitchi odmietla (mŕtve, ponechané ako dátový bod)
+- [[by-alisha]] — SK šperky na mieru (25.3K IG); **active — cenová námietka** — na fázu 2 (16.7.) odpísala: e-shop mala, 3–4k € znova nedá; ďalší krok: reframe (dopytový flow ≠ jej starý e-shop)
+- [[rebecca-d-enamel]] — US enamel šperkárka (73K IG); **active** — follow-up odoslaný 16.7. (otázka na renováciu), čaká sa na odpoveď
+- [[sweet-nothings-studios]] — US šperky/vitráže (25.4K IG); **active** — SSL diagnóza odoslaná 16.7., čaká sa na odpoveď
+- [[drop-dead-candles]] — US sviečky (12K IG, Etsy top 1 %); **active** — záchranná odpoveď (priznanie + Etsy pivot) odoslaná 16.7., čaká sa na odpoveď
+- [[sperky-richterova]] — SK Swarovski šperky (439 IG); **active** — priznanie odoslané 16.7. pred pondelkovými fotkami, čaká sa na odpoveď
+- [[hazel-hand-engraving]] — US engraverka (76K IG); **done** — slušne uzavreté 16.7., nekvalifikovaná
 
 ### Ľudia (`wiki/people/`)
 
@@ -21,11 +27,16 @@ Katalóg celého vaultu. Schéma a pravidlá: [[CLAUDE|CLAUDE.md]] · História:
 
 - [[cold-outreach-pipeline]] — centrálny tracking cold outreach prospektov (cart.design); **active** — cieľ 1. vlny: ~20 mailov + zber dát
 - [[outreach-batch-1]] — prvých 5 EN otváračov, fakty overené 15.7. (LadyBuQ, Topolski, iamrachel, Creations That Rock, Pierre Laborde); **active**
-- [[outreach-batch-2]] — 12 EN otváračov, tech-first/brand-first experiment (6+6); **active** — 1. reakcia: Optimistic Soap (Molly) 15.7. → pitch odmietla, push follow-up poslaný (detail v [[optimistic-soap]])
-- [[outreach-batch-3]] — 6 SK IG otváračov (leady bez e-shopu), hooky z postov/komentárov overené 15.7.; **active** — 2 reakcie v 1. deň (saint.jewellry beží, darcekove_kytice mŕtve)
+- [[outreach-batch-2]] — 12 EN otváračov, tech-first/brand-first experiment (6+6); **active** — 4 reakcie k 16.7. (Optimistic, Rebecca, Hazel, Sweet Nothings); brand-first vedie 3/6 vs. 1/6
+- [[outreach-batch-3]] — 6 SK IG otváračov (leady bez e-shopu), hooky overené 15.7.; **active** — 4/6 reakcií k 16.7. (saint.jewellry, darcekove_kytice, sperkyrichterova, by_alisha — korekcia: oslovená bola)
 - [[outreach-batch-4]] — 2 SK e-mail otvárače z e-shop listu (AC keramika 8/68 na sashe, Umelecká keramika svojpomocný web); **active** — odoslané 15.7.
+- [[outreach-batch-5]] — 21 EN otváračov pre zvyšok Cart Leads CSV (6 non-knife + 15 knife makerov); **active** — nepremiestnené, čaká na overenie platobného procesora (knife = HIGH-RISK) a rozdelenie owner Adam/Marek
 - [[outreach-links]] — tabuľka IG + web odkazov pre všetkých 38 leadov (na použitie s Claude in Chrome)
 - [[biorythme]] — cold outreach prospekt (cart.design); **active** — pripravená fáza 1 (otvárač), čaká sa na odoslanie
+
+### Conversations (`wiki/conversations/`) — archív odpovedaných konverzácií
+
+- [[index|conversations/index]] — kurátorský prehľad 9 IG DM konverzácií s odpoveďou od prospekta (kópie `## Komunikácia` z project stránok, linkované naspäť); zdieľanie s kolegami zatiaľ nenastavené
 
 ### Feedback (`wiki/feedback/`) — výsledky a poznatky z pipeline
 
@@ -48,9 +59,10 @@ Katalóg celého vaultu. Schéma a pravidlá: [[CLAUDE|CLAUDE.md]] · História:
 
 ### raw/cart.design/cold-outreach
 
-- `Cart Leads - Sheet1.csv` — databáza 38 US/EN leadov (handmade makers: koža/šperky/sviečky/nože) s overeným researchom → triáž v [[cold-outreach-pipeline]]
+- `Cart Leads - Sheet1.csv` — databáza 39 US/EN leadov (handmade makers: koža/šperky/sviečky/nože) s overeným researchom → triáž v [[cold-outreach-pipeline]]; 18 oslovených, 21 pripravených v [[outreach-batch-5]]
 - `ig-sk-leads-2026-07-15.md` — 7 kvalifikovaných SK Instagram leadov bez vlastného e-shopu (Firecrawl + Kimi WebBridge) → [[cold-outreach-pipeline]]
 - `firecrawl-test-batch-2026-07-15.csv` — test dávka 29 SK e-shopov cez Firecrawl web search (väčšinou aktívne e-shopy — kanál nevidí čisto sociálnych predajcov) → [[cold-outreach-pipeline]]
+- `ig-status167.md` — IG inbox prepis k 16.7. ráno (6 konverzácií: Rebecca, Hazel, Richterová, Drop Dead, Sweet Nothings, by_alisha, darcekove_kytice) → spracované do project stránok 16.7.
 
 ### raw/cart.design/cold-outreach/cold-outreach-system
 

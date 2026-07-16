@@ -2,7 +2,7 @@
 type: project
 status: active
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-07-16
 aliases: [Outreach pipeline, Cold outreach pipeline]
 tags: [cart-design, cold-outreach, sales]
 ---
@@ -31,16 +31,16 @@ Centrálny prehľad všetkých prospektov. Cieľ prvej vlny: **~20 mailov**, zbe
 | iamrachel | IG DM | mŕtva .com + Etsy ✅15.7. | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-1]]) |
 | Creations That Rock | IG DM | web práve zomrel + 101K TT ✅15.7. | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-1]]) |
 | Pierre Laborde | IG DM | demand leak (vypredané drops) ✅15.7. | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-1]]) |
-| Drop Dead Candles | IG DM | vlastný, Marko poslal priamo | 2026-07-15 | — | — | **oslovený** |
+| [[drop-dead-candles|Drop Dead Candles]] | IG DM | vlastný, Marko poslal priamo | 2026-07-15 | — | **2026-07-15** — „it should be working" | **reagovala** — hook nevyšiel (web k 16.7. reálne beží), treba záchrannú odpoveď |
 | The Low Key Co | IG DM | tech-first: doména parkovaná ✅15.7. | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-2]]) |
-| Sweet Nothings Studios | IG DM | tech-first: web timeout ✅15.7. | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-2]]) |
+| [[sweet-nothings-studios|Sweet Nothings Studios]] | IG DM | tech-first: web timeout ✅15.7. | 2026-07-15 | — | **2026-07-15** — „shop is up and running" | **reagovala** — 16.7. nájdený reálny problém (apex SSL), odpoveď s diagnózou pripraviť |
 | Forest Nine | IG DM | tech-first: password-locked ✅15.7. | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-2]]) |
 | Miners Ink | IG DM | tech-first: mŕtva DNS ✅15.7. | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-2]]) |
 | Kamari Candle Co | IG DM | tech-first: web stale od 2022 ✅15.7. (prerobené) | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-2]]) |
 | Macrame on the Move | IG DM | tech-first: skúsenosť na cestách (prerobené) | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-2]]) |
 | [[disciple-designed|Disciple Designed]] | IG DM | vlastný (Marko): challenging question na pricing gap | 2026-06-18 | pripravený (15.7.) | **2026-06-19** — otvorená, vecná | **reagoval** — follow-up pripravený |
-| Rebecca D Enamel | IG DM | brand-first: micromosaic remeslo | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-2]]) |
-| Hazel Hand Engraving | IG DM | brand-first: hand-push engraving | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-2]]) |
+| [[rebecca-d-enamel|Rebecca D Enamel]] | IG DM | brand-first: micromosaic remeslo | 2026-07-15 | — | **2026-07-16** — „renovujem práve web" | **reagovala** — najlepší timing signál, odpoveď pripraviť |
+| [[hazel-hand-engraving|Hazel Hand Engraving]] | IG DM | brand-first: hand-push engraving | 2026-07-15 | — | **2026-07-15** — nič nepredáva (free YouTube) | **reagovala — nekvalifikovaná**, slušne uzavrieť; sekundárny lead @firestonefinejewelry |
 | Jake Newell | IG DM | brand-first: backlog "not accepting work" | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-2]]) |
 | DoubleK Custom Leathercraft | IG DM | brand-first: niche remeslo (tack) | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-2]]) |
 | Optimistic Soap | IG DM | brand-first: 229K obdiv (prerobené) | 2026-07-15 | — | **2026-07-15** — dlhá, otvorená; sama: rok „prechádza" na Shopify, platí double hosting, Wix billing bug | **reagovala** — pitch zdvorilo odmietla („too many choices"), push follow-up s call CTA poslaný 15.7. ([[optimistic-soap]]) |
@@ -48,7 +48,8 @@ Centrálny prehľad všetkých prospektov. Cieľ prvej vlny: **~20 mailov**, zbe
 | darcekove_kytice | IG DM | DM objednávkový chaos | 2026-07-15 | — | 2026-07-15 — pitch odmietnutý | **mŕtve** ([[outreach-batch-3]]) |
 | handmadebyluvela | IG DM | obsah bez predajného miesta | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-3]]) |
 | badynco | IG DM | zľavy bez dosahu | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-3]]) |
-| sperkyrichterovahandmade | IG DM | zákazková tvorba bez katalógu | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-3]]) |
+| [[sperky-richterova|sperkyrichterovahandmade]] | IG DM | zákazková tvorba bez katalógu | 2026-07-15 | — | **2026-07-15** — ako zákazníkovi (foto v pondelok 20.7.) | **reagovala** — priznanie treba pred pondelkom ([[sperky-richterova]]) |
+| [[by-alisha|by_alisha.sk]] | IG DM | vlastný improvizovaný (predaj cez správy?) | 2026-07-15 | — | **2026-07-16** — cenová námietka: e-shop mala, 3–4k € znova nedá | **reagovala — cenová námietka** (kotva na starú zlú investíciu, nie odmietnutie); ďalší krok: reframe ([[by-alisha]]) |
 | AC keramika (Anna Čičková) | email | sashe 8/68 — dopyt > ponuka | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-4]]) |
 | Umelecká keramika | email | svojpomocný web brzdí predaj | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-4]]) |
 
@@ -82,7 +83,9 @@ Zdroj: `raw/cart.design/cold-outreach/Cart Leads - Sheet1.csv` (k 2026-06-15, im
 **Poznámky k databáze:**
 - Jazyk oslovovania: **EN** (US/UK/CA trh) — na rozdiel od biorythme (SK).
 - CSV má vlastné openery A/C a „week-2 batch" plán — pri generovaní správ rešpektovať stĺpce `approach` a `next action`.
-- Owner stĺpec: časť leadov patrí Adamovi — s Markom si rozdeliť, kto posiela komu.
+- Owner stĺpec: časť leadov patrí Adamovi/Marekovi — s Markom si rozdeliť, kto posiela komu.
+
+**Stav k 2026-07-16:** 18/39 leadov z CSV už oslovených ([[outreach-batch-1]] + [[outreach-batch-2]], niektorí reagovali — pozri tabuľku vyššie). Zvyšných **21 nekontaktovaných** má pripravené otváracie správy v [[outreach-batch-5]] (6 non-knife + 15 knife makerov, knife ⚠️ vyžaduje overenie platobného procesora pred odoslaním — HIGH-RISK).
 
 **Stavy:** `pripravuje sa` → `správa pripravená` → `oslovený` → `follow-up poslaný` → `reagoval` → `pitch poslaný` → `stretnutie` → `klient` / `mŕtve`
 
@@ -136,6 +139,14 @@ Po prvej vlne vyhodnotíme:
 - Čas do odpovede; či follow-up niečo zachránil
 
 Výsledky sa zapíšu sem a premietnu do [[cold-outreach-manual]].
+
+### Dáta k 2026-07-16 ráno (IG inbox prepis `ig-status167`)
+
+**Celkové skóre po ~20 hodinách:** EN 5/18 reakcií (28 %) · SK IG 4/6 (67 %) · SK email 0/2. Obe čísla vysoko nad Origami benchmarkom ~5 % — hyper-personalizované hooky fungujú, vzorka stále malá.
+
+**Experiment tech-first vs. brand-first (priebežne):** brand-first **3/6** (Optimistic, Rebecca, Hazel) vs. tech-first **1/6** (Sweet Nothings) + batch 1 tech-štýl 0/5. Brand-first zatiaľ jasne vedie — ale pozor, 2 z reakcií (Hazel nekvalifikovaná, Optimistic odmietla) zatiaľ nekonvertujú. Vyhodnotiť po týždni.
+
+**Poznatok #4 — hook „tvoj web nefunguje" má krátku trvanlivosť a majiteľ ho vie „vyvrátiť":** Drop Dead Candles aj Sweet Nothings odpovedali „funguje mi to, skús refresh" — majiteľ si web otvorí (z bookmarku/www) a hook pôsobí ako omyl. Drop Dead: web k 16.7. reálne beží (výpadok bol zrejme dočasný — curl 200). Sweet Nothings: problém je reálny, ale iný než tvrdil otvárač — **apex doména bez SSL certifikátu** (bez www padá https). Pravidlá: (a) site-down hook overiť tesne pred odoslaním, nie deň vopred z CSV; (b) pomenovať **presný failure mode** („bez www to hádže security error"), nie všeobecné „nenačíta sa" — presná diagnóza sa nedá odbiť refreshom a buduje kredibilitu; (c) na „works for me" odpoveď mať pripravenú záchranu: buď presnú diagnózu, alebo čestné „už to ide, asi som to trafil v zlom momente" + pivot.
 
 ### Prvé dáta z SK batch 3 (k 2026-07-15)
 

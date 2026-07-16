@@ -115,3 +115,10 @@ Zdroj: [[document-origami|document-origami]]. Najdôležitejšie poznatky apliko
 - [[Prospect_Template|Prospect_Template.md]]
 - [[prompt-ai|prompt-ai.md]]
 - [[document-origami|document-origami.md]]
+
+
+Úplne vám rozumiem a presne preto za nami klienti chodia. Nefungujeme ako typické agentúry, ktoré vám vyfakturujú 50 € len za to, že na webe 'posunuli tlačidlo'.
+
+Radšej navrhujeme férovú spoluprácu: 1 fixná suma a žiadne skryté poplatky. Ak s nami do toho pôjdete a nový e-shop alebo web vám nezarobí na svoje náklady a neprinesie profit, jednoducho nám neplatíte nič.
+
+Sme síce na začiatku, no máme naozaj kvalitné produkty, ktoré predávajú samy. Mesačne za ne nepýtame sumu na úrovni nájmu za 3-izbový byt – cena vyjde približne ako dva lístky (napr na vas workshop) na mesiac. Žiadne tisíce eur vopred s neistým výsledkom

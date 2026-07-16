@@ -64,4 +64,15 @@ darcekove_kytice
 ](https://www.instagram.com/darcekove_kytice/#) 
 
 - ked nieco nevyde, nech sa zapisu data a nasledne, nech sa to vymaze ;D 
-- 
+- mozno pre kimi web bridge si pouzivat kimi k2 a nasledne mat folder z linkami vo wiki a potom len poviem kimimu, nech mi to zacne otvarat. 
+- mam obrovsku usage...a neviem preco :D
+- etsy ma problem: 
+Hi Nino — cloisonné enamel is one of the rarer techniques out there; not many people are still doing it seriously. Tried pulling up enamel-arts.com out of curiosity and it doesn't seem to resolve anymore — is that domain still active, or has your setup moved somewhere else?
+- velmi kratke vety funguju 
+- spravit podpis
+- spravit subjects also
+- big cartel, shoptet, shopify
+- ig, mail ban 
+	- mail == adam
+- scrapovanie prompt D
+	- nieco vymysliet :D

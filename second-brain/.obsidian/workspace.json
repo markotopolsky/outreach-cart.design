@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log.md",
+                "file": "wiki/conversations/darcekove-kytice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "log"
+              "title": "darcekove-kytice"
+            }
+          },
+          {
+            "id": "de5fd8b9550d998a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/projects/darcekove-kytice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "darcekove-kytice"
+            }
+          },
+          {
+            "id": "3e5ee64a03b18e22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/outreach/outreach-batch-5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "outreach-batch-5"
             }
           }
         ]
@@ -186,42 +214,42 @@
   },
   "active": "f5996435df4809f4",
   "lastOpenFiles": [
-    "wiki/projects/optimistic-soap.md",
-    "wiki/projects/disciple-designed.md",
-    "log.md",
-    "dh/verbal-raw-notes/Raw.md",
-    "dh/visual-raw-notes/Raw.md",
-    "dh/commerce-raw-notes/Raw.md",
+    "wiki/projects/by-alisha.md",
+    "wiki/conversations/sweet-nothings-studios.md",
+    "wiki/conversations/optimistic-soap.md",
+    "wiki/conversations/drop-dead-candles.md",
+    "wiki/conversations/sperky-richterova.md",
+    "wiki/conversations/by-alisha.md",
+    "wiki/conversations/hazel-hand-engraving.md",
+    "wiki/conversations/darcekove-kytice.md",
+    "wiki/conversations/rebecca-d-enamel.md",
+    "wiki/conversations/saint-jewellry.md",
+    "wiki/conversations/index.md",
+    "wiki/conversations",
+    "wiki/outreach/outreach-batch-5.md",
+    "wiki/projects/darcekove-kytice.md",
+    "raw/cart.design/flow-outreach.md",
+    "wiki/topics/cold-outreach-manual.md",
+    "wiki/topics/digital-marketing-strategy.md",
+    "wiki/topics/konkurencia-fitnessmenu.md",
+    "raw/cart.design/cold-outreach/cold-outreach-system/document-origami.md",
+    "raw/cart.design/cold-outreach/potentional-clients/eshops-and-ig-leads.md",
+    "raw/cart.design/cold-outreach/potentional-clients/ig-sk-leads-2026-07-15.md",
+    "wiki/outreach/cold-outreach-pipeline.md.tmp.68207.6630d29e2cd8",
+    "raw/cart.design/cold-outreach/ig-status167.md",
+    "wiki/projects/sperky-richterova.md",
+    "wiki/projects/sweet-nothings-studios.md",
+    "wiki/projects/drop-dead-candles.md",
+    "wiki/projects/hazel-hand-engraving.md",
+    "wiki/projects/rebecca-d-enamel.md",
     "dh/visual-raw-notes",
     "dh/verbal-raw-notes",
     "dh/commerce-raw-notes",
     "dh",
-    "CLAUDE.md",
-    "wiki/topics/cold-outreach-manual.md",
-    "wiki/topics/konkurencia-fitnessmenu.md",
-    "wiki/projects/fitnessmenu.md",
-    "wiki/projects/saint-jewellry.md",
-    "second-brain-merge/other/free claude.md",
     "second-brain-merge",
-    "second-brain-merge/other/h.md",
-    "raw/cart.design/flow-outreach.md",
-    "index.md",
-    "wiki/projects/darcekove-kytice.md",
-    "wiki/feedback/flow-feedback.md",
-    "wiki/feedback/outreach-day-2026-07-15.md",
-    "wiki/projects/cold-outreach-pipeline.md",
     "wiki/feedback",
-    "wiki/outreach/outreach-batch-4.md",
-    "wiki/outreach/outreach-links.md",
-    "wiki/outreach/outreach-batch-3.md",
-    "wiki/outreach/outreach-batch-2.md",
-    "wiki/outreach/outreach-batch-1.md",
-    "wiki/outreach/disciple-designed.md",
-    "wiki/outreach/cold-outreach-pipeline.md",
     "wiki/outreach",
     "second-brain-merge/dh/visual-raw-notes",
-    "second-brain-merge/dh/verbal-raw-notes",
-    "second-brain-merge/dh/commerce-raw-notes",
     "raw/cart.design/Fitnessmenu/FitnessMenu-demo-feedback/Images/Pasted image 20260706155424.png",
     "raw/cart.design/Fitnessmenu/FitnessMenu-demo-feedback/Images/Pasted image 20260706155352.png",
     "raw/cart.design/Fitnessmenu/FitnessMenu-demo-feedback/Images/Pasted image 20260706155304.png",
