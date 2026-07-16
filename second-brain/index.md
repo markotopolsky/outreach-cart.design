@@ -12,7 +12,7 @@ Katalóg celého vaultu. Schéma a pravidlá: [[CLAUDE|CLAUDE.md]] · História:
 - [[saint-jewellry]] — SK šperkárka (1.4K IG); **active** — fáza 2 odoslaná 15.7., seen, bez odpovede
 - [[darcekove-kytice]] — SK darčekové kytice (2.1K IG); **done** — reagovala, po pitchi odmietla (mŕtve, ponechané ako dátový bod)
 - [[by-alisha]] — SK šperky na mieru (25.3K IG); **active — cenová námietka** — na fázu 2 (16.7.) odpísala: e-shop mala, 3–4k € znova nedá; ďalší krok: reframe (dopytový flow ≠ jej starý e-shop)
-- [[rebecca-d-enamel]] — US enamel šperkárka (73K IG); **active** — follow-up odoslaný 16.7. (otázka na renováciu), čaká sa na odpoveď
+- [[rebecca-d-enamel]] — US enamel šperkárka (73K IG); **active** — 2. odpoveď 16.7.: web renovuje jej manžel (computer engineer) svojpomocne; follow-up navrhnutý (resource angle, bez pitchu)
 - [[sweet-nothings-studios]] — US šperky/vitráže (25.4K IG); **active** — SSL diagnóza odoslaná 16.7., čaká sa na odpoveď
 - [[drop-dead-candles]] — US sviečky (12K IG, Etsy top 1 %); **active** — záchranná odpoveď (priznanie + Etsy pivot) odoslaná 16.7., čaká sa na odpoveď
 - [[sperky-richterova]] — SK Swarovski šperky (439 IG); **active** — priznanie odoslané 16.7. pred pondelkovými fotkami, čaká sa na odpoveď
@@ -30,7 +30,10 @@ Katalóg celého vaultu. Schéma a pravidlá: [[CLAUDE|CLAUDE.md]] · História:
 - [[outreach-batch-2]] — 12 EN otváračov, tech-first/brand-first experiment (6+6); **active** — 4 reakcie k 16.7. (Optimistic, Rebecca, Hazel, Sweet Nothings); brand-first vedie 3/6 vs. 1/6
 - [[outreach-batch-3]] — 6 SK IG otváračov (leady bez e-shopu), hooky overené 15.7.; **active** — 4/6 reakcií k 16.7. (saint.jewellry, darcekove_kytice, sperkyrichterova, by_alisha — korekcia: oslovená bola)
 - [[outreach-batch-4]] — 2 SK e-mail otvárače z e-shop listu (AC keramika 8/68 na sashe, Umelecká keramika svojpomocný web); **active** — odoslané 15.7.
-- [[outreach-batch-5]] — 21 EN otváračov pre zvyšok Cart Leads CSV (6 non-knife + 15 knife makerov); **active** — nepremiestnené, čaká na overenie platobného procesora (knife = HIGH-RISK) a rozdelenie owner Adam/Marek
+- [[outreach-batch-5]] — 21 EN otváračov pre zvyšok Cart Leads CSV (6 non-knife + 15 knife makerov); **active** — Marko vyriešil processor aj owner otázky, odosielanie 16.7. (potvrdiť stav)
+- [[outreach-batch-6]] — 15 nových US leadov (keramika, šperky, koža, vitráže, svietidlá; bez nožov), nájdené a overené 16.7. (WebSearch/Google + curl + Kimi WebBridge); **active** — 10 brand-first / 5 tech-first, **všetkých 15 odoslaných 16.7.**
+- [[gollik-knives]] — CZ nožiar Jakub Golla (Tier 3, batch 5 #21); **active** — reagoval 16.7.: .com kúpil squatter, jeho .cz nefunguje, robí custom orders; rapport otázka (CZ/SK) odoslaná 16.7., follow-up pripravený na stránke
+- [[nino-rostomashvili]] — US cloisonné email remeselníčka (batch 5 #6); **active** — reagovala 16.7.: enamel-arts.com potvrdene mŕtva, presunutá na Carrd+Etsy; follow-up (Etsy-dependency sonda) odoslaný
 - [[outreach-links]] — tabuľka IG + web odkazov pre všetkých 38 leadov (na použitie s Claude in Chrome)
 - [[biorythme]] — cold outreach prospekt (cart.design); **active** — pripravená fáza 1 (otvárač), čaká sa na odoslanie
 
@@ -63,6 +66,7 @@ Katalóg celého vaultu. Schéma a pravidlá: [[CLAUDE|CLAUDE.md]] · História:
 - `ig-sk-leads-2026-07-15.md` — 7 kvalifikovaných SK Instagram leadov bez vlastného e-shopu (Firecrawl + Kimi WebBridge) → [[cold-outreach-pipeline]]
 - `firecrawl-test-batch-2026-07-15.csv` — test dávka 29 SK e-shopov cez Firecrawl web search (väčšinou aktívne e-shopy — kanál nevidí čisto sociálnych predajcov) → [[cold-outreach-pipeline]]
 - `ig-status167.md` — IG inbox prepis k 16.7. ráno (6 konverzácií: Rebecca, Hazel, Richterová, Drop Dead, Sweet Nothings, by_alisha, darcekove_kytice) → spracované do project stránok 16.7.
+- `us-leads-batch6-2026-07-16.md` — research 15 nových US leadov + 9 vyradených kandidátov (metóda: kurátorské zoznamy → curl → Kimi WebBridge IG overenie) → [[outreach-batch-6]]
 
 ### raw/cart.design/cold-outreach/cold-outreach-system
 

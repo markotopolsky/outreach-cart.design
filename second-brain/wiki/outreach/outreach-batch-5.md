@@ -132,8 +132,8 @@ Owner: **Adam**. Hook: ancient static site, no cart.
 
 > Hey Bill! Been checking out siegleknives.com — looks like it hasn't really been touched in a while, no way to actually order through it. Is that intentional, or just something sitting on the back burner?
 
-### 21. Gollik Knives — Forum/site ⚠️ domain expires 2.8.2026, EU/Prague (not US)
-Owner: **Adam**. Hook: gollikknives.com down (timeout).
+### 21. Gollik Knives — IG DM ⚠️ EU/CZ (not US) — **REAGOVAL 16.7.** → [[gollik-knives]]
+Owner: **Adam** (poslal Marko cez IG). Hook: gollikknives.com down (timeout). Realita 16.7.: .com už kúpil niekto iný (CSV odhad expirácie 2.8. bol stale), Jakub Golla kúpil .cz — nefunguje. Prepis a ďalší krok na [[gollik-knives]].
 
 > Hey! Curious about gollikknives.com — it's not loading for me at all right now. Did that domain lapse, or is there a different way to see what you've got available?
 

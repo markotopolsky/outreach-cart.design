@@ -131,3 +131,21 @@ Marko chcel pôvodne poslať správy „všetkým" 39 leadom z CSV naraz, automa
 
 ## [2026-07-16] setup | wiki/conversations/ — archív odpovedaných konverzácií
 Nový priečinok `wiki/conversations/` s 9 kurátorskými kópiami IG DM konverzácií, kde prospect skutočne odpovedal (saint-jewellry, rebecca-d-enamel, darcekove-kytice, hazel-hand-engraving, by-alisha, sperky-richterova, drop-dead-candles, optimistic-soap, sweet-nothings-studios) + `index.md` s prehľadovou tabuľkou. Zdrojom pravdy zostávajú `## Komunikácia` sekcie na project stránkach — tieto sú len kópia/link naspäť. Otvorená otázka od Marka: prístup pre kolegov (Obsidian Publish / shared repo) — **zatiaľ nenastavené**, obsah je citlivý a podľa hard rule v CLAUDE.md nemá opustiť vault bez explicitného pokynu na mechanizmus. Aktualizované: index.md.
+
+## [2026-07-16] ingest | Batch 6 — 15 nových US leadov (discovery + verifikácia)
+Discovery cez WebSearch/Google (Firecrawl mal invalid token — treba `firecrawl login`), verifikácia curl 2× + Kimi WebBridge IG. 17 overených, top 15 vybraných (10 brand-first / 5 tech-first). Nové: `raw/.../us-leads-batch6-2026-07-16.md`, [[outreach-batch-6]]; pipeline +15 riadkov, index updatnutý. Lint nález: `ig-sk-leads-2026-07-15.md` referencovaný v indexe už v raw neexistuje.
+
+## [2026-07-16] ingest | Rebecca D Enamel — 2. odpoveď (manžel-inžinier renovuje web)
+Rebecca odpísala: web jej vyhovoval, renováciu inicioval a robí jej manžel (computer engineer). Nie odmietnutie, ale in-house DIY — pitch proti manželovi by bol kontraproduktívny; zvolený resource angle (opýtať sa na stack, ponúknuť referenčné príklady). Aktualizované: projects/rebecca-d-enamel, conversations/rebecca-d-enamel, index.md. Návrh follow-upu odovzdaný Markovi v sedení.
+
+## [2026-07-16] update | Batch 6 — všetkých 15 správ odoslaných
+IG DM cez Kimi WebBridge (Markov účet), každá overená vo vlákne po odoslaní. 10 brand-first / 5 tech-first. Pipeline: 15 riadkov na `oslovený 2026-07-16`; [[outreach-batch-6]] + index updatnuté. Poznámka k metóde: automat s @e refmi zlyhal na 2/9 profiloch (tlačidlo Message sa nenašlo v snapshote) — spoľahlivejšie je otvoriť taby a doposlať cez find_tab.
+
+## [2026-07-16] ingest | Gollik Knives — reakcia (Jakub Golla, CZ)
+Prvá reakcia z knife Tier 3: .com už kúpil niekto iný (CSV odhad expirácie 2.8. bol stale — poznamenané v pipeline), kúpil .cz ktorá nefunguje, robí custom orders, predaj cez FB/BladeForums. Nová stránka [[gollik-knives]] s prepisom; batch-5 #21 a pipeline aktualizované. Ďalší krok: fáza 2, prechod do SK/CZ.
+
+## [2026-07-16] ingest | Nino Rostomashvili — reakcia + follow-up odoslaný
+Reakcia na batch-5 #6 otvárač: enamel-arts.com hook potvrdený (skutočne mŕtva), presunutá na Carrd (cloisonneenamel.carrd.co) + Etsy (EnamelArtsByNino). Marko odoslal follow-up sondujúci Etsy-závislosť (rovnaký pattern ako Jenny Topolski). Nová stránka [[nino-rostomashvili]] s prepisom; outreach-batch-5, cold-outreach-pipeline a index.md aktualizované.
+
+## [2026-07-16] update | Gollik Knives — rapport správa odoslaná
+Marko odoslal vlastnú EN rapport otázku na CZ/SK moment („So that must mean, that you are based in Czech Republic? (I am from Slovakia"). Prepis na [[gollik-knives]] doplnený; navrhnutý follow-up (custom-order flow + plán s .cz) uložený na stránke ako rezerva. Čaká sa na Jakubovu odpoveď.

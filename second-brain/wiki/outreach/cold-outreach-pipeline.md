@@ -52,12 +52,29 @@ Centrálny prehľad všetkých prospektov. Cieľ prvej vlny: **~20 mailov**, zbe
 | [[by-alisha|by_alisha.sk]] | IG DM | vlastný improvizovaný (predaj cez správy?) | 2026-07-15 | — | **2026-07-16** — cenová námietka: e-shop mala, 3–4k € znova nedá | **reagovala — cenová námietka** (kotva na starú zlú investíciu, nie odmietnutie); ďalší krok: reframe ([[by-alisha]]) |
 | AC keramika (Anna Čičková) | email | sashe 8/68 — dopyt > ponuka | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-4]]) |
 | Umelecká keramika | email | svojpomocný web brzdí predaj | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-4]]) |
+| Jupiter Oak Jewelry | IG DM | brand-first: moth šperky, 132K ✅16.7. | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
+| Wolf Ceramics | IG DM | brand-first: tím + restaurant collabs ✅16.7. | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
+| Melissa Weiss Pottery | IG DM | brand-first: vlastná hlina, newsletter sales ✅16.7. | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
+| Mila.jito Leather | IG DM | brand-first: waitlist do 2027 ✅16.7. | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
+| RBD Pottery | IG DM | brand-first: restock 21.7. sellouts ✅16.7. | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
+| Mud Lowery | IG DM | brand-first: Native American striebro ✅16.7. | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
+| Lulu LaFortune | IG DM | brand-first: Vogue press, Discord v bio ✅16.7. | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
+| Workaday Handmade | IG DM | brand-first: NY tableware ✅16.7. | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
+| Janel Foo Glassworks | IG DM | brand-first: Martha Stewart press ✅16.7. | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
+| Sacha Carlos-Raps | IG DM | brand-first: custom glass interiors ✅16.7. | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
+| Yuzu Pottery | IG DM | tech-first: bio Etsy vs. "restock on my website" ✅16.7. | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
+| LOLiDE | IG DM | tech-first: lolide.com 521 down ✅16.7. 2× | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
+| [[gollik-knives|Gollik Knives (Jakub Golla)]] | IG DM | tech-first: .com nefunguje | 2026-07-16 | — | **2026-07-16** — .com kúpil niekto iný, jeho .cz nefunguje, robí custom orders | **reagoval** — CZ maker! Rapport otázka (CZ/SK) odoslaná 16.7., follow-up pripravený ([[gollik-knives]]) |
+| Brit McDaniel (ex Paper & Clay) | IG DM | tech-first: stará doména timeoutuje po rebrande ✅16.7. 2× | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
+| Callahan Ceramics | IG DM | tech-first: bio "next release: 2025 tbd" (spiaci) ✅16.7. | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
+| Beanpole Pottery | IG DM | tech-first: web timeout + predaj len emailom ✅16.7. 2× | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
+| [[nino-rostomashvili|Nino Rostomashvili]] | email | brand-first: cloisonné enamel niche, enamel-arts.com dead-DNS ✅potvrdené | 2026-07-16 | 2026-07-16 (Etsy-dependency sonda) | **2026-07-16** — presunutá na Carrd+Etsy | **reagovala** — follow-up odoslaný, čaká sa ([[nino-rostomashvili]]) |
 
 ### Cart Leads databáza (38 leadov, US/EN trh)
 
 Zdroj: `raw/cart.design/cold-outreach/Cart Leads - Sheet1.csv` (k 2026-06-15, importované 2026-07-15). Handmade makers (koža, šperky, sviečky, mydlo, nože) so silným publikom a rozbitým/chýbajúcim eshopom — presne náš ICP. CSV už obsahuje research (followers, stav webu, uhol) aj delenie owner: Marek/Adam.
 
-**⚠️ Časovo kritické:** Shannon Steel Labs — doména expiruje **20. 7. 2026** (o 5 dní); Gollik Knives — expiruje 2. 8. 2026. Uhol „domain rescue" funguje len pred expiráciou.
+**⚠️ Časovo kritické:** Shannon Steel Labs — doména expiruje **20. 7. 2026** (o 5 dní); ~~Gollik Knives — expiruje 2. 8. 2026~~ (k 16.7. už .com kúpil niekto iný — CSV odhad bol stale; lead ale reagoval, pozri [[gollik-knives]]). Uhol „domain rescue" funguje len pred expiráciou — Gollik je dôkaz, že squatteri sú rýchli.
 
 **Tier 1 — obrovské publikum, rozbitý predaj (poslať prvých):**
 

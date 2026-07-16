@@ -21,7 +21,8 @@ US šperkárka (@rebeccadenamel, 73K IG) — micromosaic a vitreous enamel od 20
 
 1. **Otvárač odoslaný 15.7. 13:08** (brand-first: obdiv k remeslu + otázka, či web ukazuje proces alebo len hotové kusy).
 2. **Reagovala 16.7. 8:17:** renovuje práve teraz web. Krátka, vecná odpoveď — neodhalila, s kým/na čom renovuje.
-3. **Follow-up odoslaný 16.7.** — zvedavá otázka na dôvod renovácie (vzhľad vs. funkčnosť), bez pitchu. Čaká sa na odpoveď.
+3. **Follow-up odoslaný 16.7.** — zvedavá otázka na dôvod renovácie (vzhľad vs. funkčnosť), bez pitchu.
+4. **Reagovala 16.7. (2. odpoveď):** jej samotnej web vyhovoval — **renováciu inicioval a robí jej manžel, computer engineer.** Kľúčový fakt: web stavia in-house rodinný člen, nie agentúra. Nie je to odmietnutie, ale mení to hru — decision maker na technickej strane je manžel; pitch proti nemu by pôsobil útočne. Angle: byť užitočný zdroj pre oboch (custom code je spoločná reč s inžinierom), nechať dvere otvorené.
 
 ## Komunikácia (IG DM, plný prepis)
 
@@ -36,12 +37,16 @@ Prekopírované Markom z IG inboxu 2026-07-16 (`ig-status167`).
 **Marko (follow-up, 16.7.):**
 > Oh that's good timing then! What's driving the renovation, if you don't mind me asking — more the look of it, or how it works (shop, process pages, that kind of thing)? Curious what the current site isn't doing for you.
 
+**Rebecca (16.7., prepísané Markom v sedení):**
+> for me it was fine, the husband, a computer engineer, decided to change it
+
 ## Ďalší krok
 
-- [ ] Čaká sa na jej odpoveď. Pitch až keď povie viac o renovácii.
+- [ ] Poslať follow-up (návrh nižšie / v sedení 16.7.): odľahčená reakcia, otázka na čo manžel stavia, ponuka referenčných príkladov ako zdroj — žiadny pitch proti manželovi.
 
 ## Zdroje
 
 - `raw/cart.design/cold-outreach/ig-status167.md` — IG inbox prepis (16.7.)
+- 2. odpoveď (manžel-inžinier) prepísaná Markom v sedení 2026-07-16
 - [[outreach-batch-2]] (#8 — otvárač, research)
 - [[cold-outreach-pipeline]]

@@ -22,6 +22,9 @@ Prekopírované Markom z IG inboxu 2026-07-16 (`ig-status167`).
 **Marko (follow-up, 16.7.):**
 > Oh that's good timing then! What's driving the renovation, if you don't mind me asking — more the look of it, or how it works (shop, process pages, that kind of thing)? Curious what the current site isn't doing for you.
 
+**Rebecca (16.7., prepísané Markom v sedení):**
+> for me it was fine, the husband, a computer engineer, decided to change it
+
 ## Zdroje
 
 - [[../projects/rebecca-d-enamel|projekt rebecca-d-enamel]] — plný kontext a ďalší krok
