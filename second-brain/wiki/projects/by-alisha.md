@@ -26,7 +26,7 @@ Najväčší SK lead z dávky (@by_alisha.sk, 25.3K followers, šperky na mieru)
 3. **Neskôr doplnila:** „90percent robím na mieru" — kľúčový vstup pre riešenie (katalóg skladom jej nedáva zmysel; rieši sa skôr objednávkový/dopytový tok na mieru).
 4. **Fáza 2 ODOSLANÁ 16.7.** — úprimné priznanie + riešenie šité na "na mieru" model (dopytový flow namiesto katalógu) + mäkké CTA.
 5. **Reagovala 16.7. — cenová námietka:** funguje takto 11 rokov, e-shop mala, „všetko chápem", ale 3–4 tis. € doň znova nedá. Číta Markov návrh ako „ďalší e-shop za 3-4k" — námietka je proti starej investícii, nie proti riešeniu dopytového flowu.
-6. **Marko odpísal 16.7.** (znenie približné, podľa Marka): prijal námietku („to úplne chápem") + posun konverzácie ďalej. Námietka zatiaľ nebola adresovaná vecne (odlíšenie od jej starého e-shopu, cena).
+6. **Marko odpísal 16.7.** — reframe: jej starý e-shop bol katalógový (nepatrí na 90 % zákaziek na mieru), nový flow bez gatewayov a bez vstupnej investície (platby mesačne, bez rizika). Ponúka videohovor na detaily funkcie a ukážku.
 
 ## Komunikácia (IG DM, plný prepis)
 
@@ -59,13 +59,15 @@ Prekopírované Markom z IG inboxu 2026-07-16 (`ig-status167`).
 >
 > Ale 3-4tis do neho nedám znova
 
-**Marko (16.7., znenie približné — „odpisal som jej taketo nieco"):**
-> Aa okejj, to úplne chápem. Nasledne sa mozeme preniest do dalsej sekcie.
+**Marko (16.7., neskôr):**
+> V praxi by to vyzeralo tak, že zákazník si na stránke prezrie Vašu tvorbu, vyberie čo sa mu páči, opíše svoju predstavu — a Vám príde hotový dopyt. Cena by ostala na vyžiadanie, tak ako to robíte teraz, žiadna platobná brána, žiadne sklady. Stránka Vám len pripraví zákazníka tak, že Vy už len odpíšete cenu.
+>
+> Aby som Vám ale nesľuboval niečo naslepo, potreboval by som vedieť viac o tom, ako zákazky reálne prebiehajú. Nechceli by ste si na to spraviť krátky videohovor, 15–20 minút? Prejdeme si to a rovno Vám viem ukázať, ako by to u Vás mohlo vyzerať.
 
 ## Ďalší krok
 
-- [ ] **Adresovať cenovú námietku reframom**, nie ústupom: jej starý e-shop za 3–4k zlyhal, lebo katalógový e-shop nesedí na 90 % zákaziek na mieru — presne preto Marko e-shop ani nenavrhuje. Odlíšiť „dopytový flow" od toho, čo už raz kúpila, bez menovania ceny skôr, než bude jasný rozsah.
-- [ ] Prípadne sa spýtať, čo za e-shop mala a prečo sa neoplatil — diagnostická otázka, ktorá drží konverzáciu otvorenú a dá muníciu na odlíšenie.
+- [ ] **Čakať na odpoveď** — Marko posunul konverzáciu na videohovor. Námietka bola adresovaná vecne (starý katalógový e-shop vs. nový flow šitý na zákazky na mieru, bez gatewayov, bez voprednej investície).
+- [ ] Ak primie súhlas na videohovor, pripraviť sa na detailný rozhovor o jej workflow (ako prebiehajú objednávky, aké info potrebuje od zákazníka, ako rozpíše cenu, aké problémy to spôsobuje).
 
 ## Zdroje
 
