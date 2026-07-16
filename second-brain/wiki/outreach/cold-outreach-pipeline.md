@@ -49,7 +49,7 @@ Centrálny prehľad všetkých prospektov. Cieľ prvej vlny: **~20 mailov**, zbe
 | handmadebyluvela | IG DM | obsah bez predajného miesta | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-3]]) |
 | badynco | IG DM | zľavy bez dosahu | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-3]]) |
 | [[sperky-richterova|sperkyrichterovahandmade]] | IG DM | zákazková tvorba bez katalógu | 2026-07-15 | — | **2026-07-15** — ako zákazníkovi (foto v pondelok 20.7.) | **reagovala** — priznanie treba pred pondelkom ([[sperky-richterova]]) |
-| [[by-alisha|by_alisha.sk]] | IG DM | vlastný improvizovaný (predaj cez správy?) | 2026-07-15 | — | **2026-07-16** — cenová námietka: e-shop mala, 3–4k € znova nedá | **reagovala — cenová námietka** (kotva na starú zlú investíciu, nie odmietnutie); ďalší krok: reframe ([[by-alisha]]) |
+| [[by-alisha|by_alisha.sk]] | IG DM | vlastný improvizovaný (predaj cez správy?) | 2026-07-15 | — | **2026-07-16** — cenová námietka: e-shop mala, 3–4k € znova nedá; fáza 3 poslaná: reframe (katalógový e-shop ≠ dopytový flow, mesačne bez setup fee) + videohovor 15–20 min | **fáza 3 poslaná** — čaka sa na videohovor ([[by-alisha]]) |
 | AC keramika (Anna Čičková) | email | sashe 8/68 — dopyt > ponuka | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-4]]) |
 | Umelecká keramika | email | svojpomocný web brzdí predaj | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-4]]) |
 | Jupiter Oak Jewelry | IG DM | brand-first: moth šperky, 132K ✅16.7. | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |

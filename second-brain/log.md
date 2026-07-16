@@ -149,3 +149,6 @@ Reakcia na batch-5 #6 otvárač: enamel-arts.com hook potvrdený (skutočne mŕt
 
 ## [2026-07-16] update | Gollik Knives — rapport správa odoslaná
 Marko odoslal vlastnú EN rapport otázku na CZ/SK moment („So that must mean, that you are based in Czech Republic? (I am from Slovakia"). Prepis na [[gollik-knives]] doplnený; navrhnutý follow-up (custom-order flow + plán s .cz) uložený na stránke ako rezerva. Čaká sa na Jakubovu odpoveď.
+
+## [2026-07-16] update | by_alisha.sk — fáza 3 (reframe cenové námietky + videohovor)
+Marko adresoval cenovú námietku vecne: jej starý katalógový e-shop 3–4k € zlyhal preto, že 90 % zákaziek je na mieru — presne preto nenavrhuje klasický e-shop. Nový flow bez platobnej brány, bez vstupnej investície (mesačne bez záväzkov). Ponúka 15–20 min videohovor na diagnostiku reálneho workflow. Prepis konverzácie + stav aktualizované v [[by-alisha]], pipeline doplnený o fázu 3. Reframe držal konverzáciu otvorenú bez ústupu.
