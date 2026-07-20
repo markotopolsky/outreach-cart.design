@@ -1,10 +1,10 @@
 
-## [2026-07-20] ingest | Chuck Richards — email fáza 3 odoslaný
-Marko odoslal email na sales@chuckrichardsknives.com (predmet „The FreeBird — from Instagram"). Jadro:
-potvrdiť Chuckovu námietku („nikdo mi nepovie, že som vypredaný") a obrátiť ju — zákazník, ktorý
-odíde, sa neozve, takže absencia sťažností nie je dôkaz, že problém neexistuje. Marko sám ako osobný
-dôkaz (ani on to nepovedal, kým sa nepozrel profesionálne). CTA = krátky walkthrough zadarmo, bez
-záväzku. Aktualizovaná [[chuck-richards-knives]] (Ďalší krok: čaká sa na odpoveď).
+## [2026-07-20] ingest | Chuck Richards — email fáza 3 odoslaný (reframed)
+Marko odoslal reframed email na sales@chuckrichardsknives.com (predmet „The FreeBird — from Instagram").
+Verzia 1 (draft): argue with his premise. Verzia 2 (sent): počúvať — zdvojenie jeho vety „Not one single
+person says to me..." a otázka „Which is it?" — nechá Chucka vysvetliť, ako jeho operácia funguje, bez
+tlaku. Bez CTA, bez argumentu; len príslub. Aktualizovaná [[chuck-richards-knives]] (Email section,
+Ďalší krok: čaká sa na odpoveď).
 
 Append-only journal. Formát: `## [YYYY-MM-DD] akcia | názov` — `grep "^## \[" log.md | tail -5` pre posledné záznamy.
 
@@ -313,3 +313,16 @@ from Instagram") — **neodoslaný**, čaká na Markovu kontrolu. Jadro mailu: p
 („nikto mi nepovie, že som vypredaný") a obrátiť ju — zákazník, ktorý odíde, sa neozve, takže absencia
 sťažností nie je dôkaz. Marko sám ako dôkaz (ani on to nepovedal, kým sa nepozrel profesionálne).
 CTA = walkthrough zadarmo, nie hovor. Aktualizovaná [[chuck-richards-knives]] (Návrh mailu, Ďalší krok).
+
+## [2026-07-20] ingest | Batch 10 — zastarané SK e-shopy (Markov podnet: "maily do SK, horšie eshopy")
+Nová línia popri ICP v1/v2: etablované SK firmy s reálnym obratom a zastaraným webom (redesign grade, email).
+Metodika: Firecrawl discovery (7 dotazov, 7 kategórií) → kvalifikácia čistým Pythonom/`curl` (skript `qualify.py`,
+rozšírenie `stack.sh` o viewport, SSL, charset, jQuery, tables, og). ~50 domén preverených, 4 kvalifikovaní.
+Kvalifikovaní: Tatramodel (žiadny viewport = web bez mobilnej verzie, najsilnejší), Vcelo (3.7–4.2 s mobile),
+Konvička (2.3–4.2 s), Neoprot (pozdržaný — možno nepredáva online).
+Zamietnuté falošné hooky: windows-1250 charset (korektne deklarovaný, chyba dekódovania nie webu),
+jQuery 1.11.3 (default Shoptetu, 12 webov), jednorazové meranie rýchlosti (e-luma, ortokomplet vypadli po 4 meraniach).
+Vyradený rybarskepotreby-poprad.sk — SEO satelit, nie e-shop.
+Nové poznatky #9 (doorway page nie je lead), #10 (platformový boilerplate nie je nález), #11 (rýchlosť merať 4×).
+Dotknuté: wiki/outreach/outreach-batch-10.md (nová), cold-outreach-pipeline.md, index.md.
+Stav: 3 správy pripravené, **nič neodoslané** — čaká na Markovo schválenie.
