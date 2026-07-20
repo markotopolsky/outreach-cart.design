@@ -21,6 +21,7 @@ Katalóg celého vaultu. Schéma a pravidlá: [[CLAUDE|CLAUDE.md]] · História:
 - [[lobo-gun-leathers]] — US kožiar, holstery, 54 rokov; **active** — objednávky len telefón/email, 16-týždňový backlog; 20.7. pitch na guided order form
 - [[workaday-handmade]] — US tableware NY; **active** — drops + wholesale súčasne; 20.7. odoslaná diagnostická otázka
 - [[jason-fry]] — US nožiar, Guild president (referral node); **active** — pýtal sa, či je Marko bot (duplicitná správa mail+IG); vyjasnené, Marko poslal oba kanály sám; čaká sa na odpoveď
+- [[chuck-richards-knives]] — US nožiar „Home of the FreeBird" (116K IG, Wix); **active** — 20.7. same-day reply x2: (1) ako predajca („FreeBird is on sale, available in all options"), (2) po reframe „Not one single person says to me they think they're out of stock. Ok. Email to me. Link in bio" → **qualified**, move to email funnel
 - [[ban-tang-knives]] — US nožiar „Stupid Sharp"; **active** — 20.7. overovacia otázka, či web reálne umožňuje checkout
 - [[wolf-ceramics]] — US keramika, reštauračné collaby; **done** — 20.7. odmietla („not looking for help at this time")
 - [[sacha-carlos-raps]] — US stained glass interiors; **waiting** — chce komunikovať mailom; návrh mailu hotový na stránke, Marko posiela manuálne
@@ -42,10 +43,10 @@ Katalóg celého vaultu. Schéma a pravidlá: [[CLAUDE|CLAUDE.md]] · História:
 - [[outreach-batch-5]] — 21 EN otváračov pre zvyšok Cart Leads CSV (6 non-knife + 15 knife makerov); **active** — Marko vyriešil processor aj owner otázky, odosielanie 16.7. (potvrdiť stav)
 - [[outreach-batch-6]] — 15 nových US leadov (keramika, šperky, koža, vitráže, svietidlá; bez nožov), nájdené a overené 16.7. (WebSearch/Google + curl + Kimi WebBridge); **active** — 10 brand-first / 5 tech-first, **všetkých 15 odoslaných 16.7.**
 - [[gollik-knives]] — CZ nožiar Jakub Golla (Tier 3, batch 5 #21); **active** — 20.7. odoslaná odpoveď (mirror jeho plánu + otázka na platby karta/prevod), čaká sa
-- [[nino-rostomashvili]] — gruzínska cloisonné email remeselníčka (batch 5 #6); **active/warm** — Etsy jej zablokoval PayPal, cez Payoneer dostáva ~polovicu ceny; na pivot k ownership platieb odpovedala mäkkým áno s odkladom (námietka: drahý export z Gruzínska); pripravený follow-up neodoslaný
+- [[nino-rostomashvili]] — gruzínska cloisonné email remeselníčka (batch 5 #6); **nurture** — overený pain point (Etsy zablokoval PayPal, cez Payoneer dostáva ~polovicu ceny), ale 2× soft-close („will think about this"); ďalší push zastavený, re-touch ~09/2026 len s novým dôvodom
 - [[outreach-batch-7]] — nová niche: drevo/nábytok (US/UK/CA), 2 kvalifikovaní z ~20 preverených (Firecrawl + Kimi WebBridge, 20.7.); **active** — Raina Nicole Woodworks (248K IG), Doucette and Wolfe (25.2K IG), obe pripravené, nič neodoslané
 - [[outreach-batch-8]] — nová niche: nože + kožené výrobky (US/UK/EU), **20 kvalifikovaných z 47 preverených** (Firecrawl discovery + Kimi WebBridge verifikácia, 20.7.); **active** — **18/20 odoslaných a doručených** cez Kimi WebBridge (direct/new search flow), 2/20 zablokované IG (DM-restricted účty: Dark Timber Customs, Lord Leathercraft); ⚠️ nože = high-risk platby
-- [[outreach-batch-9]] — dávka podľa ICP v2: DTC značky spánok/dýchanie SK/CZ (Pekne, Hevi, Gudslip, Resty); **active** — 4 leady s overenými hookmi, správy pripravené, **nič neodoslané**
+- [[outreach-batch-9]] — dávka podľa ICP v2: DTC značky spánok/dýchanie SK/CZ (Pekne, Hevi, Gudslip, Resty); **active** — **všetky 4 odoslané 20.7.** (kombinovaná správa variant B), čaká sa na reakcie
 - [[outreach-links]] — tabuľka IG + web odkazov pre všetkých 38 leadov (na použitie s Claude in Chrome)
 - [[biorythme]] — cold outreach prospekt (cart.design); **active** — finálny návrh otvárača hotový (zlúčené varianty + Markov draft), Marko posiela manuálne
 

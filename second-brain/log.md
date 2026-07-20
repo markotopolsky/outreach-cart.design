@@ -236,3 +236,57 @@ na **drahé export/poštovné z Gruzínska** + odklad („in nearest future"). P
 platformy — je rovnaké nech predáva kdekoľvek, mení sa len to, čo jej zostane po poplatkoch; bariéra znížená
 z 15-min callu na konkrétny artefakt (prepočet marže na 2–3 jej reálnych kusoch). Aktualizované:
 [[cold-outreach-pipeline]] (riadok Nino), index.md.
+
+## [2026-07-20] ingest | Nino Rostomashvili — soft-close, stopa presunutá do nurture
+Na follow-up (oddelenie poštovného od platformy + ponuka prepočtu marže) odpísala „Many Thanks. Will think
+about this." — druhé mäkké odloženie za sebou, bez novej námietky a bez otázky. Vyhodnotené ako dojazdené
+kolo: **ďalší push zastavený**, status prepnutý `active` → `waiting`/nurture. Zapísaný plán re-touchu
+(~09/2026, len s novým dôvodom: prepočet marže z verejných Etsy cien / precedens remeselníka mimo EU-US /
+zmena politiky Etsy voči Gruzínsku). Pain point zostáva overený a hodnotný aj do budúcna.
+⚠️ Nezrovnalosť: follow-up bol v predošlom zápise vedený ako neodoslaný, no Marko hlásil jej odpoveď naň —
+označený ako odoslaný, presný čas a kanál NEOVERENÉ. Aktualizované: [[nino-rostomashvili]],
+[[cold-outreach-pipeline]], index.md.
+
+## [2026-07-20] ingest | Batch 9 — variant B (kombinovaná správa) podľa reálneho precedensu Nosky
+Marko ukázal skutočnú správu poslanú Jakubovi (Nosky.cz): rapport + technický nález + ponuka prvého
+vylepšenia zadarmo + CTA na 15min call, všetko v jednej správe (nie dvojfázovo ako [[cold-outreach-manual]]).
+Zapísané ako Variant B v [[outreach-batch-9]] — 4 správy (Pekne, Hevi, Gudslip, Resty), rovnaká kostra,
+personalizované overenými hookmi z tejto session. Variant A (fáza 1) ponechaný pre porovnanie, nič nezmazané.
+⚠️ Mená zakladateľov neoverené pre všetky štyri (na rozdiel od Jakuba) — správy oslovujú bez mena.
+
+## [2026-07-20] ingest | Chuck Richards Knives — odpoveď na otvárač (batch 8 #1)
+Odpísal ako predajca zákazníkovi: „The FreeBird is on sale now and available in all options" — neriešil otázku,
+opravil predpoklad o vypredanosti. Tretí výskyt patternu „otvárač ako od zákazníka" ([[lois-gore-hampton-gem]],
+[[darcekove-kytice]]). Nový uhol: jeho odpoveď je sama dôkazom hooku — web komunikuje vypredané, pravdu sa
+Marko dozvedel až v DM. Vytvorená [[chuck-richards-knives]] s prepisom a pripraveným (NEODOSLANÝM) priznaním
++ reframom. Aktualizované: [[cold-outreach-pipeline]] (riadok Chuck), [[outreach-batch-8]] (#1), index.md.
+⚠️ Pred pitchom overiť platobný procesor (nože = high-risk).
+
+## [2026-07-20] ingest | Don Hanson III — druhá odpoveď Marka (IG DM)
+Do [[don-hanson-sunfish-forge]] doplnený verbatim follow-up (waitlist/pre-order page + explicitné „I build exactly
+this kind of thing for makers", soft close). Donovo poďakovanie medzi správami zatiaľ nezaznamenané — doplniť z IG.
+Stav ostáva **waiting**, ďalší krok nezmenený (touch okolo októbra).
+
+## [2026-07-20] ingest | Chuck Richards — fáza 2 odoslaná
+Marko odoslal (20.7.) poznanie + reframe: „I went through the site the way a customer would and came away
+thinking the FreeBird was gone. You just told me in a DM it's on sale in every option. Everyone landing there
+today reads it the way I did — and almost none of them will message you to check." Napísaná krátšia verzia
+bez ospravedlnení (Chuck odpísal len jednu vetu, neprispel čas ako Lois). Čaká sa na odpoveď.
+Aktualizované: [[chuck-richards-knives]] (stav fázy 2, komunikácia), [[cold-outreach-pipeline]].
+
+## [2026-07-20] ingest | Batch 9 odoslaný — všetky 4 leady
+Marko potvrdil odoslanie variantu B (kombinovaná správa) všetkým štyrom leadom z [[outreach-batch-9]]:
+Pekne (IG DM), Hevi (email), Gudslip (email), Resty (IG DM). Stavové tabuľky updatnuté v batch-9,
+[[cold-outreach-pipeline]] aj index.md — dátum odoslania 2026-07-20, čaká sa na reakcie.
+
+## [2026-07-20] ingest | Gudslip — priamy telefonický kontakt
+Marko získal osobné číslo na Gudslip: +420 722 287 570 (WhatsApp/SMS). Píše tam osobne, mimo emailovej
+správy odoslanej skôr. Zapísané do [[outreach-batch-9]] ako dodatočný kanál — obsah tejto konverzácie
+zatiaľ mimo vaultu, Marko ju rieši sám.
+
+## [2026-07-20] ingest | Chuck Richards — druhá reply, move to email funnel
+Chuck odpovedal (same-day) na Markovo poznanie + reframe: „Not one single person says to me they think they're
+out of stock. Ok. Email to me. Link in bio" — **qualified signal**. Čistá komunikácia, bez defenzivy, explicitne
+žiada email kanál (Link in bio = email v IG bio). Aktualizovaná [[chuck-richards-knives]] (Komunikácia, Stav,
+Ďalší krok: extrahovať email a poslať email pitch), [[cold-outreach-pipeline]] a index.md.
+Priorita: získať email z IG bio, poslať pitch cez email.
