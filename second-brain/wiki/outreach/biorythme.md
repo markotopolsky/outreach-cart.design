@@ -2,7 +2,7 @@
 type: project
 status: active
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-07-20
 aliases: [Biorythme.cz]
 tags: [cart-design, cold-outreach]
 ---
@@ -36,21 +36,24 @@ Cieľ: vyvolať reakciu, nie predať. Kanál: telefón/WhatsApp — krátke, pri
 
 **Odporúčanie:** Variant A, pretože pain point je konkrétny a overený (viacerí ľudia sa sťažovali) — dáva najkonkrétnejší dôvod na odpoveď.
 
+## Finálny návrh (draft, neodoslaný — Marko posiela manuálne)
+
+Zliate z Variantu A (silnejšia záverečná otázka) a Markovho vlastného rozpisu (osobnejší opener „poznám už dlhšie"). Vypustená veta o webe „vyzerá pekne, bez chýb" — protirečila si s pain pointom aj s vlastným researchom (eshop je zastaraný, priestor na redizajn, viď Situácia vyššie).
+
+> Ahojte, poznám Biorythme už dlhšie a musím povedať — produkt je top. Zaujímavé je, že som od viacerých ľudí počul, že objednávanie cez web im dalo trochu zabrať. Riešite to nejako, alebo to zatiaľ necháte tak, keďže sa to aj tak predáva samo? 😊
+>
+> S pozdravom,
+>
+> Topolsky Marek
+> +421 948 071 761
+> www.cart.design
+
 ## Ďalší krok
 
-Po odoslaní: nastav `status: osloveny` a `datum_oslovenia` v [[biorythme.cz-raw|raw poznámke]]. Ak zareagujú → fáza 2 (pitch) podľa master promptu v [[cold-outreach-manual]].
+- [ ] **Marko pošle správu vyššie manuálne** (telefón/WhatsApp, kontakt +420 775 605 265).
+- [ ] Po odoslaní: nastav `status: osloveny` a `datum_oslovenia` v [[biorythme.cz-raw|raw poznámke]]. Ak zareagujú → fáza 2 (pitch) podľa master promptu v [[cold-outreach-manual]].
 
 ## Zdroje
 
 - [[biorythme.cz-raw|biorythme.cz-raw.md]]
 - [[cold-outreach-manual]]
-
-Ahojte, poznám Biorythme už dlhšie a musím povedať produkt je top. Funguje, vyzerá pekne a pre človeka, čo to potrebuje, tak to je to bez chýb 😉. Zaujímavé je, že som od viacerých ľudí počul, že objednávanie cez web im dalo trochu zabrať. Riešite to nejako, alebo to zatiaľ necháte tak?
-
-S pozdravom, 
-
-Topolsky Marek
-+421 948 071 761
-www.cart.design
-
-

@@ -2,7 +2,7 @@
 type: organization
 status: active
 created: 2026-07-16
-updated: 2026-07-16
+updated: 2026-07-20
 aliases: [Gollik Knives, Jakub Golla, gollikknives]
 tags: [cart-design, cold-outreach, lead, knives]
 ---
@@ -27,7 +27,7 @@ Nožiar — **Čech** (Marko pôvodne podľa CSV čakal US lead; .cz doména a m
 
 ## Stav konverzácie
 
-**Reagoval** (2026-07-16). Otvorený, priateľský tón, sám ponúkol alternatívne kanály. Marko odoslal rapport otázku na CZ/SK moment (16.7.), čaká sa na odpoveď. Ďalší krok potom: pripravený follow-up nižšie — custom-order flow + plán s .cz, stále bez pitchu.
+**Reagoval** (2026-07-16). Otvorený, priateľský tón, sám ponúkol alternatívne kanály. Marko odoslal rapport otázku na CZ/SK moment (16.7.). **Potvrdil (k 17.7., zbadané v inboxe 20.7.): „Ano, jsem z Prahy."** Marko 20.7. odoslal pripravený follow-up (custom-order flow + plán s .cz) v slovenčine. **Odpovedal (20.7.)**: custom objednávky rieši cez FB; na .cz doméne plánuje **galériu**, sekciu na to, keď je niečo voľné/dostupné na odber, a aj pár „štandardnejších" modelov (t.j. nie len 1:1 custom, ale aj katalógové kusy). Toto je silný signál pre pitch — presne zodpovedá cart.design custom e-shop modelu (galéria + jednoduchý flow na dostupné kusy + katalóg štandardných modelov, nie klasický shopify košík). Marko (cez Kimi WebBridge) 20.7. odoslal odpoveď mirror-ujúcu jeho 3 body naspäť + otázku na platobný spôsob pri štandardných kusoch (karta vs. prevod) — kľúčové zistiť pred pitchom kvôli HIGH-RISK payment processingu pri nožiach. Čaká sa na odpoveď.
 
 ## Komunikácia
 
@@ -45,13 +45,23 @@ Prepis z IG DM, vložil Marko 2026-07-16.
 **2026-07-16 — Marko (cart.design):**
 > So that must mean, that you are based in Czech Republic? (I am from Slovakia
 
-## Pripravený follow-up (návrh, neodoslané)
+**2026-07-17 (zbadané v inboxe 20.7.) — Jakub Golla:**
+> Ano, jsem z Prahy
 
-Rezerva pre ďalší krok — custom-order flow + plán s .cz (posunúť do SK/CZ podľa toho, ako Jakub zareaguje na CZ/SK moment):
-
-> Škoda tej .com — klasika, doména expiruje a do pár dní ju zoberie squatter. Ten #1 vyzerá parádne mimochodom.
+**2026-07-20 — Marko (cart.design, cez Kimi WebBridge, prepnuté do SK/CZ):**
+> Praha, super, kúsok od nás teda. Škoda tej .com, klasika, doména expiruje a do pár dní ju zoberie squatter. Ten #1 vyzerá mimochodom parádne.
 >
-> A ako ti teraz fungujú tie custom objednávky? Ľudia ťa chytajú cez FB/fórum správy a rieši sa to individuálne? Pýtam sa aj preto, že tá .cz — máš už plán, čo na nej bude, alebo zatiaľ len sedí kúpená?
+> A ako ti teraz fungujú tie custom objednávky? Ľudia ťa chytajú cez FB/fórum a rieši sa to individuálne? Pýtam sa aj preto, že tá .cz, máš už plán čo na nej bude, alebo zatiaľ len sedí kúpená?
+
+**2026-07-20 — Jakub Golla:**
+> Custom přes FB, na doméně bude nějaká galerie, něco když bude volné k odběru a nějaké "standardnější" modely.
+
+**2026-07-20 — Marko (cart.design, cez Kimi WebBridge):**
+> To znie presne ako to, čo vieme postaviť — galéria tvojej práce, sekcia "práve dostupné" na rovno kúpenie bez čakania, a katalóg štandardných modelov na priamy nákup. Custom by ostal cez FB ako doteraz.
+>
+> Ako by si chcel riešiť platby pri tých štandardných kusoch — kartou, alebo skôr prevodom ako teraz?
+
+Čaká sa na odpoveď.
 
 ## Zdroje
 

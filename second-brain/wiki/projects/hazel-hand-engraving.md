@@ -2,7 +2,7 @@
 type: project
 status: done
 created: 2026-07-16
-updated: 2026-07-16
+updated: 2026-07-20
 aliases: [Hazel Hand Engraving, Marlen Hazel, hazel.handengraving]
 tags: [cart-design, cold-outreach, lead, en]
 ---
@@ -41,6 +41,12 @@ Prekopírované Markom z IG inboxu 2026-07-16 (`ig-status167`).
 
 **Marko (uzavretie, 16.7.):**
 > That's honestly rare — most people at your level would charge for every minute of that knowledge. Respect for keeping it free. I'll check out the YouTube channel. Thanks Marlen, and good luck with the commissions! 🙌
+
+**Marlen (k 17.7., prijaté v inboxe 20.7.):**
+> Yea that kind of gatekeeping is how we got to this point tho; the craft is considered endangered right now; so I'm more interested in saving it 🤜🏻🤛🏻
+
+**Marko (20.7., cez Kimi WebBridge):**
+> Well said — respect for fighting for it. Take care, Marlen!
 
 ## Ďalší krok
 

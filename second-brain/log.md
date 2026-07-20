@@ -152,3 +152,87 @@ Marko odoslal vlastnú EN rapport otázku na CZ/SK moment („So that must mean,
 
 ## [2026-07-16] update | by_alisha.sk — fáza 3 (reframe cenové námietky + videohovor)
 Marko adresoval cenovú námietku vecne: jej starý katalógový e-shop 3–4k € zlyhal preto, že 90 % zákaziek je na mieru — presne preto nenavrhuje klasický e-shop. Nový flow bez platobnej brány, bez vstupnej investície (mesačne bez záväzkov). Ponúka 15–20 min videohovor na diagnostiku reálneho workflow. Prepis konverzácie + stav aktualizované v [[by-alisha]], pipeline doplnený o fázu 3. Reframe držal konverzáciu otvorenú bez ústupu.
+
+## [2026-07-20] update | IG inbox — 13 odpovedí odoslaných cez Kimi WebBridge
+
+Prešiel sa celý IG inbox (@markotopolsky) a Marko odpovedal **všetkým 13 leadom**, ktorí odpísali od 16.7. Odoslané cez Kimi WebBridge, každá správa overená vo vlákne.
+
+**Pokrok v konverzácii:** [[drop-dead-candles]] (sama pomenovala prichádzajúci pitch → priamy pitch na Etsy fees + ownership), [[sweet-nothings-studios]] (SSL diagnóza prijatá → mäkký CTA), [[nino-rostomashvili]] (Etsy/PayPal/Payoneer pain point → pivot na ownership platieb), [[gollik-knives]] (potvrdil Prahu → follow-up prepnutý do SK), [[rebecca-d-enamel]] (hravá odpoveď o manželovi → ponuka referencií, bez tlaku).
+
+**Nové stránky (8):** [[lois-gore-hampton-gem]], [[lobo-gun-leathers]], [[workaday-handmade]], [[jason-fry]], [[ban-tang-knives]], [[wolf-ceramics]], [[sacha-carlos-raps]], [[colin-shannon-shannon-steel-labs]], [[don-hanson-sunfish-forge]].
+
+**Poznatky:**
+- **Poznatok #5 — geografická diskriminácia platieb je silnejší pain point než discovery.** Nino (Gruzínsko) nezaujíma, ako ju zákazníci nájdu, ale Etsy jej zablokoval PayPal a cez Payoneer dostáva ~polovicu predajnej ceny. U leadov mimo US/EU sondovať platby, nie fees všeobecne.
+- **Poznatok #6 — duplicitný kanál (mail + IG) poškodzuje dôveryhodnosť.** Jason Fry (Guild president, referral node) sa priamo spýtal „Are you real person?". Jeden lead = jeden kanál, alebo priznať dvojitý kontakt hneď v druhej správe.
+- **Potvrdenie poznatku #2** (otvárač ako od zákazníka): Lois Gore odpovedala dlhým predajným procesom ako zákazníkovi — priznanie bolo nevyhnutné, riziko bait-and-switch.
+- **Tier 3 (nože) je z veľkej časti mŕtvy nie kvôli platbám, ale kvôli kapacite:** Don Hanson (backlog 6–8 rokov), Colin Shannon (výroba pozastavená, hľadá dielňu) — dopyt extrémny, ale nemajú čo predávať.
+
+**Otvorený akčný bod pre Marka:** [[sacha-carlos-raps]] chce komunikovať mailom — **mail na hello@sacharaps.com ešte nebol odoslaný**, na IG bol len prisľúbený.
+
+## [2026-07-20] ingest | Batch 7 — nová niche: drevo/nábytok (discovery)
+Marko chcel otestovať novú nišu mimo doterajších cez Firecrawl + Kimi WebBridge. Firecrawl token bol znovu neplatný (401) — vyriešené `firecrawl logout` + `firecrawl login` (browser flow, Marko dokončil manuálne). Discovery: 5 `site:instagram.com` search queries (custom furniture, live edge, cutting boards/DM-to-order, wood turning waitlist, hand carved spoons) + 2 doplnkové lookupy. Z ~20 preverených kandidátov (Kimi WebBridge bio/followers + Firecrawl scrape na nav webu) kvalifikovaní len 2: Raina Nicole Woodworks (248K IG, web bez shopu) a Doucette and Wolfe/Matthew Wolfe (25.2K IG, starý statický web bez cart). TK Fareed (346K IG) vylúčená — má funkčný e-shop. Nižší strike rate než koža/šperky — poznatok: drevári skôr nemajú e-shop vôbec než majú rozbitú doménu. Nové: `raw/.../wood-furniture-leads-batch7-2026-07-20.md`, [[outreach-batch-7]]; pipeline +2 riadky, index.md aktualizovaný. Nič neodoslané — čaká na Markovu kontrolu.
+
+## [2026-07-20] update | Batch 7 — doplnený úplný zoznam kandidátov
+Marko chcel vidieť všetkých ~20 (reálne 28) kandidátov zo search výsledkov, nielen filtrovaný výber. Doplnená tabuľka do `wood-furniture-leads-batch7-2026-07-20.md`: 2 kvalifikovaní, 10 individuálne overených a vylúčených (s dôvodom), 16 zatiaľ neoverených (meno/firma zo snippetu, handle/web nekontrolovaný — treba doplniť pred kontaktom), + 2 mimo niche (šum v search výsledkoch). Index.md aktualizovaný na presný počet.
+
+## [2026-07-20] update | Drafty na manuálne odoslanie: Sacha (mail), biorythme (fáza 1) — Jason Fry vyjasnený
+
+Na Markovu žiadosť pripravené dva drafty, ktoré posiela manuálne sám:
+- **[[sacha-carlos-raps]]** — návrh mailu na hello@sacharaps.com (nadväzuje na IG konverzáciu, pýta sa na komisný proces, mäkký CTA). Doplnené do stránky, neodoslané.
+- **[[biorythme]]** — finálny návrh otvárača: zlúčenie Variantu A (silnejšia záverečná otázka) s Markovým vlastným rozpisom (osobnejší opener); vypustená veta „vyzerá pekne, bez chýb", ktorá si protirečila s pain point pitchom aj researchom. Starý neusporiadaný draft na konci stránky vyčistený.
+
+**[[jason-fry]] vyjasnené:** Marko potvrdil, že mail aj IG správu poslal zámerne sám — nejde o chybu v procese. Označené ako vyriešené na stránke.
+
+## [2026-07-20] ingest | Jakub Golla (Gollik Knives) reply — custom flow + .cz plan
+Jakub odpovedal na Markov follow-up: custom objednávky rieši cez FB, na gollikknives.cz plánuje galériu, sekciu na aktuálne voľné/dostupné kusy a pár „štandardnejších" (katalógových) modelov. Aktualizované [[gollik-knives]] (Komunikácia + Stav konverzácie), index.md.
+
+## [2026-07-20] outreach | Gollik Knives — odpoveď odoslaná
+Marko odoslal odpoveď Jakubovi Gollovi cez Kimi WebBridge (IG DM): mirror jeho 3 bodov (galéria/dostupné kusy/štandardné modely) + otázka na platobný spôsob (karta vs. prevod) pred custom-order pitchom. Aktualizované [[gollik-knives]], index.md.
+
+## [2026-07-20] outreach | by_alisha.sk — WhatsApp pokus
+Marko sa neďaleko dostáva na IG (videohovor CTA bez odpovede od 16.7.), skúsil WhatsApp: "Úplne chápem. Kľudne som za aj ten WhatsApp. Dáte mi prosím Vaše číslo." — pokus aktivácie na iný kanál. Aktualizované [[by-alisha]] (ďalší krok), index.md.
+
+## [2026-07-20] ingest | Batch 8 — nová niche: nože + kožené výrobky (discovery)
+Marko chcel nájsť 18–20 leadov na knife makers + handmade leather goods makers (US/UK/CA). Discovery cez Google search (« best handmade knife makers instagram USA », « artisan leather goods makers instagram USA ») + Instagram hashtag #knifemaker. Zbierané: knife makers (Jordan Davis, Rob Ball, + z Reddit diskusií výskytnuté handles @allstarknives, @draugrsteel, @steelsmithnothings, @highwood.knives, @bladesmith, @primitiveknives), leather goods makers (Odin Leather Goods @codeLeather — Dallas, Lost Dutchman Leather, Somos @rosioleatherco — Portland). Metodika: podobná batch-7, Kimi WebBridge verifikácia pending (followers, bio link, web presence). Nové: `raw/.../knife-leather-leads-batch8-2026-07-20.md`, [[outreach-batch-8]]; tabuľka 22 kandidátov (5 Known z pipeline + 17 Research/TBD). Pipeline tabuľka neupdatnutá (žiada sa Markova kontrola pred odoslaním). Index.md + log.md aktualizované. Poznámka: knife makers majú vyšší median followersov než drevo (viac influencer faktor), leather goods mix solo craftspeople + malé branding teams; obe niche majú nižší e-shop adoption → hook rovnaký ako batch-7 („chýbajúci online ordering", nie „web nefunguje").
+
+## [2026-07-20] ingest | Batch 8 — nože + koža, overený research (20 kvalifikovaných)
+Marko žiadal 18–20 kvalifikovaných leadov (nože + kožené výrobky) cez Firecrawl s Kimi WebBridge verifikáciou, vrátane leadov, ktoré eshop majú, ale oplatí sa ho prerobiť. Discovery: 9 Firecrawl queries → 47 unikátnych IG handles. Verifikácia: Kimi WebBridge (followers/bio/link — **Firecrawl instagram.com nescrapuje**) + curl/DNS + Firecrawl scrape webov (platforma, sold-out počty). Výsledok: **20 kvalifikovaných z 47 (~43 %)** — 10 nožiarov, 10 kožiarov; ~35 vylúčených s dôvodmi. Všetkých 20 otváračov brand-first (dáta: 3/6 vs. tech-first 1/6). Nové: `raw/.../knife-leather-leads-batch8-verified-2026-07-20.md`, [[outreach-batch-8]]; 20 riadkov pridaných do [[cold-outreach-pipeline]] ako `pripravený`. Predošlý neoverený raw súbor batch-8 ponechaný nedotknutý (hard rule) a označený ako nepoužiteľný. Nič neodoslané — čaká na Markovu kontrolu. Poznatky: nože = vypredaný eshop (demand leak), koža = schovaný predaj (bio vedie na blog/linktree/Notion); #5 spiaci účet ≠ lead (margigaba: mŕtva doména, ale posledný post 2021); #6 Firecrawl nevie IG. index.md + log.md aktualizované.
+
+## [2026-07-20] outreach | Batch 8 — 18/20 otváračov odoslaných cez Kimi WebBridge
+Na Markov pokyn "send it" odoslané všetkých 20 pripravených IG DM z [[outreach-batch-8]]. Prvý pokus cez profilovú stránku (Message button) fungoval na leade #1, no pri #2/#3 tlačidlo prestalo byť nájditeľné — Marko usmernil na spoľahlivejší flow: `instagram.com/direct/new/` → search handle → Chat → Send. Tento postup fungoval bez zlyhania na zvyšku dávky. **Výsledok: 18/20 doručených** (potvrdené screenshotom modrej odoslanej bubliny v každej konverzácii), **2/20 zablokované Instagramom** — Dark Timber Customs (Peter Kohler) a Lord Leathercraft (Geoffrey) obmedzujú DM len na followerov/mutuals, IG vrátil systémovú správu namiesto doručenia (rovnaký jav ako Raina Nicole Woodworks v batch 7). Aktualizované: [[cold-outreach-pipeline]] (20 riadkov: 18× oslovený s dátumom, 2× označené ako nedoručené), [[outreach-batch-8]] (sekcia Stav odoslania + poznatok #7 o nespoľahlivosti profilového Message tlačidla), index.md.
+
+## [2026-07-20] outreach | Drop Dead Candles — pitch odmietnutý, push follow-up odoslaný
+Na priamy pitch (odoslaný 20.7.) odpovedala „I'm ok, thanks though" — odmietnutie. Namiesto zdvorilého uzavretia Marko zvolil druhý, hravejší push follow-up (ironizuje jej „I'm ok", nízkonákladová 15-min ponuka) + link na cart.design ako referenciu práce. Prepis doplnený do [[drop-dead-candles]], stav konverzácie a ďalší krok aktualizované, index.md aktualizovaný. Čaká sa na reakciu.
+
+## [2026-07-20] query | Nový ICP pre SK/CZ DTC značky (nosky.cz, pekne.eu)
+Marko chcel osloviť "slovenské brandy ako nosky.cz / pekne.eu". Overenie oboch webov (curl + /products.json)
+ukázalo, že nejde o dizajnové značky, ale o priamych konkurentov v nike nosných pások/biohackingu — spoločný
+menovateľ je obchodný model, nie estetika. Založený [[icp-dtc-znacky-sk-cz]] (ICP v2: DTC značky s funkčným
+Shopify e-shopom, ktorý ich brzdí) + trojvrstvová research infra (Firecrawl discovery → curl kvalifikácia
+zadarmo → Kimi WebBridge verifikácia). Nálezy: pekne.eu má prázdny <title>, 111 script tagov; nosky.cz 65
+scriptov + produkty za 0 Kč v katalógu. Do [[cold-outreach-pipeline]] pridané poznatky #7 a #8. Leady zatiaľ
+nehľadané — čaká sa na Markov pokyn spustiť discovery.
+
+## [2026-07-20] ingest | Batch 9 — DTC značky spánok/dýchanie SK/CZ
+Discovery podľa [[icp-dtc-znacky-sk-cz]]: Firecrawl (9 dotazov) + curl kvalifikácia. 3 leady v [[outreach-batch-9]]:
+Hevi (hevisleep.sk/.cz), Gudslip (gudslip.cz), Resty (feelresty.com). Správy fázy 1 pripravené, nič neodoslané.
+KOREKCIA: nález "pekne.eu má prázdny <title>" z predošlej session je VYVRÁTENÝ — bola to chyba greplu
+(titulok pokračoval na ďalšom riadku), nie chyba webu. Falošne označilo 4 z 5 Shopify webov. Head parsovať
+Pythonom s re.S, nie riadkovým greplom. Podobne "gudslip je pomalý" (2.22s) bol artefakt paralelného behu,
+pri troch samostatných meraniach 0.23s. Vylúčení: naturdrop.cz (HTTP 402, zmrazený Shopify), resellery.
+⚠️ Zapísaný konflikt záujmov: nosky/pekne/gudslip/hevi/resty sú navzájom konkurenti.
+
+## [2026-07-20] ingest | Pekne.eu pridané do batch 9, hooky opravené
+Nájdený overený hook pre pekne.eu: 111 <script> tagov na homepage (overené 2× nezávisle). Pôvodný vyvrátený
+title-hook definitívne nahradený. Zároveň opravená chyba fázy 1 v Hevi správe — draft obsahoval "Robíme
+e-shopy" (zmienka o službe), čo porušuje pravidlo cold-outreach-manual (fáza 1 = žiadna zmienka o ponuke);
+odstránené. [[outreach-batch-9]] teraz má 4 leady (Pekne, Hevi, Gudslip, Resty), pre každý email aj IG DM
+verziu (kde mail existuje). Nič neodoslané, čaká sa na Marka.
+
+## [2026-07-20] ingest | Nino Rostomashvili — mäkké áno s odkladom, follow-up pripravený
+Na pivot k „ownership platobných možností" odpísala „Well yes, I think about this option", ale posunula námietku
+na **drahé export/poštovné z Gruzínska** + odklad („in nearest future"). Prepis doplnený do
+[[nino-rostomashvili]], stav prepnutý na warm/odložené. Pripravený (NEODOSLANÝ) follow-up: oddeliť poštovné od
+platformy — je rovnaké nech predáva kdekoľvek, mení sa len to, čo jej zostane po poplatkoch; bariéra znížená
+z 15-min callu na konkrétny artefakt (prepočet marže na 2–3 jej reálnych kusoch). Aktualizované:
+[[cold-outreach-pipeline]] (riadok Nino), index.md.

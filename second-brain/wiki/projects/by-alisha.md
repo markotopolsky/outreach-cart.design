@@ -2,7 +2,7 @@
 type: project
 status: active
 created: 2026-07-16
-updated: 2026-07-16
+updated: 2026-07-20
 aliases: [by Alisha, by_alisha.sk]
 tags: [cart-design, cold-outreach, lead, slovensko]
 ---
@@ -66,7 +66,7 @@ Prekopírované Markom z IG inboxu 2026-07-16 (`ig-status167`).
 
 ## Ďalší krok
 
-- [ ] **Čakať na odpoveď** — Marko posunul konverzáciu na videohovor. Námietka bola adresovaná vecne (starý katalógový e-shop vs. nový flow šitý na zákazky na mieru, bez gatewayov, bez voprednej investície).
+- [ ] **Čakať na odpoveď na videohovor** — Marko posunul konverzáciu na videohovor na IG (16.7.). ⚠️ **Neodpisuje na IG** — 20.7. sa Marko pokúsil cez WhatsApp: "Úplne chápem. Kľudne som za aj ten WhatsApp. Dáte mi prosím Vaše číslo." — pokus presunúť do kanála, kde možno reaguje aktívnejšie.
 - [ ] Ak primie súhlas na videohovor, pripraviť sa na detailný rozhovor o jej workflow (ako prebiehajú objednávky, aké info potrebuje od zákazníka, ako rozpíše cenu, aké problémy to spôsobuje).
 
 ## Zdroje

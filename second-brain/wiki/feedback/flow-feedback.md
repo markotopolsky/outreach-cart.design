@@ -64,4 +64,12 @@ darcekove_kytice
 ](https://www.instagram.com/darcekove_kytice/#) 
 
 - ked nieco nevyde, nech sa zapisu data a nasledne, nech sa to vymaze ;D 
-- 
+- tiez ked je nejaky update, nech sa to nasledne pushuje4
+- tiez- mozno lepsia verifikacia toho, ze ako sa to robi -> mame kimi a firec. ci nestaci len firecrawl??
+- netreba tam pisat kokotiny, len raw data su najviac important !
+	- ziadne to do a podobne, len convo a ked tak sa to samo posle a podobne
+- niekedy out of kontext dlhe spravy 
+	- mozno, ze ked vidia, ze neodpisuju dlhe slohovky, nepisat tolko, staci menej
+-  Okay, send. == kimi web bridge + sprava na ig a odosielame.
+- jednoduchsie zapisovanie, nemusi to byt takto zlozite a obsirne. 
+- najst aj cislo, ked je nejake :D 

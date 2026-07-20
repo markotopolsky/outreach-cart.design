@@ -1,0 +1,6 @@
+- poznamky overall
+- situacia je rovnaka- uvidime ci z toho daco bude a po dobne 
+- nestihli sa moc o tom bavit 
+	- chalani == marekovia
+		- adam finishuje a uz to je vlastne take -> 
+		- chce byt fer 

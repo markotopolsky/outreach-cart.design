@@ -2,7 +2,7 @@
 type: project
 status: active
 created: 2026-07-15
-updated: 2026-07-16
+updated: 2026-07-20
 aliases: [Outreach pipeline, Cold outreach pipeline]
 tags: [cart-design, cold-outreach, sales]
 ---
@@ -68,7 +68,29 @@ Centrálny prehľad všetkých prospektov. Cieľ prvej vlny: **~20 mailov**, zbe
 | Brit McDaniel (ex Paper & Clay) | IG DM | tech-first: stará doména timeoutuje po rebrande ✅16.7. 2× | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
 | Callahan Ceramics | IG DM | tech-first: bio "next release: 2025 tbd" (spiaci) ✅16.7. | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
 | Beanpole Pottery | IG DM | tech-first: web timeout + predaj len emailom ✅16.7. 2× | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
-| [[nino-rostomashvili|Nino Rostomashvili]] | email | brand-first: cloisonné enamel niche, enamel-arts.com dead-DNS ✅potvrdené | 2026-07-16 | 2026-07-16 (Etsy-dependency sonda) | **2026-07-16** — presunutá na Carrd+Etsy | **reagovala** — follow-up odoslaný, čaká sa ([[nino-rostomashvili]]) |
+| [[nino-rostomashvili|Nino Rostomashvili]] | email | brand-first: cloisonné enamel niche, enamel-arts.com dead-DNS ✅potvrdené | 2026-07-16 | 2026-07-20 (pivot na ownership platieb) | **2026-07-20** — mäkké áno s odkladom, námietka: drahý export z Gruzínska | **warm, odložené** — pripravený follow-up (oddeliť poštovné od platformy + ponuka prepočtu marže), neodoslaný ([[nino-rostomashvili]]) |
+| Raina Nicole Woodworks | IG DM | brand-first: 248K IG, Makita/BRUNT partnerstvá, web bez shopu ✅20.7. | — | — | — | **pripravený** ([[outreach-batch-7]]) |
+| Doucette and Wolfe (Matthew Wolfe) | IG DM | brand-first: „museum quality", starý statický web bez cart ✅20.7. | — | — | — | **pripravený** ([[outreach-batch-7]]) |
+| Chuck Richards Knives | IG DM | brand-first: 116K, Wix + 7× sold out ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) ⚠️nože |
+| Nick Anger (@angerknives) | IG DM | brand-first: 107K, žiadny web ani link v bio ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) ⚠️nože |
+| RAD Knives (Collin) | IG DM | brand-first: 59K, 16× sold out ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) ⚠️nože |
+| Lew Griffin | IG DM | brand-first: 58K/85 postov, Shopify OK (redesign-grade) ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) ⚠️nože |
+| Ilya Alekseyev (@slavicsmith) | IG DM | brand-first: 47K, žiadny link, všetko cez DM ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) ⚠️nože |
+| OOAK Forge | IG DM | brand-first: 28K, „No Custom Orders!" + prázdny shop ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) ⚠️nože |
+| Crimson Knife Co | IG DM | brand-first: 25K, 20 z 20 položiek sold out ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) ⚠️nože |
+| Iron Grove Tool Co (Daniel Collier) | IG DM | brand-first: 16K, doména bez DNS, bio → cudzí článok ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) ⚠️nože |
+| Nanda Knives (Nick Anderson) | IG DM | brand-first: 13K, 1 produkt + „DM for inquiries" ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) ⚠️nože |
+| Dark Timber Customs (Peter Kohler) | IG DM | brand-first: 11.5K, žiadny link v bio ✅20.7. | — | — | — | **⚠️ nedoručené** — účet blokuje DM od cudzích, treba iný kanál ([[outreach-batch-8]]) ⚠️nože |
+| MorrisonMade Leather | IG DM | brand-first: 169K, vlastný shop utopený v partnerskom linktree ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) |
+| Odin Leather Goods | IG DM | brand-first: 82K, bio linkuje blog namiesto shopu ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) |
+| DS Leather Goods (Deyan) | IG DM | brand-first: 82K, Etsy-dependent (117 krajín) ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) |
+| Girty Leather Co (Ethan Girty) | IG DM | brand-first: 71K, „custom orders open" + 10× sold out ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) |
+| Nerb Handcrafted | IG DM | brand-first: 69K, v bio len gmail ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) |
+| Luava (FI) | IG DM | brand-first: 51K, Shopify OK (redesign-grade) ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) |
+| Foolish Pride Leather Craft | IG DM | brand-first: 43K, Wix web nezodpovedá brandu ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) |
+| Lord Leathercraft (Geoffrey) | IG DM | brand-first: 37K, produkty v Notione namiesto eshopu ✅20.7. | — | — | — | **⚠️ nedoručené** — účet blokuje DM od cudzích, treba iný kanál ([[outreach-batch-8]]) |
+| Orox Leather Co | IG DM | brand-first: 18K, 4. generácia od 1933, príbeh chýba na webe ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) |
+| The Local Branch | IG DM | brand-first: 9.8K (⚠️pod prahom), Shopify + kamenná predajňa ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) |
 
 ### Cart Leads databáza (38 leadov, US/EN trh)
 
@@ -174,6 +196,42 @@ Výsledky sa zapíšu sem a premietnu do [[cold-outreach-manual]].
 **Poznatok #2 — otvárač ako od zákazníka má vedľajší efekt:** prospekt odpovie ako predajca zákazníkovi ("Máte záujem o kyticu?") a fáza 2 potom vyžaduje priznanie, ktoré môže pôsobiť ako bait-and-switch. Zvážiť pri ďalších otváračoch formuláciu, ktorá znie zvedavo, ale nie ako nákupný záujem.
 
 **Poznatok #3 — ručné úpravy faktov sú riziko:** zámena detailu v správe (náhrdelník → prsteň pri saint.jewellry) takmer spôsobila konflikt s realitou, keď si prospekt vyžiadal dôkaz. Pravidlo zapísané v [[cold-outreach-manual]] §3c.
+
+## Nová línia — ICP v2: DTC značky SK/CZ (2026-07-20)
+
+Prvý **druhý ICP**, nie ďalšia niche. Doteraz všetkých 8 batchov cielilo na handmade makerov
+s **rozbitým** kanálom; ICP v2 cieli na mladé DTC značky s **funkčným** Shopify e-shopom, ktorý
+ich brzdí (šablóna, app tax, rýchlosť). Iný hook, iná persóna, iný grade (redesign/retainer).
+Definícia, kvalifikačné prahy a research infra: [[icp-dtc-znacky-sk-cz]].
+
+**Poznatok #7 — overiť, čo lead reálne predáva, skôr než sa postaví kategória.** Marko navrhol
+nosky.cz a pekne.eu ako „pekné SK dizajnové značky". Overenie (`curl` + `/products.json`) ukázalo,
+že ide o **priamych konkurentov v nike nosných pások / biohackingu**, nie o dizajnové značky.
+Spoločným menovateľom nebola estetika, ale **obchodný model** (1 hero produkt + digitálne doplnky
++ IG/TikTok marketing) — a to je použiteľné na targeting, kým „pekné značky" nie je.
+
+**Poznatok #8 — platforma a výkon sa dajú kvalifikovať zadarmo.** `curl` + `grep` zistí platformu,
+čas odozvy, počet scriptov, `<title>`, `hreflang`; `/products.json` vráti celý Shopify katalóg bez
+API kľúča. Firecrawl a Kimi WebBridge treba až na discovery a IG verifikáciu → výrazná úspora usage.
+
+## Nová niche — nože + koža (2026-07-20)
+
+Druhá nová niche v ten istý deň. Firecrawl discovery (9 queries, 47 kandidátov) + Kimi WebBridge verifikácia →
+**20 kvalifikovaných (~43 % strike rate)** — výrazne lepšie než drevo. Kľúčový poznatok: nože a koža majú
+**opačný problém**. Nože majú eshop, ktorý je vypredaný (demand leak), koža má funkčný eshop, ktorý je
+schovaný (bio vedie na blog/linktree/Notion namiesto shopu). Detaily: [[outreach-batch-8]].
+
+**Poznatok #5 — spiaci účet nie je lead.** @margigaba mala ideálny technický profil (15.7K followers +
+doména úplne bez DNS), ale posledný príspevok z 2021. Mŕtva doména bez živého dopytu je bezcenná →
+do kvalifikácie pridať kontrolu **dátumu posledného postu**, nielen followers + stav webu.
+
+**Poznatok #6 — Firecrawl instagram.com nescrapuje** („we do not support this site"). Discovery cez
+Firecrawl search funguje (profily sa dajú vyťažiť z URL aj z `@mentions` v snippetoch), ale všetky
+followers/bio dáta musia ísť cez Kimi WebBridge. Pri ďalších dávkach rátať s týmto rozdelením.
+
+## Nová niche — drevo/nábytok (2026-07-20)
+
+Prvý test mimo doterajších niší (koža, šperky, sviečky, mydlo, keramika/sklo, nože), na Markov povel. Firecrawl discovery + Kimi WebBridge verifikácia priniesli 2 kvalifikovaných z ~20 preverených — nižší strike rate než pri koži/šperkách (remeselníci v tejto nise skôr vôbec nemajú e-shop, nie rozbitú doménu). Detaily: [[outreach-batch-7]].
 
 ## Zdroje
 

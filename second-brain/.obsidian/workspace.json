@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/outreach/outreach-batch-6.md",
+                "file": "wiki/outreach/nino-rostomashvili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "outreach-batch-6"
+              "title": "nino-rostomashvili"
             }
           },
           {
@@ -41,12 +41,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/outreach/outreach-batch-5.md",
+                "file": "wiki/outreach/outreach-batch-7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "outreach-batch-5"
+              "title": "outreach-batch-7"
+            }
+          },
+          {
+            "id": "16ebdb83e4b94b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/outreach/outreach-batch-8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "outreach-batch-8"
+            }
+          },
+          {
+            "id": "a92bff8190d83613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/feedback/flow-feedback.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "flow-feedback"
             }
           }
         ]
@@ -81,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nino",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +130,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,42 +243,41 @@
   },
   "active": "f5996435df4809f4",
   "lastOpenFiles": [
+    "wiki/projects/sacha-carlos-raps.md",
+    "index.md.tmp.1903.cf7df9008f11",
+    "wiki/outreach/outreach-batch-9.md",
+    "wiki/topics/icp-dtc-znacky-sk-cz.md",
+    "wiki/projects/drop-dead-candles.md.tmp.13743.b2724afba602",
+    "wiki/feedback/flow-feedback.md",
+    "wiki/outreach/outreach-batch-8.md",
+    "wiki/outreach/outreach-batch-7.md",
+    "wiki/projects/darcekove-kytice.md",
+    "raw/cart.design/cold-outreach/knife-leather-leads-batch8-verified-2026-07-20.md",
+    "raw/cart.design/cold-outreach/knife-leather-leads-batch8-2026-07-20.md",
+    "wiki/feedback/outreach-day-2026-07-15.md",
+    "wiki/topics/digital-marketing-strategy.md",
+    "wiki/outreach/outreach-batch-5.md",
+    "wiki/conversations/sweet-nothings-studios.md",
+    "raw/cart.design/cold-outreach/wood-furniture-leads-batch7-2026-07-20.md",
+    "wiki/projects/don-hanson-sunfish-forge.md",
+    "wiki/projects/colin-shannon-shannon-steel-labs.md",
+    "wiki/projects/sacha-carlos-raps.md.tmp.1903.f9296e999a06",
+    "wiki/projects/workaday-handmade.md",
+    "wiki/projects/workaday-handmade.md.tmp.1903.3d2f90d1535b",
+    "raw/cart.design/Fitnessmenu/call-167.md",
+    "wiki/projects/ban-tang-knives.md",
+    "wiki/projects/lobo-gun-leathers.md",
+    "wiki/projects/lois-gore-hampton-gem.md",
+    "wiki/projects/lois-gore-hampton-gem.md.tmp.1903.c8ee554cc3cd",
+    "wiki/outreach/outreach-batch-6.md",
     "wiki/outreach/nino-rostomashvili.md",
     "wiki/outreach/gollik-knives.md",
     "wiki/conversations/darcekove-kytice.md",
-    "wiki/outreach/outreach-batch-6.md",
-    "raw/cart.design/cold-outreach/us-leads-batch6-2026-07-16.md",
-    "wiki/projects/by-alisha.md",
-    "wiki/conversations/sweet-nothings-studios.md",
-    "wiki/conversations/optimistic-soap.md",
-    "wiki/conversations/drop-dead-candles.md",
-    "wiki/conversations/sperky-richterova.md",
-    "wiki/conversations/by-alisha.md",
-    "wiki/conversations/hazel-hand-engraving.md",
-    "wiki/conversations/rebecca-d-enamel.md",
-    "wiki/conversations/saint-jewellry.md",
-    "wiki/conversations/index.md",
     "wiki/conversations",
-    "wiki/outreach/outreach-batch-5.md",
-    "wiki/projects/darcekove-kytice.md",
-    "raw/cart.design/flow-outreach.md",
-    "wiki/topics/cold-outreach-manual.md",
-    "wiki/topics/digital-marketing-strategy.md",
-    "wiki/topics/konkurencia-fitnessmenu.md",
-    "raw/cart.design/cold-outreach/cold-outreach-system/document-origami.md",
-    "raw/cart.design/cold-outreach/potentional-clients/eshops-and-ig-leads.md",
-    "raw/cart.design/cold-outreach/potentional-clients/ig-sk-leads-2026-07-15.md",
     "wiki/outreach/cold-outreach-pipeline.md.tmp.68207.6630d29e2cd8",
-    "raw/cart.design/cold-outreach/ig-status167.md",
-    "wiki/projects/sperky-richterova.md",
     "dh/visual-raw-notes",
     "dh/verbal-raw-notes",
     "dh/commerce-raw-notes",
-    "dh",
-    "second-brain-merge",
-    "wiki/feedback",
-    "wiki/outreach",
-    "second-brain-merge/dh/visual-raw-notes",
     "raw/cart.design/Fitnessmenu/FitnessMenu-demo-feedback/Images/Pasted image 20260706155424.png",
     "raw/cart.design/Fitnessmenu/FitnessMenu-demo-feedback/Images/Pasted image 20260706155352.png",
     "raw/cart.design/Fitnessmenu/FitnessMenu-demo-feedback/Images/Pasted image 20260706155304.png",
