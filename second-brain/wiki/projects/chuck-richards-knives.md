@@ -45,11 +45,41 @@ US nožiar (Kentucky), 116K IG, „Home of the FreeBird", 53 rokov rybár/outdoo
 **Chuck Richards (20.7., reply):**
 > Not one single person says to me they think they're out of stock. Ok. Email to me. Link in bio
 
+## Návrh mailu (draft, neodoslaný)
+
+**Komu:** sales@chuckrichardsknives.com (potvrdené Markom 20.7.)
+**Predmet:** The FreeBird — from Instagram
+
+> Hey Chuck,
+>
+> Marek here — the guy from Instagram. I run cart.design; we build custom-coded stores for makers.
+>
+> You said nobody tells you they think you're out of stock. I believe you — and that's the part I'd push back on gently. I didn't tell you either. I only did because I was looking at the site with a professional eye. A guy who's just browsing on his phone reads "Sold out" a few times, figures he missed the drop, and closes the tab. He doesn't email you to double-check. There's no complaint to receive, so it never reaches you.
+>
+> The FreeBird has 116K people paying attention. That's a following most makers never build in a lifetime. My only point is that the shop should read, at a glance, exactly what you told me in a DM: it's available, in every option.
+>
+> If you want, I can put together a short walkthrough of what that would look like on your site — no charge, no obligation. If it's not useful, you've lost nothing.
+>
+> Either way, respect for 53 years of it.
+>
+> Marek
+> www.cart.design
+> +421 948 071 761
+
+**Prečo takto:**
+- **Neháda sa s jeho námietkou** — potvrdzuje ju („I believe you") a potom ju obráti: absencia sťažností nie je dôkaz, že problém neexistuje. Zákazník, ktorý odíde, nepíše.
+- **Marko sám je dôkazom** — nepovedal to ani on, kým sa nepozrel profesionálne. Osobný, nie teoretický.
+- **Krátke vety, žiadny žargón** — Chuck píše stroho, mail musí sedieť do jeho registra.
+- **CTA = walkthrough zadarmo**, nie hovor. Nízka bariéra, žiadny záväzok.
+- **Zavrieť rešpektom k remeslu**, nie predajom.
+
 ## Ďalší krok
 
 - [x] ✅ Odoslané 20.7., **odpoveď prijatá v deň 1** (same-day reply)
-- [ ] **🔥 Priorita: Extrahovať email z IG bio alebo webu** (Link in bio = kontaktný email) 
-- [ ] Poslať **email pitch** — nový kanál, oveľa čistejší; Chuck jasne signalizuje email preference
+- [ ] **Marko: skontrolovať draft mailu vyššie a poslať manuálne**
+- [x] Email získaný: **sales@chuckrichardsknives.com** (Marko, 20.7.)
+- [x] **Email odoslaný 20.7.** (predmet „The FreeBird — from Instagram") — pitch: potvrdiť zmienku o absencii sťažností, obrátiť ju (zákazník odíde bez slova), CTA = walkthrough zadarmo
+- [ ] Čaká sa na odpoveď
 - [ ] **Pred pitchom overiť platobný procesor** — nože = high-risk, Stripe ich nemusí pustiť ([[outreach-batch-8]], poznatok #5).
 - [ ] Pred prípadným demom re-overiť aktuálny stav shopu (sold-out počty sa menia po restocku).
 

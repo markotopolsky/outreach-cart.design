@@ -1,4 +1,10 @@
-# Log
+
+## [2026-07-20] ingest | Chuck Richards — email fáza 3 odoslaný
+Marko odoslal email na sales@chuckrichardsknives.com (predmet „The FreeBird — from Instagram"). Jadro:
+potvrdiť Chuckovu námietku („nikdo mi nepovie, že som vypredaný") a obrátiť ju — zákazník, ktorý
+odíde, sa neozve, takže absencia sťažností nie je dôkaz, že problém neexistuje. Marko sám ako osobný
+dôkaz (ani on to nepovedal, kým sa nepozrel profesionálne). CTA = krátky walkthrough zadarmo, bez
+záväzku. Aktualizovaná [[chuck-richards-knives]] (Ďalší krok: čaká sa na odpoveď).
 
 Append-only journal. Formát: `## [YYYY-MM-DD] akcia | názov` — `grep "^## \[" log.md | tail -5` pre posledné záznamy.
 
@@ -290,3 +296,20 @@ out of stock. Ok. Email to me. Link in bio" — **qualified signal**. Čistá ko
 žiada email kanál (Link in bio = email v IG bio). Aktualizovaná [[chuck-richards-knives]] (Komunikácia, Stav,
 Ďalší krok: extrahovať email a poslať email pitch), [[cold-outreach-pipeline]] a index.md.
 Priorita: získať email z IG bio, poslať pitch cez email.
+
+## [2026-07-20] ingest | Gudslip projekt — presun z batch do projects/
+Gudslip má teraz vlastný projekt stranku: [[gudslip]]. Info, hooky, stav konverzácie (email odoslaný 20.7.,
+WhatsApp draft pripravený), návrhy fázy 1 — všetko zapísané ako projekt, nie len ako položka v batch-9.
+Prepojené v index.md a [[cold-outreach-pipeline]].
+
+## [2026-07-20] ingest | Rebecca D Enamel — lajk bez odpovede na správu z 20.7.
+Na Markovu poslednú správu (hravá reakcia + ponuka referencií) Rebecca odpovedala len lajkom, žiadny text.
+Vlákno prepnuté na pauzu — manžel stavia web sám, ďalší ping sa neodporúča skoro. Aktualizované:
+[[rebecca-d-enamel]] (Stav konverzácie #8, Ďalší krok, Zdroje), [[cold-outreach-pipeline]], index.md.
+
+## [2026-07-20] update | Chuck Richards — email draft pripravený v Gmaili
+Marko doplnil kontakt: **sales@chuckrichardsknives.com**. Vytvorený Gmail draft (predmet „The FreeBird —
+from Instagram") — **neodoslaný**, čaká na Markovu kontrolu. Jadro mailu: potvrdiť Chuckovu námietku
+(„nikto mi nepovie, že som vypredaný") a obrátiť ju — zákazník, ktorý odíde, sa neozve, takže absencia
+sťažností nie je dôkaz. Marko sám ako dôkaz (ani on to nepovedal, kým sa nepozrel profesionálne).
+CTA = walkthrough zadarmo, nie hovor. Aktualizovaná [[chuck-richards-knives]] (Návrh mailu, Ďalší krok).
