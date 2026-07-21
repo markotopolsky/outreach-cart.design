@@ -1,1 +1,0 @@
-HARVARD to do pozriet a obist to :D 

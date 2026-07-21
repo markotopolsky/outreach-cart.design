@@ -1,6 +1,0 @@
-- Jedine ako porazim konkurenciu je cenou a kvalitou
-	- je to takto scary simple, nic viac tam netreba davat, cize takto to nejak spravime
-- Odprezentovat to, ze ako som mu to ja spravil, nech si to porovna / nech to da porovnat trhu
-- Musim riskovat
-	- Bud mi tu myslienku zoberie a ukaze to im, ze ako sme to spravili a povie im, ze takto to chcem, alebo povie dobre, tak pod
-		- Nic ine mi nezostava, ako to len risknut
