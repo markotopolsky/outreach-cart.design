@@ -37,6 +37,8 @@ Všetkých 20 otváračov odoslaných cez Kimi WebBridge (IG DM, `direct/new` se
 ## Nože (10)
 
 ### 1. Chuck Richards Knives (@chuckrichardsknives) — IG DM
+**→ REAGOVAL 20.7., má vlastnú stránku: [[chuck-richards-knives]]**
+
 116K followers, Kentucky/US. „Home of the FreeBird", 53 rokov rybár/outdoorsman. Web na **Wixe**, shop má drobný katalóg a 7 položiek „Sold out".
 
 > Hey Chuck! 53 years on the water and the FreeBird has basically become its own brand at this point — that's a following most makers never build. Quick question though: I went to the shop to look at what's available and most of it's sold out. When someone lands there on a day like that, what happens to them?

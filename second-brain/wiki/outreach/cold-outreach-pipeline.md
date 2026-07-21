@@ -39,7 +39,7 @@ Centrálny prehľad všetkých prospektov. Cieľ prvej vlny: **~20 mailov**, zbe
 | Kamari Candle Co | IG DM | tech-first: web stale od 2022 ✅15.7. (prerobené) | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-2]]) |
 | Macrame on the Move | IG DM | tech-first: skúsenosť na cestách (prerobené) | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-2]]) |
 | [[disciple-designed|Disciple Designed]] | IG DM | vlastný (Marko): challenging question na pricing gap | 2026-06-18 | pripravený (15.7.) | **2026-06-19** — otvorená, vecná | **reagoval** — follow-up pripravený |
-| [[rebecca-d-enamel|Rebecca D Enamel]] | IG DM | brand-first: micromosaic remeslo | 2026-07-15 | — | **2026-07-16** — „renovujem práve web" | **reagovala** — najlepší timing signál, odpoveď pripraviť |
+| [[rebecca-d-enamel|Rebecca D Enamel]] | IG DM | brand-first: micromosaic remeslo | 2026-07-15 | — | **2026-07-16** — „renovujem práve web"; 20.7. len lajk bez odpovede | **vlákno na pauze** — manžel stavia web sám, nepingovať skoro |
 | [[hazel-hand-engraving|Hazel Hand Engraving]] | IG DM | brand-first: hand-push engraving | 2026-07-15 | — | **2026-07-15** — nič nepredáva (free YouTube) | **reagovala — nekvalifikovaná**, slušne uzavrieť; sekundárny lead @firestonefinejewelry |
 | Jake Newell | IG DM | brand-first: backlog "not accepting work" | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-2]]) |
 | DoubleK Custom Leathercraft | IG DM | brand-first: niche remeslo (tack) | 2026-07-15 | — | — | **oslovený** ([[outreach-batch-2]]) |
@@ -68,10 +68,10 @@ Centrálny prehľad všetkých prospektov. Cieľ prvej vlny: **~20 mailov**, zbe
 | Brit McDaniel (ex Paper & Clay) | IG DM | tech-first: stará doména timeoutuje po rebrande ✅16.7. 2× | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
 | Callahan Ceramics | IG DM | tech-first: bio "next release: 2025 tbd" (spiaci) ✅16.7. | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
 | Beanpole Pottery | IG DM | tech-first: web timeout + predaj len emailom ✅16.7. 2× | 2026-07-16 | — | — | **oslovený** ([[outreach-batch-6]]) |
-| [[nino-rostomashvili|Nino Rostomashvili]] | email | brand-first: cloisonné enamel niche, enamel-arts.com dead-DNS ✅potvrdené | 2026-07-16 | 2026-07-20 (pivot na ownership platieb) | **2026-07-20** — mäkké áno s odkladom, námietka: drahý export z Gruzínska | **warm, odložené** — pripravený follow-up (oddeliť poštovné od platformy + ponuka prepočtu marže), neodoslaný ([[nino-rostomashvili]]) |
+| [[nino-rostomashvili|Nino Rostomashvili]] | email | brand-first: cloisonné enamel niche, enamel-arts.com dead-DNS ✅potvrdené | 2026-07-16 | 2026-07-20 (oddelenie poštovného + ponuka prepočtu marže) | **2026-07-20** — „Many Thanks. Will think about this." (2× soft-close) | **nurture** — ďalší push zastavený, re-touch ~09/2026 len s novým dôvodom ([[nino-rostomashvili]]) |
 | Raina Nicole Woodworks | IG DM | brand-first: 248K IG, Makita/BRUNT partnerstvá, web bez shopu ✅20.7. | — | — | — | **pripravený** ([[outreach-batch-7]]) |
 | Doucette and Wolfe (Matthew Wolfe) | IG DM | brand-first: „museum quality", starý statický web bez cart ✅20.7. | — | — | — | **pripravený** ([[outreach-batch-7]]) |
-| Chuck Richards Knives | IG DM | brand-first: 116K, Wix + 7× sold out ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) ⚠️nože |
+| Chuck Richards Knives | IG DM | brand-first: 116K, Wix + 7× sold out ✅20.7. | 2026-07-20 | 2026-07-20 | odpísal ako predajca („FreeBird is on sale, available in all options") | **reagoval** → [[chuck-richards-knives]]; fáza 2 (poznanie+reframe) odoslaná 20.7., čaká sa na odpoveď ⚠️nože |
 | Nick Anger (@angerknives) | IG DM | brand-first: 107K, žiadny web ani link v bio ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) ⚠️nože |
 | RAD Knives (Collin) | IG DM | brand-first: 59K, 16× sold out ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) ⚠️nože |
 | Lew Griffin | IG DM | brand-first: 58K/85 postov, Shopify OK (redesign-grade) ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) ⚠️nože |
@@ -91,6 +91,14 @@ Centrálny prehľad všetkých prospektov. Cieľ prvej vlny: **~20 mailov**, zbe
 | Lord Leathercraft (Geoffrey) | IG DM | brand-first: 37K, produkty v Notione namiesto eshopu ✅20.7. | — | — | — | **⚠️ nedoručené** — účet blokuje DM od cudzích, treba iný kanál ([[outreach-batch-8]]) |
 | Orox Leather Co | IG DM | brand-first: 18K, 4. generácia od 1933, príbeh chýba na webe ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) |
 | The Local Branch | IG DM | brand-first: 9.8K (⚠️pod prahom), Shopify + kamenná predajňa ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-8]]) |
+| Pekne (pekne.eu) | IG DM | kombinovaná správa: 111 script tagov, pomalý mobile load ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-9]]) — ICP v2 |
+| Hevi (hevisleep.sk/.cz) | email | kombinovaná správa: dva samostatné SK/CZ Shopify obchody ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-9]]) — ICP v2 |
+| [[gudslip|Gudslip (gudslip.cz)]] | email | kombinovaná správa: spotrebný tovar bez predplatného ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[gudslip]] — projekt, [[outreach-batch-9]] — batch) — ICP v2 |
+| Resty (feelresty.com) | IG DM | kombinovaná správa: refilly bez predplatného ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-9]]) — ICP v2 |
+| Tatramodel (tatramodel.sk) | email | žiadny `<meta viewport>` — web nemá mobilnú verziu ✅20.7. | — | — | — | **pripravený** ([[outreach-batch-10]]) — zastarané SK e-shopy |
+| Vcelo (vcelo.sk) | email | 3.7–4.2 s načítanie na mobile, 4 merania ✅20.7. | — | — | — | **pripravený** ([[outreach-batch-10]]) |
+| Konvička (konvicka.sk) | email | 2.3–4.2 s na mobile, kolísavé ✅20.7. | — | — | — | **pripravený** ([[outreach-batch-10]]) |
+| Neoprot (neoprot.sk) | email | 2.4–2.7 s na mobile ✅20.7. | — | — | — | **⏸️ pozdržaný** — možno nepredáva online ([[outreach-batch-10]]) |
 
 ### Cart Leads databáza (38 leadov, US/EN trh)
 
@@ -202,7 +210,7 @@ Výsledky sa zapíšu sem a premietnu do [[cold-outreach-manual]].
 Prvý **druhý ICP**, nie ďalšia niche. Doteraz všetkých 8 batchov cielilo na handmade makerov
 s **rozbitým** kanálom; ICP v2 cieli na mladé DTC značky s **funkčným** Shopify e-shopom, ktorý
 ich brzdí (šablóna, app tax, rýchlosť). Iný hook, iná persóna, iný grade (redesign/retainer).
-Definícia, kvalifikačné prahy a research infra: [[icp-dtc-znacky-sk-cz]].
+Definícia, kvalifikačné prahy a research infra: [[icp-dtc-znacky-sk-cz]]. **20.7. odoslané všetky 4 leady** ([[outreach-batch-9]]: Pekne, Hevi, Gudslip, Resty) — variant B, kombinovaná správa (rapport + technický nález + ponuka + CTA v jednej správe, podľa reálneho precedensu Nosky).
 
 **Poznatok #7 — overiť, čo lead reálne predáva, skôr než sa postaví kategória.** Marko navrhol
 nosky.cz a pekne.eu ako „pekné SK dizajnové značky". Overenie (`curl` + `/products.json`) ukázalo,
@@ -213,6 +221,26 @@ Spoločným menovateľom nebola estetika, ale **obchodný model** (1 hero produk
 **Poznatok #8 — platforma a výkon sa dajú kvalifikovať zadarmo.** `curl` + `grep` zistí platformu,
 čas odozvy, počet scriptov, `<title>`, `hreflang`; `/products.json` vráti celý Shopify katalóg bez
 API kľúča. Firecrawl a Kimi WebBridge treba až na discovery a IG verifikáciu → výrazná úspora usage.
+
+## Nová línia — zastarané SK e-shopy (2026-07-20)
+
+Tretia cieľová skupina popri ICP v1 (handmade makeri s rozbitým kanálom) a ICP v2 (DTC značky
+s funkčným Shopify). Cieľ: **etablované SK firmy s reálnym obratom a objektívne zastaraným webom**
+— redesign grade, kanál email. Metodika je celá zadarmo (Python/`curl`), Firecrawl len na discovery.
+Preverených ~50 domén, kvalifikovaní 4. Detaily: [[outreach-batch-10]].
+
+**Poznatok #9 — technicky rozbitý web ešte neznamená biznis.** `rybarskepotreby-poprad.sk` mal
+najlepší technický profil dávky (neplatný SSL + žiadny viewport), ale bol to **SEO satelit**
+odkazujúci na iné e-shopy toho istého prevádzkovateľa. Rozšírenie poznatku #5: kontrolovať
+**odchádzajúce odkazy** — ak web vedie hlavne inam, je to doorway page, nie obchod.
+
+**Poznatok #10 — platformový boilerplate nie je nález.** jQuery 1.11.3 sa objavilo na 12 weboch
+v dávke — na všetkých Shoptet, lebo je to default platformy. Pred použitím technického detailu
+ako hooku overiť, či nejde o vlastnosť platformy, ktorú má rovnako každý jej zákazník.
+
+**Poznatok #11 — rýchlosť merať 4×, inak klame.** `e-luma.sk` (3.11 s) a `ortokomplet.sk` (1.51 s)
+prešli prahom pri prvom meraní a pri opakovaní spadli na 0.53 / 0.63 s — oba vyradené. Použiť
+len konzistentne pomalé weby. (Zovšeobecnenie výkyvu, ktorý sme videli pri `pekne.eu`.)
 
 ## Nová niche — nože + koža (2026-07-20)
 

@@ -12,7 +12,7 @@ Katalóg celého vaultu. Schéma a pravidlá: [[CLAUDE|CLAUDE.md]] · História:
 - [[saint-jewellry]] — SK šperkárka (1.4K IG); **active** — fáza 2 odoslaná 15.7., seen, bez odpovede
 - [[darcekove-kytice]] — SK darčekové kytice (2.1K IG); **done** — reagovala, po pitchi odmietla (mŕtve, ponechané ako dátový bod)
 - [[by-alisha]] — SK šperky na mieru (25.3K IG); **active** — cenová námietka (**16.7.**), videohovor CTA (**16.7.**); neodpisuje na IG → WhatsApp pokus **20.7.** (žiada číslo)
-- [[rebecca-d-enamel]] — US enamel šperkárka (73K IG); **active** — 20.7. odpísala hravo (manžel-inžinier jej nevysvetľuje stack); ponuka referencií necháva dvere otvorené, žiadny aktívny pitch
+- [[rebecca-d-enamel]] — US enamel šperkárka (73K IG); **active** — 20.7. Markova správa dostala len lajk bez odpovede, vlákno na pauze; ponuka referencií necháva dvere otvorené, žiadny aktívny pitch
 - [[sweet-nothings-studios]] — US šperky/vitráže (25.4K IG); **active** — SSL diagnózu prijala („I'll definitely look into it!"), 20.7. odoslaný mäkký CTA
 - [[drop-dead-candles]] — US sviečky (12K IG, Etsy top 1 %); **active** — priamy pitch (20.7.) odmietla, Marko poslal push follow-up + cart.design link (20.7.), čaká sa
 - [[sperky-richterova]] — SK Swarovski šperky (439 IG); **active** — priznanie odoslané 16.7. pred pondelkovými fotkami, čaká sa na odpoveď
@@ -27,6 +27,7 @@ Katalóg celého vaultu. Schéma a pravidlá: [[CLAUDE|CLAUDE.md]] · História:
 - [[sacha-carlos-raps]] — US stained glass interiors; **waiting** — chce komunikovať mailom; návrh mailu hotový na stránke, Marko posiela manuálne
 - [[colin-shannon-shannon-steel-labs]] — US nožiar; **waiting** — doménu vlastní, ale výroba pozastavená (hľadá dielňu v San Diegu)
 - [[don-hanson-sunfish-forge]] — US ABS Mastersmith; **waiting** — backlog 6–8 rokov, nemá čo predávať; touch okolo októbra (Fisk Micro show)
+- [[gudslip]] — CZ pásky na nos + regenerácia (gudslip.cz, Shopify); **active** — kombinovaná správa odoslaná 20.7., WhatsApp draft pripravený, čaká sa na odpoveď
 
 ### Ľudia (`wiki/people/`)
 
@@ -47,6 +48,7 @@ Katalóg celého vaultu. Schéma a pravidlá: [[CLAUDE|CLAUDE.md]] · História:
 - [[outreach-batch-7]] — nová niche: drevo/nábytok (US/UK/CA), 2 kvalifikovaní z ~20 preverených (Firecrawl + Kimi WebBridge, 20.7.); **active** — Raina Nicole Woodworks (248K IG), Doucette and Wolfe (25.2K IG), obe pripravené, nič neodoslané
 - [[outreach-batch-8]] — nová niche: nože + kožené výrobky (US/UK/EU), **20 kvalifikovaných z 47 preverených** (Firecrawl discovery + Kimi WebBridge verifikácia, 20.7.); **active** — **18/20 odoslaných a doručených** cez Kimi WebBridge (direct/new search flow), 2/20 zablokované IG (DM-restricted účty: Dark Timber Customs, Lord Leathercraft); ⚠️ nože = high-risk platby
 - [[outreach-batch-9]] — dávka podľa ICP v2: DTC značky spánok/dýchanie SK/CZ (Pekne, Hevi, Gudslip, Resty); **active** — **všetky 4 odoslané 20.7.** (kombinovaná správa variant B), čaká sa na reakcie
+- [[outreach-batch-10]] — nová línia: **zastarané SK e-shopy** (email, redesign grade); ~50 domén preverených čistým Pythonom/`curl`, **4 kvalifikovaní** (Tatramodel, Vcelo, Konvička, Neoprot); **active** — 3 správy pripravené, nič neodoslané; 3 falošné hooky zamietnuté (charset, jQuery Shoptetu, jednorazové meranie rýchlosti)
 - [[outreach-links]] — tabuľka IG + web odkazov pre všetkých 38 leadov (na použitie s Claude in Chrome)
 - [[biorythme]] — cold outreach prospekt (cart.design); **active** — finálny návrh otvárača hotový (zlúčené varianty + Markov draft), Marko posiela manuálne
 

@@ -15,7 +15,7 @@ US bladesmith, ABS Mastersmith, na plný úväzok od 1991. Tier 3 z Cart Leads C
 
 **Reagoval (k 17.7., zbadané v inboxe 20.7.):** backlog objednávok na **6–8 rokov**, nič nie je k dispozícii. Nože ponúka raz ročne na Fisk Micro show (október). Plánuje neskôr predávať aj cez IG, keď dobehne backlog.
 
-**Nie je aktívny lead teraz** — extrémny dopyt, ale nemá čo predávať. Marko odpovedal 20.7. bez pitchu, so zasiatou myšlienkou (štruktúra waitlistu pred otvorením) + otvorenými dverami.
+**Nie je aktívny lead teraz** — extrémny dopyt, ale nemá čo predávať. Marko odpovedal 20.7. bez pitchu, so zasiatou myšlienkou (štruktúra waitlistu pred otvorením) + otvorenými dverami. Po Donovom poďakovaní Marko 20.7. pridal druhú správu — konkrétnejšia (waitlist/pre-order page, „I build exactly this kind of thing for makers“), stále soft, bez tlaku.
 
 ## Komunikácia (IG DM)
 
@@ -27,6 +27,12 @@ US bladesmith, ABS Mastersmith, na plný úväzok od 1991. Tier 3 z Cart Leads C
 
 **Marko (20.7., cez Kimi WebBridge):**
 > 6-8 years is wild — that's basically its own proof of demand. When you do get close to opening things up again, worth thinking through how you want it structured (waitlist, application, first-come) before the DMs start flooding in — that transition is usually the messy part. Happy to help think it through whenever it's actually close. Good luck at Fisk Micro in October!
+
+**Don Hanson III (20.7.):**
+> *(poďakovanie — presné znenie zatiaľ nezaznamenané, doplniť z IG)*
+
+**Marko (20.7.):**
+> Anytime, Don! Good luck grinding through that backlog. Honestly, when you get close to reopening — even before you're fully caught up — a simple waitlist/pre-order page could be a smart move: lets people register interest without flooding your DMs, and gives you first-mover data on demand. I build exactly this kind of thing for makers — happy to sketch out what it'd look like whenever it's useful, no pressure. Enjoy Fisk Micro!
 
 ## Ďalší krok
 

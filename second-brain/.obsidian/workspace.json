@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/outreach/nino-rostomashvili.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nino-rostomashvili"
+              "title": "CLAUDE"
             }
           },
           {
@@ -130,8 +130,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -243,6 +242,9 @@
   },
   "active": "f5996435df4809f4",
   "lastOpenFiles": [
+    "index.md",
+    "log.md",
+    "wiki/outreach/nino-rostomashvili.md",
     "wiki/projects/sacha-carlos-raps.md",
     "index.md.tmp.1903.cf7df9008f11",
     "wiki/outreach/outreach-batch-9.md",
@@ -270,9 +272,7 @@
     "wiki/projects/lois-gore-hampton-gem.md",
     "wiki/projects/lois-gore-hampton-gem.md.tmp.1903.c8ee554cc3cd",
     "wiki/outreach/outreach-batch-6.md",
-    "wiki/outreach/nino-rostomashvili.md",
     "wiki/outreach/gollik-knives.md",
-    "wiki/conversations/darcekove-kytice.md",
     "wiki/conversations",
     "wiki/outreach/cold-outreach-pipeline.md.tmp.68207.6630d29e2cd8",
     "dh/visual-raw-notes",

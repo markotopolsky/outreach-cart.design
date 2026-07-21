@@ -7,9 +7,9 @@ aliases: [Rebecca D Enamel, rebeccadenamel]
 tags: [cart-design, cold-outreach, lead, en]
 ---
 
-# Rebecca D Enamel — lead (EN, resource-angle poslaný, dvere nechané otvorené)
+# Rebecca D Enamel — lead (EN, resource-angle poslaný, vlákno na pauze po lajku)
 
-US šperkárka (@rebeccadenamel, 73K IG) — micromosaic a vitreous enamel od 2012. Brand-first otvárač z [[outreach-batch-2]] (#8). **Reagovala 16.7. ráno: „I'm working on a renovation for my website right now."** — presne otvorená téma, do ktorej cart.design zapadá. Najlepší timing signál z celej EN vlny.
+US šperkárka (@rebeccadenamel, 73K IG) — micromosaic a vitreous enamel od 2012. Brand-first otvárač z [[outreach-batch-2]] (#8). **Reagovala 16.7. ráno: „I'm working on a renovation for my website right now."** — presne otvorená téma, do ktorej cart.design zapadá. Najlepší timing signál z celej EN vlny. **20.7.: posledná Markova správa dostala len lajk, bez odpovede** — vlákno odložené.
 
 ## Profil
 
@@ -26,6 +26,7 @@ US šperkárka (@rebeccadenamel, 73K IG) — micromosaic a vitreous enamel od 20
 5. **Marko odoslal resource-angle follow-up (16.7.):** reveal + otázka na stack manžela + ponuka referenčných jewelry stránok bez záväzku.
 6. **Odpísala (k 17.7., zbadané v inboxe 20.7.):** „I don't know how he's doing it and I'm not asking — otherwise he starts explaining to me so I can learn how to do it myself. Too risky 😂" — hravé vyhnutie sa téme, dvere neuzavreté.
 7. **Marko odoslal 20.7.:** hravá reakcia, ponuka referenčných stránok necháva otvorenú pre manžela, žiadny tlak.
+8. **Rebecca reagovala len lajkom (♥) na Markovu správu z 20.7., bez textovej odpovede** — signál, že vlákno je uzavreté/odložené, nie odmietnuté. Konzistentné s jej hravým vyhýbaním sa téme v predchádzajúcej správe.
 
 ## Komunikácia (IG DM, plný prepis)
 
@@ -54,11 +55,12 @@ Prekopírované Markom z IG inboxu 2026-07-16 (`ig-status167`).
 
 ## Ďalší krok
 
-- [ ] Vzťah udržiavaný, žiadny aktívny pitch — manžel stavia web sám. Sledovať, či sa renovácia zasekne alebo Rebecca sama vráti k téme.
+- [ ] Vzťah udržiavaný, žiadny aktívny pitch — manžel stavia web sám. Lajk bez odpovede = vlákno na pauze; nepingovať znova skoro, sledovať, či sa renovácia zasekne alebo Rebecca sama vráti k téme.
 
 ## Zdroje
 
 - `raw/cart.design/cold-outreach/ig-status167.md` — IG inbox prepis (16.7.)
 - 2. odpoveď (manžel-inžinier) prepísaná Markom v sedení 2026-07-16
+- Lajk bez odpovede na správu z 20.7. — zaznamenané Markom priamo v konverzácii (20.7.), bez samostatného raw súboru
 - [[outreach-batch-2]] (#8 — otvárač, research)
 - [[cold-outreach-pipeline]]

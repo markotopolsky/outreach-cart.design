@@ -1,6 +1,6 @@
 ---
 type: person
-status: active
+status: waiting
 created: 2026-07-16
 updated: 2026-07-20
 aliases: [Nino Rostomashvili, Cloisonne Enamel By Nino, EnamelArtsByNino]
@@ -17,7 +17,18 @@ K 2026-07-16: **reagovala** — pôvodná doména `enamel-arts.com` je skutočne
 
 **20.7. update:** odpísala (k 17.7., zbadané v inboxe 20.7.) — nezaujíma ju, ako sa k nej kupujúci dostávajú, ale odhalila silný nový pain point: **Etsy jej ako umelkyni z Gruzínska zablokoval PayPal, núti používať Payoneer** (vyššie poplatky, výplaty len raz týždenne) → reálne dostáva **len ~polovicu** predajnej ceny. Marko na to reagoval — pivot z „discovery" na „ownership platobných možností" ako skutočný argument pre vlastný store.
 
-**20.7. neskôr:** na pivot reagovala **mäkkým áno s odkladom** — „Well yes, I think about this option", ale posunula námietku inam: **drahé export/poštovné z Gruzínska**, plus vágne „let's see what I can do in nearest future". Čítanie: záujem je reálny, blokátor je vnímaný celkový náklad a pravdepodobne aj neistota, či to zvládne rozbehnúť. Ďalší krok (pripravený, neodoslaný): oddeliť poštovné od platformy (poštovné je rovnaké nech predáva kdekoľvek — mení sa len to, čo jej zostane) a znížiť bariéru z „15-min call" na konkrétny artefakt — **prepočet marže na 2–3 jej reálnych kusoch**.
+**20.7. neskôr:** na pivot reagovala **mäkkým áno s odkladom** — „Well yes, I think about this option", ale posunula námietku inam: **drahé export/poštovné z Gruzínska**, plus vágne „let's see what I can do in nearest future". Čítanie: záujem je reálny, blokátor je vnímaný celkový náklad a pravdepodobne aj neistota, či to zvládne rozbehnúť. Ďalší krok: oddeliť poštovné od platformy (poštovné je rovnaké nech predáva kdekoľvek — mení sa len to, čo jej zostane) a znížiť bariéru z „15-min call" na konkrétny artefakt — **prepočet marže na 2–3 jej reálnych kusoch**. Follow-up odoslaný (⚠️ presný čas/kanál neoverený — Marko hlásil len jej odpoveď).
+
+**20.7., záver kola:** na follow-up odpísala **„Many Thanks. Will think about this."** — zdvorilé soft-close. Druhé odloženie za sebou, tentokrát bez novej námietky a bez otázky = konverzácia dojazdila, ďalší push v tomto kole by už tlačil. **Stav prepnutý na `waiting` / nurture.** Nič sa neposiela; re-touch až s novým dôvodom ozvať sa (viď Ďalší krok nižšie).
+
+## Ďalší krok
+
+- **Neposielať tretí push.** Dala dve mäkké odloženia po sebe; ďalšia správa bez nového obsahu by spálila inak dobre rozohranú stopu.
+- **Re-touch ~september 2026** (cca 6–8 týždňov), a to len s **novým dôvodom**, nie s pripomienkou. Kandidáti:
+  - hotový prepočet marže na jej verejných Etsy cenách (dá sa spraviť aj bez jej vstupu — ceny sú verejné),
+  - konkrétny precedens: iný remeselník mimo EU/US, ktorému vlastný store vyriešil platby,
+  - zmena na strane Etsy (poplatky/politika voči Gruzínsku), ak nejaká príde — to je najsilnejší prirodzený dôvod ozvať sa.
+- Pain point (~50 % ceny na poplatkoch, Payoneer, geografická diskriminácia) je **overený a Markom nevymyslený** — táto stopa má hodnotu aj o pol roka.
 
 Aktuálne kanály:
 - Informačný web: https://cloisonneenamel.carrd.co/
@@ -45,10 +56,13 @@ Aktuálne kanály:
 **Nino (20.7.):**
 > Well yes, I think about this option. Also export rates from Georgia are soo expensive...Let's see what can I do in nearest future...
 
-**Marko (20.7., follow-up — pripravený, ODOSLANIE ČAKÁ na Markov pokyn):**
+**Marko (20.7., follow-up — odoslaný):**
 > That's a separate cost though — shipping out of Georgia costs the same whether the order comes from Etsy or from your own page. What changes is what's left after. Right now roughly half the piece disappears into fees and Payoneer before shipping is even in the picture. Keep that margin and it's the thing that pays for the shipping instead of you eating it.
 >
 > No rush on the timing. When you're ready, I can run the numbers on two or three of your actual pieces so it's not theoretical — want me to put that together?
+
+**Nino (20.7.):**
+> Many Thanks. Will think about this.
 
 ## Zdroje
 
