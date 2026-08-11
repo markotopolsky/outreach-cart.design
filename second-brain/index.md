@@ -41,6 +41,7 @@ Katalóg celého vaultu. Schéma a pravidlá: [[CLAUDE|CLAUDE.md]] · História:
 - [[wiki/projects/orox-leather-co|orox-leather-co]] — US kožiar, Portland OR (18K IG, 4. generácia od 1933); **active** — reagoval pozitívne 25.7. („small team, should integrate it more")
 - [[wiki/projects/gems-of-california|gems-of-california]] — US turquoise/lapidary šperkár (@miners_ink); **active** — pôvodný hook (mŕtva DNS) stale, web opravil, reagoval 27.7.; predaj fragmentovaný web+eBay+Etsy
 - [[wiki/projects/pekne|pekne]] — SK DTC značka výkon/spánok (pekne.eu, Shopify); **done** — odmietol mailom 20.7. (zaznamenané 3.8.)
+- [[wiki/projects/nosky|nosky]] — CZ nosné pásky (nosky.cz, Jakub Caha); **active** — najteplejší lead ICP v2, dostal report `nosky.cart.design`, 3× odpísal, sľúbil sa vrátiť koncom júla; celý prepis dodaný 10.8., follow-up schválený 10.8., čaká na odoslanie z marek@cart.design
 
 ### Ľudia (`wiki/people/`)
 
@@ -58,7 +59,7 @@ Katalóg celého vaultu. Schéma a pravidlá: [[CLAUDE|CLAUDE.md]] · História:
 **`prompts/` — verzionované varianty, práve jeden je `live`**
 - [[wiki/outreach/prompts/index|prompts/index]] — katalóg a stavy
 - [[opener-dvojfazovy-v2]] — ✅ **LIVE**, víťaz slepého zoradenia v run 2; skills zapracované v prompte
-- [[opener-dvojfazovy-v1]] — baseline (60 odoslaných / 23 % RR) · [[kombinovana-v1]] — ⚠️ na prepis (7 / 0 %)
+- [[opener-dvojfazovy-v1]] — baseline (60 odoslaných / 23 % RR) · [[kombinovana-v1]] — ⚠️ na prepis (8 / 13 %, jediná odpoveď = [[wiki/projects/nosky|Nosky]])
 
 **`skills/` — pravidlá písania (Adamov feedback)**
 - [[wiki/outreach/skills/index|skills/index]] · [[pis-ako-clovek]] (hlas, anti-AI-smell) · [[citatel-nema-cas]] (štruktúra, dĺžka)
@@ -68,8 +69,8 @@ Katalóg celého vaultu. Schéma a pravidlá: [[CLAUDE|CLAUDE.md]] · História:
 - [[run-2026-07-21-rubrika-vs-realita]] — rubrika nepredpovedá odpovede
 - [[run-2026-07-21-zmrazene-spravy]] — Markovo slepé zoradenie, A+skills vyhral
 
-**`batches/` — dávky** ([[outreach-batch-1]] – [[outreach-batch-12]])
-- 1–4 uzavreté (15.7.) · 5 ⚠️ bez záznamu o odoslaní · 6 (15 odoslaných 16.7.) · **7 a 10 ⏸️ zmrazené** · 8 (18/20 odoslaných) · 9 (4 odoslané, variant B) · **11** (3 kvalifikované, západné SK, žiadne správy) · **12** (bulk: 37 v send queue; **vlna 1 = 5 odoslaných 21.7.**, vlny 2–3 v príprave; US builder e-shopy ~5 rokov bez ICP, pauza overridnutá Markom)
+**`batches/` — dávky** ([[outreach-batch-1]] – [[outreach-batch-18]])
+- 1–4 uzavreté (15.7.) · 5 ⚠️ bez záznamu o odoslaní · 6 (15 odoslaných 16.7.) · **7 a 10 ⏸️ zmrazené** · 8 (18/20 odoslaných) · 9 (4 odoslané, variant B) · **11** (3 kvalifikované, západné SK, žiadne správy) · **12** (bulk: 37 v send queue; **vlna 1 = 5 odoslaných 21.7.**, vlny 2–3 v príprave; US builder e-shopy ~5 rokov bez ICP, pauza overridnutá Markom) · **13** (klienti agentúry CREATIVE sites; 11 kvalifikovaných, 1 vyradený pri re-verifikácii — Rebel Kids odoslaný a doručený cez IG DM, 9 emailov ako Gmail drafty čakajú na Send) · **14** (ICP v2, kozmetika/doplnky/káva SK-CZ; 5 kvalifikovaných z 27 — Facederma, Panakeia, Zlaté Zrnko, Androrganics, Flow nutrition; Medisin zamietnutý pre nízke followers; napísané a schválené 5.8., všetkých 5 ako Gmail drafty, čakajú na Markovo Send) · **15** (ICP v2, prvá dávka cez FB/IG Ad Library; 5 kvalifikovaných z 13 — Bloom Robbins ⭐ 3 nezávislé domény, Doktorka Sandra, InaEssentials.SK, StretchFit, Tomas Arsov; napísané a odoslané 10.8. — 1 IG DM doručený, bot odpovedal, 4 Gmail drafty čakajú na Send) · **16** (ICP v2, široký záber "ktokoľvek s aktívnou reklamou" naprieč 20 kľúčovými slovami; 12 kvalifikovaných z 281 kandidátov — Vera Italy ⭐ 1 893 duplicitných scriptov, Agátin svet, Gardj, Šperky od Petry, Amarost, Historické darčeky, Muzza⚠️, Profitent⚠️, Vitapur, KKTKY; pod cieľom 50 leadov — hlavný dôvod: reselleri a príliš veľké značky pri širokom zábere; 18 kandidátov v rezerve; napísané a odoslané 10.8. — 1 IG DM doručený, 9 Gmail draftov čakajú na Send; Alori.cz a Fotodeky.cz hook nepreživil re-verifikáciu, nevyslané) · **17** (ICP v2, druhá vlna širokého záberu; fáza 1 doverila 18-kandidátovú rezervu z batch 16 → **0 kvalifikovaných** (takmer všetko reseller/retail reťazce); fáza 2 nový discovery v nových kategóriách (sviečky, dojčenské potreby, krmivo pre psy, darčekové boxy...) → **6 kvalifikovaných** — Roses Kingdom ⭐ 1,60s medián+110 scriptov, Purity Vision⚠️ (od 2008), Worshipster, Aura Decor⚠️ (50 followerov), PsiBufet⚠️ (pod followerovým prahom), Ariaz Baby⚠️ (žiadny IG); svieckyslaskou.sk (najsilnejšia bolesť) a cricksydog.sk (8-krajinová operácia) zamietnuté po overení; **napísané a odoslané 10.8.** — prvá dávka s explicitným dvojkanálovým odoslaním (Marko: „aj cez ig + mail"), 5 IG DM doručených naživo + 6 Gmail draftov čakajú na Send) · **18** 🆕 (remeselná niche — nože, šperky, koža, keramika naprieč SK/CZ/EN; Marko uvoľnil kvalifikačnú latku pre objem — „nemusí byť každý totálne kvalifikovaný, len potrebujem 50 leadom poslať email/IG správu dnes"; **98 kandidátov preverených čisto cez `curl`, bez Kimi WebBridge** (followers/posledný post `neoverené` všade) → **51 kvalifikovaných a napísaných správ** — 15 SK, 20 CZ, 16 EN; 37 email, 14 IG DM; najsilnejší nález river.sk neplatný SSL certifikát, BountyBoho.sk 154 scriptov; 9 nožiarov ⚠️HIGH-RISK platby, kapacita neoverená; 4 vylúčení mimo bežného prahu (duplicitný prevádzkovateľ, chýbajúci kontakt, mŕtva doména, nejednoznačný 403); žiadne správy odoslané, čaká na `/send`)
 
 **`prospects/` — leady, ktoré ešte nie sú projekty**
 - [[gollik-knives]] — CZ nožiar, konverzácia beží · [[nino-rostomashvili]] — nurture, re-touch ~09/2026
@@ -80,7 +81,7 @@ Katalóg celého vaultu. Schéma a pravidlá: [[CLAUDE|CLAUDE.md]] · História:
 
 ### Feedback (`wiki/feedback/`) — výsledky a poznatky z pipeline
 
-- [[insights]] — **poznatky #1–#17 na jednom mieste** (kvalifikácia leadu, písanie správy, platby, nástroje, meranie); kanonický domov, kolízie v číslovaní vyriešené
+- [[insights]] — **poznatky #1–#18 na jednom mieste** (kvalifikácia leadu, písanie správy, platby, nástroje, meranie); kanonický domov, kolízie v číslovaní vyriešené
 - [[outreach-day-2026-07-21]] — denný prehľad dňa prestavby: Adamov feedback, dashboard, skills, dva evaly, 0 odoslaných správ
 - [[outreach-day-2026-07-15]] — denný prehľad prvého veľkého dňa: 24 odoslaných správ (17 EN + 5 SK IG + 2 SK email), 2 reakcie v deň 1
 
@@ -88,9 +89,9 @@ Katalóg celého vaultu. Schéma a pravidlá: [[CLAUDE|CLAUDE.md]] · História:
 
 - [[konkurencia-fitnessmenu]] — konkurenčná agentúra: ich model, náskok, slabiny ich eshopu
 - [[cold-outreach-manual]] — manuál cold outreach systému pre cart.design (research → šablóna → AI prompt → správa)
-- [[icp-handmade-makers]] — **ICP v1**: handmade makeri s rozbitým predajným kanálom (US/UK/CA); pokrýva batche 1–8, teda väčšinu všetkého odoslaného
-- [[icp-dtc-znacky-sk-cz]] — **ICP v2**: mladé DTC značky SK/CZ s funkčným Shopify, ktorý ich brzdí (nosky.cz, pekne.eu); dávka [[outreach-batch-9]]
-- [[icp-zastarane-sk-eshopy]] — **ICP v3**: etablované SK firmy so zastaraným webom, redesign grade, email; dávky [[outreach-batch-10]], [[outreach-batch-11]] (západné Slovensko); ⚠️ akútnosť systematicky 0
+- [[icp-handmade-makers]] — **ICP v1**: handmade makeri s rozbitým predajným kanálom (US/UK/CA); pokrýva batche 1–8, teda väčšinu všetkého odoslaného; [[outreach-batch-18]] (11.8.) je rovnaká remeselnícka niche rozšírená na SK/CZ/EN, ale kvalifikovaná ako ICP v2 (čisto `curl`, žiadne IG overenie dopytu) kvôli uvoľnenej latke pre objem
+- [[icp-dtc-znacky-sk-cz]] — **ICP v2**: mladé DTC značky SK/CZ s funkčným Shopify, ktorý ich brzdí (nosky.cz, pekne.eu); dávky [[outreach-batch-9]] (nosné pásky/biohacking klaster), [[outreach-batch-14]] (kozmetika/doplnky/káva, Firecrawl search), [[outreach-batch-15]] (rovnaká nika, prvýkrát cez FB/IG Ad Library — vyšší strike rate), [[outreach-batch-16]] (široký záber bez niky cez Ad Library — nižší strike rate, hlavne kvôli resellerom), [[outreach-batch-17]] (druhá vlna širokého záberu — rezerva z batch 16 dala 0 kvalifikovaných, nové kategórie dali 6; poznatok: outdoor/bicykle/hodinky/nábytok/obuv treba pri širokom zábere preskočiť úplne, sú to takmer výhradne resellery)
+- [[icp-zastarane-sk-eshopy]] — **ICP v3**: etablované SK firmy so zastaraným webom, redesign grade, email; dávky [[outreach-batch-10]], [[outreach-batch-11]] (západné Slovensko), [[outreach-batch-13]] (klienti CREATIVE sites, nový discovery kanál cez pätičkový kredit); ⚠️ akútnosť systematicky 0
 
 ## Raw zdroje
 
@@ -115,6 +116,12 @@ Katalóg celého vaultu. Schéma a pravidlá: [[CLAUDE|CLAUDE.md]] · História:
 - `knife-leather-leads-batch8-2026-07-20.md` — discovery niche: nože + kožené výrobky: 22 kandidátov (5 Known, 17 Research/TBD), metodika Google + IG hashtag search + Kimi pending → [[outreach-batch-8]]
 - `zapadne-slovensko-eshopy-batch11-verified-2026-07-21.md` — plný zoznam 31 kandidátov batch 11 s dátami z `qualify.py` → [[outreach-batch-11]]
 - `us-5yr-builder-eshops-batch12-verified-2026-07-21.md` — plný zoznam 37 US kandidátov batch 12 (5 kvalifikovaných, 32 vyradených/nedoverených s dôvodmi; whois/RDAP veky, Shopify theme, IG verifikácia) → [[outreach-batch-12]]
+- `creative-sites-sk-batch13-verified-2026-08-04.md` — plný zoznam 35 klientov agentúry CREATIVE sites (curl + Kimi WebBridge; 11 kvalifikovaných, vrátane falošného nálezu lull.sk) → [[outreach-batch-13]]
+- `dtc-sk-cz-batch14-verified-2026-08-05.md` — plný zoznam 27 kandidátov batch 14 (kozmetika/doplnky/káva SK-CZ; 5 kvalifikovaných, vrátane falošného nálezu brainmax.cz a chybnej domény vjem.sk) → [[outreach-batch-14]]
+- `ad-library-sk-cz-batch15-verified-2026-08-05.md` — plný zoznam 13 kandidátov batch 15, prvá dávka cez FB/IG Ad Library (5 kvalifikovaných, 38 % strike rate) → [[outreach-batch-15]]
+- `ad-library-broad-batch16-verified-2026-08-10.md` — plný zoznam batch 16 (352 domén → 281 kandidátov → 44 po voľnej kvalifikácii → 26 overených → 12 kvalifikovaných, 14 zamietnutých, 18 v rezerve) → [[outreach-batch-16]]
+- `ad-library-broad-batch17-verified-2026-08-10.md` — plný zoznam batch 17 (fáza 1: 15 z 18 rezervy z batch 16 doverených, 0 kvalifikovaných; fáza 2: 27 nových kandidátov po voľnej kvalifikácii, 6 kvalifikovaných, 2 zamietnutí po overení) → [[outreach-batch-17]]
+- `craft-knives-batch18-verified-2026-08-11.md` — plný zoznam batch 18 (remeselná niche SK/CZ/EN — nože/šperky/koža/keramika; 98 kandidátov preverených čisto cez curl bez Kimi, 51 kvalifikovaných, 47 vylúčených s dôvodmi) → [[outreach-batch-18]]
 
 ### raw/cart.design/cold-outreach/cold-outreach-system
 

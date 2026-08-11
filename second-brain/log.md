@@ -671,3 +671,353 @@ draft** (API vie len draft, nie send):
 
 Aktualizované stránky (Komunikácia/Ďalší krok), [[cold-outreach-pipeline]] (dátum follow-upu),
 [[dashboard]] (§5 živé vlákna).
+
+## [2026-08-04] scrape | CREATIVE sites klienti — 11/35 kvalifikovaných
+
+Nová discovery metóda na Markov podnet: hľadanie SK firiem podľa pätičkového kreditu
+`"Created by CREATIVE sites"` (klienti agentúry creativesites.sk) namiesto hľadania podľa niky.
+Firecrawl search (2 dotazy) + scrape `creativesites.sk/referencie` → **35 kandidátov**, 0 kolízií
+s existujúcim pipeline.
+
+Kvalifikácia `curl` (prahy zo `stack.sh`) ukázala, že väčšina webov je technicky zdravá — klasický
+"web je rozbitý" hook z [[icp-zastarane-sk-eshopy|ICP v3]] väčšinou neplatí. Marko po medzipristátí
+zvolil overiť všetkých 35 do hĺbky cez Kimi WebBridge (skutočný prehliadač) namiesto zúženia na
+najsilnejších ~10. Výsledok: **2 s priamou technickou chybou** (rebelkids.sk úplne nedostupný,
+zuppashop.com neplatný SSL — "Privacy error" v Chrome) + **9 so statickým copyright rokom v
+pätičke** (7–13 rokov starý, potvrdené celotextovým skenom proti falošným nálezom — jeden
+kandidát, lull.sk, bol takto odhalený a vyradený napriek `© 2015`, lebo mal aktívne blogové
+príspevky z 2026). Nový poznatok #18 v [[insights]].
+
+**Nové stránky:** [[outreach-batch-13]], `raw/cart.design/cold-outreach/creative-sites-sk-batch13-verified-2026-08-04.md`.
+**Aktualizované:** [[dashboard]], [[icp-zastarane-sk-eshopy]], [[insights]] (#18), `index.md`.
+Žiadne správy napísané ani odoslané — čaká na `/send`.
+
+## [2026-08-04] send | Batch 13 — 1 odoslaný, 9 draftov, 1 vyradený
+
+Marko overridol pauzu explicitne pre batch 13. Re-verifikácia v deň odoslania (bez výnimky):
+všetkých 11 hookov ešte platilo, okrem **ZUPPA** — jej Instagram bio vedie na `zuppa.sk`, funkčnú
+doménu mimo CREATIVE shop, čiže firma sa medzičasom presunula preč zo `zuppashop.com` (odtiaľ
+neplatný SSL). Hook zahodený, ZUPPA vyradená z dávky bez náhrady.
+
+Napísaných 11 správ podľa [[pis-ako-clovek]] + [[citatel-nema-cas]], live variant
+[[opener-dvojfazovy-v2]]. Marko schválil všetko naraz.
+
+- **Rebel Kids** — IG DM odoslaná a doručená cez Kimi WebBridge (`@rebelkids_slovakia`), screenshot
+  potvrdený.
+- **9 emailov** (AFG.sk, Prezuvky.sk, Robel, DATES MOBILE, Reconvel, Alice & Alice, JohnGarfield.sk,
+  PROFIO Electronics, Moe4Kids) — vytvorené ako **Gmail drafty** (MCP nevie odoslať priamo), čakajú
+  na Markovo kliknutie Send.
+
+**Aktualizované:** [[outreach-batch-13]] (plné znenia + stav doručenia), [[cold-outreach-pipeline]]
+(11 nových riadkov), [[dashboard]] (§1 čísla, §2 hook/kanál/jazyk, banner), `index.md`.
+
+## [2026-08-05] scrape | DTC kozmetika/doplnky/káva SK-CZ — 5/27 kvalifikovaných
+
+`/scrape` na Markov povel „dalsi batch /scrape". ICP a nika zvolené cez otázku Markovi: **ICP v2**
+(DTC značky SK/CZ), nová nika (kozmetika, doplnky výživy, pražiarne kávy) — zámerne mimo klastra
+nosky.cz/pekne.eu/Hevi/Gudslip/Resty z [[outreach-batch-9]] (nosné pásky/biohacking), aby sa
+predišlo konfliktu záujmov.
+
+**Discovery:** Firecrawl search, 12 dotazov → 27 unikátnych kandidátov po dedupe proti celému
+`wiki/`+`raw/` (0 kolízií; Biorythme sa objavila vo výsledkoch, ale je to už živý lead, vylúčená).
+
+**Kvalifikácia (curl + `/products.json`, `stack.sh` z [[icp-dtc-znacky-sk-cz]]):** 6 prežilo prah
+(scripty>80 alebo čas>1,5s, 4× overené pri hraničných prípadoch — poznatok #11 potvrdil falošný
+nález na brainmax.cz).
+
+**Verifikácia (Kimi WebBridge, Instagram):** 5 kvalifikovaných — **Facederma** (109 scriptov, 33,6K
+followerov), **Panakeia** (93 scriptov, 14,4K), **Zlaté Zrnko** (138 scriptov, 10,9K), **Flow
+nutrition** (107 scriptov, 22,3K, ⚠️ recency neistá), **Androrganics** (dve nezávislé domény
+.eu/€ a .cz/Kč, vlastný jQuery/Bootstrap kód; len 833 followerov, ale demand doložený partnerstvom
+s FC Nitra a HK Nitra). **Medisin** zamietnutý napriek potvrdenému pain pointu (4× meraná pomalosť
+2,25–2,63s) — len 467 followerov, pod ICP v2 prahom 5K bez iného dôkazu dopytu.
+
+Ďalšie zamietnutia s dôvodom: cosibella.sk (multibrandová drogéria, nie DTC značka), brainmax.cz
+(falošný nález rýchlosti + je to podstránka resellera BrainMarket), vjem.sk (chybný odhad domény —
+stránka je nesúvisiaci Lovable-generovaný projekt).
+
+Žiadne správy napísané, nič odoslané — čaká na `/send`.
+
+**Založené:** [[outreach-batch-14]], `raw/cart.design/cold-outreach/dtc-sk-cz-batch14-verified-2026-08-05.md`.
+**Aktualizované:** [[cold-outreach-pipeline]] (6 nových riadkov), [[dashboard]] (banner + §1 tabuľka
+podľa dávky), `index.md`.
+
+## [2026-08-05] send | batch 14 — 5 napísaných, 5 Gmail draftov (čakajú na Send)
+
+`/send` na Markov povel. Krok 0: cold outreach bol `PAUSED` od 21.7. — Marko explicitne
+potvrdil override pre celý batch 14 (otázka + odpoveď "Ano, poslat cely batch 14").
+
+**Krok 1 — re-verifikácia (v deň odoslania):** všetkých 5 script-count hookov sa zhodovalo presne
+s hodnotami zo scrape ráno (Facederma 109, Panakeia 93, Zlaté Zrnko 138, Flow nutrition 107).
+Androrganics dual-doména potvrdená ešte čistejšie: .eu = 38× €/0× Kč, .cz = 0× €/47× Kč — žiadne
+krížové meny, hook silnejší než pri scrape.
+
+**Krok 2 — správy** napísané podľa [[citatel-nema-cas]] + [[pis-ako-clovek]], live variant
+[[opener-dvojfazovy-v2]] (brand-first vsuvka + jeden overený fakt + jedna otázka, 41–49 slov).
+
+**Krok 3 — schválenie:** Marko schválil všetkých 5 naraz vrátane Flow nutrition, napriek ⚠️ neistej
+IG recency (najnovší jasne datovaný post 7.7., 29 dní — hranica poznatku #5).
+
+**Krok 4 — doručenie:** kanál email pre všetkých 5 (ICP v2 sekvencia, deň 0). Gmail MCP vie len
+vytvoriť draft, nie odoslať — všetkých 5 vytvorených ako drafty, čakajú na Markovo kliknutie Send:
+Facederma (ondrik.filip@facederma.sk), Panakeia (panakeia@panakeia.sk), Zlaté Zrnko
+(objednavky@zlatezrnko.sk), Androrganics (info@androrganics.eu), Flow nutrition
+(tym@flow-nutrition.cz).
+
+**Aktualizované:** [[outreach-batch-14]] (plné znenia + stav), [[cold-outreach-pipeline]] (5 riadkov
+na `status: osloveny`), [[dashboard]] (banner, §1 „Pripravené, neodoslané" 11→16, tabuľka podľa
+dávky), `index.md`.
+
+## [2026-08-05] scrape | Ad Library SK/CZ DTC — 5/13 kvalifikovaných (batch 15)
+
+`/scrape` na Markov podnet („vieme ich nájsť ešte viac, napr. shopify / creative sites?"). Namiesto
+Shopify fingerprintu alebo CREATIVE-sites tricku (mimo scope pre ICP v2) zvolený **FB/IG Ad Library**
+— dokument [[icp-dtc-znacky-sk-cz]] ho odporúčal ako najlepší zdroj pre ICP v2 od 20.7., ale doteraz
+nepoužitý (batch 9 aj 14 išli cez Firecrawl search).
+
+**Discovery:** Kimi WebBridge na facebook.com/ads/library, 3 dotazy (kozmetika SK ~1600 výsledkov,
+doplnky výživy SK ~160, kosmetika CZ ~2700). 13 kandidátov po vyradení veľkých/multibrandových
+hráčov priamo pri prezeraní (Notino, Vilgain, Dermacol, Glamot.sk, Elnino, Protein.sk, Fitham.sk,
+NANAcare) a dedupe (0 kolízií).
+
+**Kvalifikácia + verifikácia:** **5/13 kvalifikovaných (38 % strike rate, najvyšší v ICP v2)** —
+**Bloom Robbins** (115K followerov, tri nezávislé Shopify obchody .sk/.cz/.com, najsilnejší hook
+zatiaľ v celom vaulte), **Doktorka Sandra** (47,4K, web konzistentne 3,1–6,4s pri 4× meraní, MD
+PhD dermatologička), **InaEssentials.SK** (12,2K, 95 scriptov), **StretchFit Slovensko** (8,8K,
+88 scriptov + samostatná .cz doména, ⚠️ IG posledný organický post 17 mesiacov starý, ale aktívna
+platená reklama = alternatívny dôkaz dopytu), **Tomas Arsov** (35,2K, 82 scriptov).
+
+**Metodický nález:** StretchFit prípad ukázal, že pri Ad-Library-sourced leadoch treba poznatok #5
+(spiaci účet) čítať inak — bežiaca platená reklama je priamejší dôkaz dopytu než organický posting.
+Navrhnuté ako budúci poznatok v [[insights]], zatiaľ len zaznamenané v batch stránke.
+
+**Vzorec:** 3 z 5 kvalifikovaných v tejto dávke majú duplicitnú SK/CZ (alebo viac) doménovú
+infraštruktúru — tretí výskyt po Hevi (batch 9) a Androrganics (batch 14).
+
+Žiadne správy napísané, nič odoslané — čaká na `/send`.
+
+**Založené:** [[outreach-batch-15]], `raw/cart.design/cold-outreach/ad-library-sk-cz-batch15-verified-2026-08-05.md`.
+**Aktualizované:** [[cold-outreach-pipeline]] (5 nových riadkov), [[dashboard]] (banner + tabuľka
+podľa dávky), `index.md`.
+
+## [2026-08-10] scrape | Ad Library, široký záber (ktokoľvek s aktívnou reklamou) — 12/281 kvalifikovaných
+
+Marko zadal cieľ 50 leadov, niku uvoľnil úplne — jediná podmienka: aktívne bežiaca reklama. Namiesto
+jednej kategórie prehľadaných 20 kľúčových slov naprieč SK aj CZ v FB/IG Ad Library (kabelky, obuv,
+šperky, hračky, bytový textil, zvieratá, outdoor, darčeky, hodinky, plavky, bielizeň, matrace,
+bicykle, záhrada, kancelária + CZ ekvivalenty).
+
+352 unikátnych domén → 281 po vyradení veľkých reťazcov/marketplace pri triedení (Alza, Notino,
+Decathlon, GymBeam, Northfinder, Sashe, Biano, atď.) → dedupe proti vaultu (2 kolízie: maluna.sk,
+miraoffice.sk, už v pipeline) → **44 prekročilo prah bolesti** po voľnej kvalifikácii (`stack.sh`) →
+26 z 44 overených cez Kimi WebBridge (čas) → **12 kvalifikovaných**, 14 zamietnutých, 18 v rezerve.
+
+**Prečo len 12, nie 50:** široký záber bez cielenej niky naráža hlavne na resellerov/distribútorov
+cudzích značiek (dohor.sk, outdoormania.sk, puls.cz, attractiv.sk, najnosice.sk — 5 z 14 zamietnutí,
+tvrdý diskvalifikátor ICP v2) a príliš veľké/medzinárodné značky, ktoré technicky prešli scriptovým
+prahom, ale nesedia na personu mladého zakladateľa (lelosi.sk 148K, snuggs.sk 107K followerov).
+Cielené niky majú vyšší strike rate práve preto, že sú užšie.
+
+**Najsilnejší hook zatiaľ v celom vaulte:** Vera Italy (dámske kabelky, duálna .sk/.cz doména) —
+**1 893 duplicitných inline `<script>` blokov** na homepage, stránka 2,7 MB. Ďalší: Agátin svet
+(11,1K, 2,97s odozva), Gardj (5,04s odozva, sauny/skleníky), Šperky od Petry, Alori.cz (32,2K
+followerov, nano kozmetika), Vitapur, Amarost (výrobca matracov), Historické darčeky (⚠️ IG mlčí 9
+mes., ale aktívna reklama), Muzza ⚠️, Profitent ⚠️, Fotodeky.cz ⚠️ (0 organických postov), KKTKY
+(registrovaná ochranná známka, 6K followerov, post dnes).
+
+Žiadne správy napísané, nič odoslané — čaká na `/send`. 18 preverených-ale-neoverených kandidátov je
+pripravená rezerva pre ďalšiu session, ak treba dohnať bližšie k 50.
+
+**Založené:** [[outreach-batch-16]], `raw/cart.design/cold-outreach/ad-library-broad-batch16-verified-2026-08-10.md`.
+**Aktualizované:** [[cold-outreach-pipeline]] (12 nových riadkov), [[dashboard]] (banner + 2 tabuľky),
+`index.md`.
+
+## [2026-08-10] ingest | Nosky.cz — celý emailový prepis s Jakubom Cahom
+Marko dodal doslovné znenie celého vlákna (6 správ), ktoré vo vaulte dovtedy chýbalo — poznali sme
+len parafrázu kostry v [[outreach-batch-9]] („precedens variantu B"). Realita je oveľa ďalej než
+vault tvrdil: Jakub odpísal **3×**, dostal report na `nosky.cart.design`, prešiel ho („má to hlavu
+a patu"), sám ponúkol referenciu a požiadal **„ozvěte se pls na konci července, to budu ready
+to začít řešit"**. Marko potvrdil. Koniec júla uplynul, follow-up neodišiel → Nosky je najteplejší
+lead ICP v2 a je po termíne.
+
+Overené 10.8. (`curl` + `/products.json`): nosky.cz má **67 `<script>` tagov** (20.7. ich bolo 65),
+23 produktov, dva stále za 0,00 Kč, homepage 0,48 s. UX/UI prepracovanie, o ktorom Jakub písal, sa
+na homepage technicky neprejavilo. `nosky.cart.design` je stále online (HTTP 200).
+
+⚠️ **Oprava eval záznamu:** variant B ([[kombinovana-v1]]) bol evidovaný ako 7 odoslaných / 0
+odpovedí. Nosky sa doň nikdy nezapočítalo, hoci je to jeho zdrojový precedens **a jediná jeho
+správa, ktorá odpoveď dostala** → **8 / 1 (13 %)**. Verdikt „needs rewrite" zostáva (Marko ho
+v run 2 zoradil naslepo posledný), ale prepis na `kombinovana-v2` má vychádzať z doslovného znenia.
+
+⚠️ Dátumy jednotlivých správ nie sú overené (prepis prišiel bez timestampov) — doplniť z Gmailu.
+
+Follow-up napísaný podľa [[citatel-nema-cas]] + [[pis-ako-clovek]], dve verzie, **neodoslaný,
+čaká na Markovo schválenie**.
+
+**Založené:** [[wiki/projects/nosky|nosky]] (info, celý prepis, technický stav, draft follow-upu).
+**Aktualizované:** [[cold-outreach-pipeline]] (nový riadok), [[dashboard]] (banner),
+[[wiki/outreach/prompts/index|prompts/index]] (čísla variantu B), `index.md`.
+
+## [2026-08-10] send | Nosky — follow-up po uplynutí termínu (schválený, nedoručený)
+Marko schválil verziu A s úpravou: **celé po slovensky**. Prvý draft zrkadlil Jakubove české slová
+(„budeš ready to začít řešit"); Marko to zamietol → nový poznatok: zrkadlenie formulácií leadu
+nesmie prekročiť jazykovú hranicu, píšeme po slovensky aj českému leadu.
+
+Finálne znenie (na [[wiki/projects/nosky|nosky]]): pripomenutie jeho vlastného záväzku + link na
+`nosky.cart.design` + jedna otázka s ľahkým únikom.
+
+⚠️ **Nedoručené odtiaľto.** Gmail hľadanie (`nosky`, `jakub@nosky.cz`, `in:anywhere`) nevrátilo nič
+— pripojená schránka je `marko@merge.build`, ale vlákno je podpísané `marek@cart.design`. Draft sa
+tu nedá založiť ako odpoveď do vlákna, ani sa nedajú doplniť chýbajúce dátumy správ. Čaká sa na
+Markovo rozhodnutie, z ktorej schránky ide.
+
+## [2026-08-10] send | Batch 15 + 16 — 15 správ napísaných, 2 doručené naživo, 13 draftov
+
+Marko: „send... ako najviac správ [na oboch platformách]." Spracované [[outreach-batch-15]] (5 leadov,
+qualifikované 5.8., ešte nemali správy) a [[outreach-batch-16]] (12 leadov, qualifikované dnes ráno)
+spolu, 17 leadov celkovo, override pauzy.
+
+**Krok 1 — re-verifikácia (bez výnimky, curl 4×, poznatok #11):** batch 15 hooky všetkých 5 prežili
+(Bloom Robbins ×3 domény, Doktorka Sandra medián 2,5s, InaEssentials 97 scriptov, StretchFit ×2
+domény, Tomas Arsov 87 scriptov). Batch 16: **2 hooky neprežili** — Alori.cz (pôvodne 1,74s, dnes
+medián 0,81s zo 4 meraní, len 23 scriptov) a Fotodeky.cz (pôvodne 1,86s, dnes medián 1,36s, pod
+prahom 1,5s). Podľa pravidla skillu („hook ktorý neprežil sa zahodí, nevymýšľa sa náhrada") oba
+vypadli zo zoznamu na odoslanie. Gardj's rýchlostný hook tiež nesedel (5,04s → dnes 0,2–0,3s,
+zrejme jednorazový výkyv servera), prerámovaný na script count (94), ktorý držal nezávisle.
+
+**Krok 2–3 — písanie a schválenie:** 15 správ napísaných podľa [[opener-dvojfazovy-v2]] (live) +
+[[citatel-nema-cas]] + [[pis-ako-clovek]], brand-first. Marko schválil všetkých 15 v plnom znení
+bez úprav.
+
+**Krok 4 — doručenie:**
+- **IG DM (2, doručené naživo cez Kimi WebBridge):** InaEssentials.SK (@inaessentials.sk, 9:21) a
+  Vitapur (@vitapur_home.sk, 9:22). Screenshoty s odoslanou bublinou ako dôkaz.
+- **Email (13, Gmail drafty — API nevie odoslať priamo):** Bloom Robbins, Doktorka Sandra,
+  StretchFit, Tomas Arsov (batch 15); Vera Italy, Agátin svet, Gardj, Šperky od Petry, Amarost,
+  Historické darčeky, Muzza, Profitent, KKTKY (batch 16). Čakajú na Markovo kliknutie Send.
+
+⚠️ **InaEssentials.SK odpovedala do 1 minúty** — po preskúmaní ide o **automatizovaného bota**
+(formálny tón, ponuka konkrétnych produktov Hydrolina/RoutINA™, presmerovanie technickej otázky na
+tím), nesedí s neformálnym IG hlasom skutočnej osoby. Nepočítané ako kvalifikovaná ľudská reakcia
+v dashboarde, zaznamenané ako dátový bod.
+
+**Založené:** nič nové (rozšírenie existujúcich [[outreach-batch-15]] a [[outreach-batch-16]]).
+**Aktualizované:** [[outreach-batch-15]], [[outreach-batch-16]] (odoslané správy, stav), 
+[[cold-outreach-pipeline]] (17 riadkov), [[dashboard]] (banner, §1 čísla, kanál/trh/dávka tabuľky),
+`index.md`.
+
+✅ **Follow-up text schválený, Marko ручne odošle z marek@cart.design:**
+
+> Ahoj Jakub,
+>
+> vravel si, že koncom júla budeš pripravený pustiť sa do toho, tak sa ozývam podľa dohody.
+>
+> Poznámky k Noskám sú stále na https://nosky.cart.design/.
+>
+> Hodí sa ti tento týždeň 15 minút na call, alebo to ešte nie je ten čas?
+>
+> Marek
+
+**Poznatok:** zrkadlenie formulácií leadu nesmie prekročiť jazykovú hranicu — píšeme po slovensky aj
+českému leadovi.
+
+## [2026-08-10] scrape | ICP v2 — druhá vlna širokého záberu (outreach-batch-17) — 6/33 kvalifikovaných
+
+Marko: „naprieč čo najviac produktovými kategóriami bez obmedzenia na jednu niku, ber len značky
+s aktívne bežiacou reklamou v FB/IG Ad Library". Rovnaké zadanie ako batch 16, preto dvojfázovo:
+(1) doverenie 15 z 18 kandidátov ponechaných v rezerve z [[outreach-batch-16]] → **0 kvalifikovaných**
+(takmer výhradne reselleri/retail reťazce s kamennými predajňami — hodinkovna.cz, mobilonline.sk,
+velosvet.sk a i.); (2) čerstvý discovery v nových kategóriách (sviečky, dojčenské potreby, krmivo pre
+psy, darčekové boxy, jóga, kozmetika, plánovače...) → 27 kandidátov po voľnej kvalifikácii → **6
+kvalifikovaných**: Roses Kingdom, Purity Vision, Worshipster, Aura Decor, PsiBufet, Ariaz Baby.
+2 zamietnutí po IG overení (svieckyslaskou.sk — spiaci účet napriek najsilnejšej bolesti v dávke;
+cricksydog.sk — 8-krajinová operácia, príliš veľká). Nový poznatok: outdoor/bicykle/hodinky/nábytok/
+obuv treba pri širokom zábere preskočiť, sú takmer výhradne resellery. Stránky: [[outreach-batch-17]],
+raw `ad-library-broad-batch17-verified-2026-08-10.md`. Aktualizované: [[dashboard]],
+[[cold-outreach-pipeline]], `index.md`. Žiadne správy napísané, žiadne odoslané — čaká na `/send`.
+
+## [2026-08-10] send | outreach-batch-17 — 6/6 napísaných, 5 IG DM doručených naživo, 6 emailov ako Gmail drafty
+
+Marko: „posli mi to aj cez ig + mail" (override pauzy). Hooky re-verifikované v deň odoslania
+(Roses Kingdom: 4× meranie, medián 1,60s; ostatné scripty stabilné), žiadny nezomrel. Marko prvýkrát
+explicitne povolil odoslanie **oboma kanálmi tomu istému leadu v ten istý deň** — bežne zakázané
+kvôli riziku pôsobiť ako bot. Sekundárny kanál v každej dvojici priznáva duplicitu („písal som aj
+mailom, neviem či prešiel"). 5 z 6 leadov dostalo IG DM aj email (Ariaz Baby len email, žiadny IG).
+Pri prvom pokuse (Roses Kingdom) sa správa omylom odoslala dvakrát — screenshot bol zachytený skôr,
+než sa UI prekreslilo, oprava cez Unsend. Nový poznatok #19 v [[insights]] (over textbox pred Send,
+thread po Send). Zvyšné 4 IG DM prešli bez chyby. Aktualizované: [[outreach-batch-17]] (plné znenia
+správ), [[cold-outreach-pipeline]], [[dashboard]] (§1 čísla, kanál, trh, dávka), [[insights]]
+(poznatok #19), `index.md`. **6 Gmail draftov čaká na Markovo kliknutie Send.**
+
+## [2026-08-10] asset | Discovery dotazník pre Maťa (B2B zdravotnícke pomôcky)
+
+Vytvorený `wiki/assets/Dotaznik-B2B-system-Mato.csv` — 78 otázok v 15 oblastiach (firma, aktuálny
+stav, B2B cenníky, proces objednávky, sklad vrátane šarží/expirácií/FEFO/konsignácie, regulácia a
+dohľadateľnosť podľa MDR/UDI/ŠÚKL, nákup, fakturácia, doprava, role, reporting, migrácia dát,
+must/nice priority, čas a rozpočet). Nový adresár `wiki/assets/` pre súbory určené klientom.
+Aktualizovaný `index.md`. Dotazník zatiaľ neodoslaný a nevyplnený; Maťo nemá zatiaľ wiki stránku.
+
+## [2026-08-10] asset | Dotazník pre Maťa aj v markdowne
+
+Pridaný `wiki/assets/Dotaznik-B2B-system-Mato.md` — rovnakých 78 otázok ako CSV verzia, len na
+vypĺňanie v texte (úvodný odsek pre Maťa, pri každej otázke `Odpoveď:` a `Priorita:`). Bez
+frontmatteru zámerne: je to súbor pre klienta, nie wiki stránka. Aktualizovaný `index.md`.
+
+## [2026-08-10] asset | Presun dotazníkov do ~/wiki/assets
+
+Oba súbory (CSV a MD verzia) presunuté z `second-brain/wiki/assets/` do `~/wiki/assets/` — tam
+patria, nie do second-brain. Adresár `second-brain/wiki/assets/` odstránený. Aktualizovaný
+`second-brain/index.md` (časť Assets odobraná).
+
+## [2026-08-10] ingest | PsiBufet email — odpoveď bota, draft reakcie
+
+Email na kontakt@psibufet.com dostal odpoveď z bark@butternutbox.com — Intercom AI Agent "Fin",
+nie človek. Pýta sa na zariadenie/prehliadač/meradlo za 121 scriptami. Pripravená a schválená
+formálna reakcia (vykanie), uložená ako Gmail draft v tom istom vlákne, čaká na Markovo Send.
+Aktualizované: outreach-batch-17, cold-outreach-pipeline, dashboard.
+
+✅ Odpoveď poslana 10.8.2026 — vysvetľuje curl meranie, HTML zdroják, nezávislé od zariadenia.
+
+## [2026-08-11] scrape | craft makers + nože batch-18 — 51/98 kvalifikovaných, 51 napísaných správ
+
+Marko uvoľnil kvalifikačnú latku pre objem („nemusí byť každý totálne kvalifikovaný, len potrebujem
+50 leadom poslať email/IG správu dnes"). Discovery cez 8 Firecrawl dotazov (nože/šperky/koža/keramika,
+SK/CZ/EN) → 98 kandidátov preverených čisto cez `curl` (**bez Kimi WebBridge** — followers a dátum
+posledného postu `neoverené` pri všetkých 51) → 51 kvalifikovaných (15 SK, 20 CZ, 16 EN; 37 email,
+14 IG DM), 47 vylúčených. Prah znížený z 80 na 25+ `<script>` tagov pre kandidátov bez inej bolesti.
+Najsilnejšie nálezy: river.sk neplatný SSL certifikát, BountyBoho.sk 154 scriptov. 9 leadov sú nožiari
+⚠️HIGH-RISK platby (kapacita neoverená). Nové súbory: `raw/cart.design/cold-outreach/craft-knives-batch18-verified-2026-08-11.md`,
+`wiki/outreach/batches/outreach-batch-18.md`. Aktualizované: dashboard, index.md. Žiadne správy
+odoslané — čaká na Markovo schválenie a `/send`.
+
+## [2026-08-11] send | batch-18 re-verifikácia hookov — 46/51 prežilo, 5 mŕtvych
+
+Krok 1 `/send batch-18`, popoludní, ten istý deň ako pôvodná kvalifikácia. Metóda: `curl` 4× na
+lead (medián, poznatok #11 — nie 1× ako pri pôvodnej dávke), počet `<script>` tagov cez Python
+`re.S`, `curl -v` pre river.sk SSL. **46/51 hookov prežilo** (väčšina script-count hookov sedí na
+presne rovnaké číslo ako pri kvalifikácii; river.sk SSL mismatch reprodukovaný identickou chybou).
+
+**5 mŕtvych** (response-time hooky, čas klesol pod prah 1,5s): Nasha Keramika (2,19s → medián
+1,45s), MHKNIVES (2,20s → 1,20s), Keramika Patrik Daič (1,76s → 0,14s — pôvodné 1× meranie bolo
+studený štart, presne past z poznatku #11), Tomáš Linger (1,79s → 0,37s), Moss Bags (1,90s →
+0,52s). Žiadny nahradený vymysleným hookom; 3 z 5 majú NOVÝ script-count hook nájdený počas
+re-checku (Nasha 53, Tomáš Linger 26 slabý, Moss Bags 63), zapísaný len ako kandidát na prepis
+správy, nie tichým doplnením. 4 hooky s výrazne zmeneným číslom, ale prahom stále prekonaným:
+Keramická dílna Petra Raisová (3,50s→1,71s), MontMat (1,41s→medián ~12,9s, zhoršené), Kovářství
+Čurda (1/4→2/4 timeout, zhoršené), river.sk (nezmenené). Batch-18 stránka: Status stĺpec doplnený
+o ✅/❌ marker pri všetkých 51 riadkoch, mŕtve hooky ponechané viditeľné (nie zmazané), nová sekcia
+„Re-verifikácia hookov v deň odoslania". Dashboard/pipeline/index zatiaľ nedotknuté — čakajú na
+krok doručenia.
+
+## [2026-08-11] send | batch-18 — 34 email drafty + 3 IG doručené naživo, 9 IG zastavené (throttle)
+
+`/send batch-18` doručenie: **34 Gmail drafty vytvorené** (SK 10, CZ 17, EN 7 — čakajú na Markovo
+kliknutie Send). **3 IG DM odoslané naživo cez Kimi WebBridge** (Lady Bead Jewelry, AP Jewellery,
+Janelit.sk — SK), každý overený screenshotom sent-bubliny. **Lady Bead Jewelry odpovedala do 5 minút**
+(„mala som človeka ktorý mi stránku robil..."), treba napísať fázu 2. Pri 4. IG DM (MOOYYY, CZ)
+vyhľadávanie v IG composeri zaseklo na 30+ sekúnd po sérii rýchlych searchov — možný throttle signál;
+žiadny duplikát ani chybné odoslanie, len sa nedalo pokračovať. Marko rozhodol zastaviť IG na dnes
+namiesto tlačenia cez throttle. **9 IG DM (1 CZ + 8 EN) zostáva nedoslaných**, zapísané ako pripravené
+v batch-18. Aktualizované: `outreach-batch-18.md` (status stĺpec všetkých 46 riadkov), `dashboard.md`
+(§1 čísla, batch tabuľka, nový dated bullet), `cold-outreach-pipeline.md` (3 nové riadky, Lady Bead
+Jewelry ako reagovala).

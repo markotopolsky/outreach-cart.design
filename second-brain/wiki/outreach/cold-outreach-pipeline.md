@@ -2,7 +2,7 @@
 type: project
 status: active
 created: 2026-07-15
-updated: 2026-08-03
+updated: 2026-08-11
 aliases: [Outreach pipeline, Cold outreach pipeline]
 tags: [cart-design, cold-outreach, sales]
 ---
@@ -95,6 +95,7 @@ Centrálny prehľad všetkých prospektov. Cieľ prvej vlny: **~20 mailov**, zbe
 | [[wiki/projects/orox-leather-co\|Orox Leather Co]] | IG DM | brand-first: 18K, 4. generácia od 1933, príbeh chýba na webe ✅20.7. | 2026-07-20 | **2026-08-03** (fáza 2) | **2026-07-25** — „small team, thank you we should integrate it more" | **fáza 2 odoslaná** |
 | [[the-local-branch\|The Local Branch]] | IG DM | brand-first: 9.8K (⚠️pod prahom), Shopify + kamenná predajňa ✅20.7. | 2026-07-20 | — | **2026-07-22** — „mostly in person, online is a fraction" (Mackenzie) | **reagovala — slabý fit**; naša otázka na Seen, nepingovať ([[the-local-branch]]) |
 | [[wiki/projects/pekne\|Pekne (pekne.eu)]] | IG DM + email | kombinovaná správa: 111 script tagov, pomalý mobile load ✅20.7. | 2026-07-20 | — | **2026-07-20** (email) — „zatiaľ nebudeme potrebovať" | **reagoval — odmietol** — ICP v2 |
+| [[wiki/projects/nosky\|Nosky (nosky.cz, Jakub Caha)]] | email | kombinovaná správa (pôvodný precedens variantu B) | ⚠️ pred 20.7., presný dátum neoverený | report `nosky.cart.design` + 1 follow-up | **3× odpísal** — „má to hlavu a patu", odložil na prázdniny, **„ozvěte se na konci července"** | **najteplejší lead ICP v2** — termín uplynul, follow-up napísaný 10.8., **čaká na schválenie** ([[wiki/projects/nosky\|nosky]]) |
 | Hevi (hevisleep.sk/.cz) | email | kombinovaná správa: dva samostatné SK/CZ Shopify obchody ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-9]]) — ICP v2 |
 | [[gudslip|Gudslip (gudslip.cz)]] | email | kombinovaná správa: spotrebný tovar bez predplatného ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[gudslip]] — projekt, [[outreach-batch-9]] — batch) — ICP v2 |
 | Resty (feelresty.com) | IG DM | kombinovaná správa: refilly bez predplatného ✅20.7. | 2026-07-20 | — | — | **oslovený** ([[outreach-batch-9]]) — ICP v2 |
@@ -110,6 +111,49 @@ Centrálny prehľad všetkých prospektov. Cieľ prvej vlny: **~20 mailov**, zbe
 | Earth Berry Apothecary (Elena Bozzi Ardagna) | IG DM | brand-first: 14,1K, story brand na Dawn šablóne ✅21.7. | 2026-07-21 | — | — | **oslovený** ([[outreach-batch-12]]) — US bulk |
 | Bounding Main | IG DM | brand-first: 3 predajne CA, „Copy of Dawn" + 83 scriptov ✅21.7. | 2026-07-21 | — | — | **oslovený** ([[outreach-batch-12]]) — US bulk |
 | [[ember-coffee\|Ember Coffee Co.]] | IG DM | brand-first: „best coffee in MN", 89 scriptov ✅21.7. | 2026-07-22 | — | **2026-07-22** — „roasted fresh, shipped same week 😊☕️" (ako predajca) | **reagoval** — priznanie + reframe (subscription) odoslaný 24.7. ([[ember-coffee]]) ⚠️ redesign 2025 |
+| Rebel Kids | IG DM | web úplne nedostupný (rebelkids.sk) ✅4.8. | 2026-08-04 | — | — | **oslovený** ([[outreach-batch-13]]) — ICP v3, doručené |
+| AFG.sk | email | pätička © 2013, žiadny novší rok ✅4.8. | — | — | — | **draft pripravený** ([[outreach-batch-13]]) — čaká na Send |
+| Prezuvky.sk | email | pätička © 2013, 4 jazykové mutácie ✅4.8. | — | — | — | **draft pripravený** ([[outreach-batch-13]]) — čaká na Send |
+| Robel | email | pätička © 2015 ✅4.8. | — | — | — | **draft pripravený** ([[outreach-batch-13]]) — čaká na Send |
+| DATES MOBILE | email | pätička © 2015 ✅4.8. | — | — | — | **draft pripravený** ([[outreach-batch-13]]) — čaká na Send |
+| Reconvel | email | pätička © 2017, súbežne €/Kč ✅4.8. | — | — | — | **draft pripravený** ([[outreach-batch-13]]) — čaká na Send |
+| Alice & Alice | email | pätička © 2017 ✅4.8. | — | — | — | **draft pripravený** ([[outreach-batch-13]]) — čaká na Send |
+| JohnGarfield.sk | email | pätička © 2018 ✅4.8. | — | — | — | **draft pripravený** ([[outreach-batch-13]]) — čaká na Send |
+| PROFIO Electronics | email | pätička © 2015–2018 ✅4.8. | — | — | — | **draft pripravený** ([[outreach-batch-13]]) — čaká na Send |
+| Moe4Kids | email | pätička © 2019, konkrétne značky ✅4.8. | — | — | — | **draft pripravený** ([[outreach-batch-13]]) — čaká na Send |
+| ZUPPA | — | ⚠️ hook mŕtvy 4.8. — presuli sa na zuppa.sk (funkčná doména, nie CREATIVE shop) | — | — | — | **vyradené** z [[outreach-batch-13]] |
+| Facederma | email | 109 `<script>` tagov na homepage ✅5.8. (re-overené v deň odoslania) | 2026-08-05 | — | — | **oslovený** — Gmail draft, čaká na Send ([[outreach-batch-14]]) — ICP v2 |
+| Panakeia | email | 93 `<script>` tagov ✅5.8. (re-overené v deň odoslania) | 2026-08-05 | — | — | **oslovený** — Gmail draft, čaká na Send ([[outreach-batch-14]]) — ICP v2 |
+| Zlaté Zrnko | email | 138 `<script>` tagov, najvyšší v dávke ✅5.8. (re-overené v deň odoslania) | 2026-08-05 | — | — | **oslovený** — Gmail draft, čaká na Send ([[outreach-batch-14]]) — ICP v2 |
+| Androrganics | email | dve nezávislé domény .eu(€)/.cz(Kč), vlastný kód ✅5.8. (re-overené v deň odoslania) | 2026-08-05 | — | — | **oslovený** — Gmail draft, čaká na Send ([[outreach-batch-14]]) — ICP v2 |
+| Flow nutrition | email | 107 `<script>` tagov ✅5.8., ⚠️ recency IG neistá | 2026-08-05 | — | — | **oslovený** — Gmail draft, čaká na Send ([[outreach-batch-14]]) — ICP v2 |
+| Medisin | — | web konzistentne 2,25–2,63s (4× meranie) ✅5.8. — pain potvrdený | — | — | — | **zamietnutý** — 467 IG followerov, pod ICP v2 prahom 5K bez iného dôkazu dopytu |
+| Bloom Robbins | email | tri nezávislé domény .sk/.cz/.com ✅5.8., re-over. 10.8. | 2026-08-10 | — | — | **oslovený** ([[outreach-batch-15]]) — Gmail draft čaká na Send |
+| Doktorka Sandra | email | web konzistentne 3,1–6,4s, re-over. 10.8. medián 2,5s | 2026-08-10 | — | — | **oslovený** ([[outreach-batch-15]]) — Gmail draft čaká na Send |
+| InaEssentials.SK | IG DM | 95 `<script>` tagov ✅5.8. | 2026-08-10 | — | **2026-08-10** — auto-bot odpoveď do 1 min (nepočíta sa ako kvalifikovaná reakcia) | **oslovený, doručené** ([[outreach-batch-15]]) |
+| StretchFit Slovensko | email | 88 scriptov, druhá nezávislá doména .cz ✅5.8., ⚠️ IG mlčí 17 mesiacov | 2026-08-10 | — | — | **oslovený** ([[outreach-batch-15]]) — Gmail draft čaká na Send |
+| Tomas Arsov | email | 82 `<script>` tagov ✅5.8. | 2026-08-10 | — | — | **oslovený** ([[outreach-batch-15]]) — Gmail draft čaká na Send |
+| Vera Italy | email | ~1896 duplicitných `<script>` blokov, duálna .sk/.cz doména ✅10.8. | 2026-08-10 | — | — | **oslovený** ([[outreach-batch-16]]) — Gmail draft čaká na Send |
+| Agátin svet | email | ~3s odozva (2 nezávislé merania) ✅10.8. | 2026-08-10 | — | — | **oslovený** ([[outreach-batch-16]]) — Gmail draft čaká na Send |
+| Gardj | email | 94 scriptov ✅10.8. (rýchlostný hook nesedel pri re-meraní, prerámované na scripty) | 2026-08-10 | — | — | **oslovený** ([[outreach-batch-16]]) — Gmail draft čaká na Send |
+| Šperky od Petry | email | 82 scriptov ✅10.8. | 2026-08-10 | — | — | **oslovený** ([[outreach-batch-16]]) — Gmail draft čaká na Send |
+| Alori.cz | — | ⚠️ hook mŕtvy — pôvodne 1,74s, re-meranie 10.8. medián 0,81s (4×), 23 scriptov (pod prahom) | — | — | — | **hook mŕtvy, dátum 10.8.2026** ([[outreach-batch-16]]) — nevytiahnutý zo zoznamu, nie odoslaný |
+| Vitapur | IG DM | 149 scriptov ✅10.8. | 2026-08-10 | — | — | **oslovený, doručené** ([[outreach-batch-16]]) |
+| Amarost | email | ~4s odozva (2 nezávislé merania) ✅10.8. | 2026-08-10 | — | — | **oslovený** ([[outreach-batch-16]]) — Gmail draft čaká na Send |
+| Historické darčeky | email | 102 scriptov ✅10.8., ⚠️ IG mlčí 9 mesiacov | 2026-08-10 | — | — | **oslovený** ([[outreach-batch-16]]) — Gmail draft čaká na Send |
+| Muzza | email | 131 scriptov ✅10.8. | 2026-08-10 | — | — | **oslovený ⚠️** ([[outreach-batch-16]]) — Gmail draft čaká na Send, neistý vlastný produkt |
+| Profitent | email | 88 scriptov ✅10.8. | 2026-08-10 | — | — | **oslovený ⚠️** ([[outreach-batch-16]]) — Gmail draft čaká na Send, neistý vlastný produkt |
+| Fotodeky.cz | — | ⚠️ hook mŕtvy — pôvodne 1,86s, re-meranie 10.8. medián 1,36s (4×, pod prahom 1,5s), 5 scriptov, 0 organických postov | — | — | — | **hook mŕtvy, dátum 10.8.2026** ([[outreach-batch-16]]) — nevytiahnutý zo zoznamu, nie odoslaný |
+| KKTKY | email | 87 scriptov ✅10.8. | 2026-08-10 | — | — | **oslovený** ([[outreach-batch-16]]) — Gmail draft čaká na Send |
+| Roses Kingdom | IG DM + email | 1,60s medián (4×) + 110 scriptov ✅10.8. | 2026-08-10 | — | — | **oslovený, IG doručené** ([[outreach-batch-17]]) — najsilnejší hook dávky; email draft čaká na Send |
+| Purity Vision | email + IG DM | 91 scriptov ✅10.8. | 2026-08-10 | — | — | **oslovený, IG doručené** ([[outreach-batch-17]]) ⚠️ rodinná firma od 2008; email draft čaká na Send |
+| Worshipster | IG DM + email | 87 scriptov ✅10.8. | 2026-08-10 | — | — | **oslovený, IG doručené** ([[outreach-batch-17]]) — email draft čaká na Send |
+| Aura Decor | email + IG DM | 85 scriptov ✅10.8. | 2026-08-10 | — | — | **oslovený, IG doručené** ([[outreach-batch-17]]) ⚠️ len 50 IG followerov; email draft čaká na Send |
+| PsiBufet | email + IG DM | 121 scriptov ✅10.8. | 2026-08-10 | — | — | **odpovedal (email, bot)** ([[outreach-batch-17]]) — Intercom AI Agent "Fin", pýta sa na meracie zariadenie; naša reakcia odoslaná 10.8. (curl + HTML zdroják); IG bez odpovede |
+| Ariaz Baby | email | 83 scriptov ✅10.8. | 2026-08-10 | — | — | **oslovený** ([[outreach-batch-17]]) — email draft čaká na Send, žiadny IG |
+| Lady Bead Jewelry | IG DM | 92 scriptov ✅11.8. | 2026-08-11 | — | **2026-08-11** (do 5 min) — „mala som človeka ktorý mi stránku robil, tak túto informáciu rovno posuniem ďalej, ja sa do toho nevyznám" | **reagovala** — fáza 2 treba napísať ([[outreach-batch-18]]) |
+| AP Jewellery | IG DM | 71 scriptov ✅11.8. | 2026-08-11 | — | — | **oslovený, IG doručené** ([[outreach-batch-18]]) |
+| Janelit.sk | IG DM | 25 scriptov ✅11.8. | 2026-08-11 | — | — | **oslovený, IG doručené** ([[outreach-batch-18]]) |
 
 ### Cart Leads databáza (38 leadov, US/EN trh)
 
@@ -180,7 +224,7 @@ Definície sa presunuli na vlastné stránky (21.7.), aby sa dali porovnávať a
 | ICP | Kto | Dávky | Stránka |
 |---|---|---|---|
 | **v1** | handmade makeri s rozbitým kanálom (US/UK/CA) | 1–8 | [[icp-handmade-makers]] |
-| **v2** | mladé DTC značky SK/CZ s funkčným, ale brzdiacim Shopify | 9 | [[icp-dtc-znacky-sk-cz]] |
+| **v2** | mladé DTC značky SK/CZ s funkčným, ale brzdiacim Shopify | 9, 14, 15, 16, 17 | [[icp-dtc-znacky-sk-cz]] |
 | **v3** | etablované SK firmy so zastaraným webom (redesign, email) | 10, 11 | [[icp-zastarane-sk-eshopy]] |
 
 ## Poznatky
